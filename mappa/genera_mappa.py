@@ -1,5 +1,7 @@
 """Genera il JSON dei ristoranti per la mappa auto-aggiornante.
 
+v5: aggiunto campo Telefono (auto-detect dall'header riga 7, default col 9).
+
 v4: auto-detect di TUTTE le colonne tramite header (riga 7).
 Diventa robusto a inserimenti/spostamenti di colonne nel xlsx.
 
@@ -9,6 +11,7 @@ Colonne riconosciute (header in riga 7, match case-insensitive):
   - "Indirizzo"  (default col 6)
   - "Zona"       (default col 7)
   - "Città"/"Citta" (default col 8)
+  - "Telefono"   (default col 9)
   - "Recensore"  (default col 14)
   - "GPS"/"Coord*" (opzionale, override geocoding manuale)
 
@@ -32,11 +35,11 @@ CATEGORIES = {
     'plurimo':         {'label': 'Indirizzo plurimo','color': '#FB8C00'},
 }
 
-USER_AGENT = 'PNE-Mappa-Guida/4.0 (contatto: s.cargiani@lapecoranera.net)'
+USER_AGENT = 'PNE-Mappa-Guida/5.0 (contatto: s.cargiani@lapecoranera.net)'
 
 DEFAULT_COLS = {
     'nome': 4, 'tipologia': 5, 'indirizzo': 6, 'zona': 7,
-    'citta': 8, 'recensore': 14, 'gps': None,
+    'citta': 8, 'telefono': 9, 'recensore': 14, 'gps': None,
 }
 
 
@@ -72,9 +75,23 @@ def trova_colonne(ws):
         elif v == 'indirizzo':                cols['indirizzo'] = col
         elif v == 'zona':                     cols['zona'] = col
         elif v in ('citta', 'città'):         cols['citta'] = col
+        elif v in ('telefono', 'tel', 'tel.'): cols['telefono'] = col
         elif v == 'recensore':                cols['recensore'] = col
         elif 'gps' in v or 'coord' in v:      cols['gps'] = col
     return cols
+
+
+def _fmt_telefono(val):
+    """Converte il valore della cella telefono in stringa pulita.
+    Gestisce numeri salvati come int/float dall'xlsx senza notazione esponenziale."""
+    if val is None:
+        return ''
+    if isinstance(val, float):
+        # numero senza decimali -> intero
+        if val.is_integer():
+            return str(int(val))
+        return repr(val)
+    return str(val).strip()
 
 
 def estrai_ristoranti(xlsx_path):
@@ -93,6 +110,7 @@ def estrai_ristoranti(xlsx_path):
             'indirizzo': str(ws.cell(row=r, column=cols['indirizzo']).value or '').strip(),
             'zona':      str(ws.cell(row=r, column=cols['zona']).value or '').strip(),
             'citta':     str(ws.cell(row=r, column=cols['citta']).value or '').strip(),
+            'telefono':  _fmt_telefono(ws.cell(row=r, column=cols['telefono']).value),
             'recensore': str(ws.cell(row=r, column=cols['recensore']).value or '').strip(),
             'categoria': categorize(nome_cell.fill),
         }
@@ -302,6 +320,7 @@ def scrivi_json(ristoranti, out_path, source_file, citta_default, regione, falli
             'precisi':         sum(1 for r in valid if not r.get('approssimato') and not r.get('manuale')),
             'falliti':         len(falliti),
             'con_recensore':   sum(1 for r in ristoranti if r['recensore']),
+            'con_telefono':    sum(1 for r in valid if r.get('telefono')),
             'colonne_rilevate': cols,
         },
     }
@@ -331,6 +350,8 @@ def main():
     if cols['gps']:
         n_gps = sum(1 for r in ristoranti if r.get('coord_gps'))
         print(f"  -> colonna GPS attiva (col {cols['gps']}): {n_gps} ristoranti con coord manuali")
+    n_tel = sum(1 for r in ristoranti if r.get('telefono'))
+    print(f"  -> colonna Telefono (col {cols['telefono']}): {n_tel} ristoranti con telefono")
 
     print(f"Geocoding (cache: {args.cache.name})...")
     n_cache, n_new, n_manual, falliti = geocodifica_tutti(
