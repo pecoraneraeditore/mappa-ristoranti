@@ -30,10 +30,22 @@
   header h1 a:hover { color: #fff; }
   header .meta { font-size: 11px; opacity: 0.65; }
 
-  .legend {
-    display: flex; gap: 8px; flex-wrap: wrap; margin-left: auto;
-    font-size: 12px;
+  .controls { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  #search {
+    background: #1f1f1f; color: #fff; border: 1px solid #333;
+    padding: 6px 12px; border-radius: 14px; font-size: 13px;
+    width: 220px; outline: none;
   }
+  #search:focus { border-color: #888; }
+  #search::placeholder { color: #888; }
+  .view-btn {
+    background: #1f1f1f; color: #fff; border: 1px solid #333;
+    padding: 6px 14px; border-radius: 14px; font-size: 13px;
+    cursor: pointer; font-weight: 600; min-width: 70px;
+  }
+  .view-btn:hover { background: #2a2a2a; }
+
+  .legend { display: flex; gap: 8px; flex-wrap: wrap; margin-left: auto; font-size: 12px; }
   .legend label {
     display: inline-flex; align-items: center; gap: 6px; cursor: pointer;
     user-select: none; padding: 3px 8px; border-radius: 12px; background: #1f1f1f;
@@ -44,8 +56,54 @@
     width: 12px; height: 12px; border-radius: 50%;
     border: 1.5px solid rgba(255,255,255,0.6);
   }
-  #map { width: 100%; height: 100%; background: #f5f5f5; }
 
+  #content { position: relative; overflow: hidden; }
+  .view { width: 100%; height: 100%; }
+  .view.hidden { display: none; }
+  #map { background: #f5f5f5; }
+
+  /* --- Vista Lista --- */
+  #list { display: flex; flex-direction: column; background: #fafafa; }
+  .list-toolbar {
+    background: #fff; padding: 10px 16px;
+    display: flex; gap: 10px; align-items: center; flex-wrap: wrap;
+    border-bottom: 1px solid #e0e0e0; font-size: 13px;
+  }
+  .sort-btn {
+    background: #f0f0f0; border: 1px solid #ddd; padding: 6px 14px;
+    border-radius: 14px; cursor: pointer; font-size: 13px; font-weight: 600;
+    color: #333;
+  }
+  .sort-btn:hover:not(:disabled) { background: #e8e8e8; }
+  .sort-btn.active { background: #222; color: #fff; border-color: #222; }
+  .sort-btn:disabled { opacity: 0.45; cursor: not-allowed; }
+  .list-count { margin-left: auto; color: #666; font-size: 12px; }
+
+  #list-rows { flex: 1; overflow-y: auto; padding: 8px; }
+  .row {
+    padding: 10px 14px; margin-bottom: 6px; border-radius: 6px;
+    border: 1px solid rgba(0,0,0,0.12); cursor: pointer;
+    transition: transform .1s, box-shadow .1s;
+  }
+  .row:hover { transform: translateY(-1px); box-shadow: 0 2px 8px rgba(0,0,0,0.18); }
+  .row .nome { font-weight: 700; font-size: 15px; }
+  .row .meta-line { font-size: 12px; margin-top: 4px; line-height: 1.4; }
+  .row .meta-line .sep { opacity: 0.5; margin: 0 6px; }
+  .row .recensore-line { font-size: 11px; margin-top: 4px; font-style: italic; opacity: 0.9; }
+  .row .dist {
+    float: right; font-size: 11px; font-weight: 700; padding: 2px 8px;
+    border-radius: 10px; margin-left: 8px;
+  }
+  .row.dark { color: #fff; }
+  .row.dark .dist { background: rgba(255,255,255,0.28); }
+  .row.light { color: #1a1a1a; }
+  .row.light .dist { background: rgba(0,0,0,0.14); }
+  .row.empty {
+    background: #fff; color: #888; text-align: center; padding: 30px;
+    font-style: italic;
+  }
+
+  /* --- Pin & geoloc (invariati) --- */
   .pn-pin {
     width: 22px; height: 22px; border-radius: 50% 50% 50% 0;
     transform: rotate(-45deg); border: 2px solid #222;
@@ -62,10 +120,8 @@
   .me-dot {
     width: 16px; height: 16px; border-radius: 50%;
     background: #1976D2; border: 3px solid #fff;
-    box-shadow: 0 0 0 2px rgba(25, 118, 210, 0.4),
-                0 2px 6px rgba(0, 0, 0, 0.4);
+    box-shadow: 0 0 0 2px rgba(25, 118, 210, 0.4), 0 2px 6px rgba(0, 0, 0, 0.4);
   }
-
   .me-btn {
     background: #fff; border: 2px solid rgba(0,0,0,0.2); border-radius: 4px;
     width: 34px; height: 34px; cursor: pointer; font-size: 18px;
@@ -86,8 +142,10 @@
   }
   .pn-popup .field { margin: 2px 0; color: #444; }
   .pn-popup .field strong { color: #222; font-weight: 600; }
-  .pn-popup .stato { margin-top: 6px; font-size: 11px; text-transform: uppercase;
-    letter-spacing: 0.5px; font-weight: 700; }
+  .pn-popup .stato {
+    margin-top: 6px; font-size: 11px; text-transform: uppercase;
+    letter-spacing: 0.5px; font-weight: 700;
+  }
   .pn-popup .warn-approx {
     margin-top: 8px; padding: 4px 8px;
     background: #FFF3CD; color: #856404; font-size: 11px;
@@ -113,9 +171,23 @@
         <span class="meta" id="meta">Caricamento…</span>
       </div>
     </div>
+    <div class="controls">
+      <input id="search" type="search" placeholder="Cerca ristorante…" autocomplete="off">
+      <button id="view-toggle" class="view-btn">Lista</button>
+    </div>
     <div class="legend" id="legend"></div>
   </header>
-  <div id="map"></div>
+  <div id="content">
+    <div id="map" class="view"></div>
+    <div id="list" class="view hidden">
+      <div class="list-toolbar">
+        <button id="sort-az" class="sort-btn active">A/Z</button>
+        <button id="sort-near" class="sort-btn" disabled title="Attiva la geolocalizzazione">Vicino a me</button>
+        <span class="list-count" id="list-count"></span>
+      </div>
+      <div id="list-rows"></div>
+    </div>
+  </div>
 </div>
 <div id="error"></div>
 
@@ -176,6 +248,9 @@
   metaText += ` · aggiornata il ${d.toLocaleString('it-IT', {dateStyle:'medium', timeStyle:'short'})}`;
   document.getElementById('meta').textContent = metaText;
 
+  // Indicizza i ristoranti per riferimenti rapidi tra lista e mappa
+  payload.restaurants.forEach((r, i) => { r._idx = i; });
+
   const visibleCats = new Set(Object.keys(payload.categories));
   const legend = document.getElementById('legend');
   Object.entries(payload.categories).forEach(([key, cat]) => {
@@ -188,12 +263,12 @@
     lbl.querySelector('input').addEventListener('change', (ev) => {
       if (ev.target.checked) { visibleCats.add(key); lbl.classList.remove('off'); }
       else { visibleCats.delete(key); lbl.classList.add('off'); }
-      refreshMarkers();
+      refreshAll();
     });
     legend.appendChild(lbl);
   });
 
-  // Layer group SENZA cluster: ogni pin sempre visibile, anche se molto vicini
+  // Layer group SENZA cluster
   const layerGroup = L.layerGroup().addTo(map);
 
   function makeIcon(color, approx) {
@@ -216,6 +291,7 @@
     if (r.indirizzo) html += `<div class="field"><strong>Indirizzo:</strong> ${escapeHtml(r.indirizzo)}</div>`;
     if (r.zona)      html += `<div class="field"><strong>Zona:</strong> ${escapeHtml(r.zona)}</div>`;
     if (r.citta)     html += `<div class="field"><strong>Città:</strong> ${escapeHtml(r.citta)}</div>`;
+    if (r.telefono)  html += `<div class="field"><strong>Telefono:</strong> ${escapeHtml(r.telefono)}</div>`;
     html += `<div class="stato">${escapeHtml(cat.label)}</div>`;
     if (r.approssimato) {
       html += `<div class="warn-approx">⚠ Posizione approssimata (livello città). Verifica l'indirizzo nel file guida.</div>`;
@@ -231,17 +307,163 @@
     });
     m.bindPopup(makePopup(r, cat));
     m._cat = r.categoria;
+    m._nome = (r.nome || '').toLowerCase();
+    m._idx = r._idx;
     return m;
   });
-  function refreshMarkers() {
-    layerGroup.clearLayers();
-    allMarkers.filter(m => visibleCats.has(m._cat)).forEach(m => layerGroup.addLayer(m));
-  }
-  refreshMarkers();
   if (allMarkers.length) {
     const group = L.featureGroup(allMarkers);
     map.fitBounds(group.getBounds().pad(0.05));
   }
+
+  // ─── Stato vista / filtro / ordinamento ────────────────────────────────
+  let searchQ = '';
+  let currentView = 'map';        // 'map' | 'list'
+  let sortMode = 'az';            // 'az' | 'near'
+  let userPickedSort = false;     // true dopo click esplicito sui pulsanti
+  let myPos = null;               // {lat, lon} dopo geolocalizzazione
+
+  function passesFilter(r) {
+    if (!visibleCats.has(r.categoria)) return false;
+    if (searchQ && !(r.nome || '').toLowerCase().includes(searchQ)) return false;
+    return true;
+  }
+
+  function refreshMap() {
+    layerGroup.clearLayers();
+    allMarkers
+      .filter(m => visibleCats.has(m._cat) && (!searchQ || m._nome.includes(searchQ)))
+      .forEach(m => layerGroup.addLayer(m));
+  }
+
+  // Distanza Haversine in metri
+  function distM(a, b) {
+    const R = 6371000;
+    const toRad = x => x * Math.PI / 180;
+    const dLat = toRad(b.lat - a.lat);
+    const dLon = toRad(b.lon - a.lon);
+    const lat1 = toRad(a.lat), lat2 = toRad(b.lat);
+    const h = Math.sin(dLat/2)**2 + Math.cos(lat1)*Math.cos(lat2)*Math.sin(dLon/2)**2;
+    return 2 * R * Math.asin(Math.sqrt(h));
+  }
+  function fmtDist(m) {
+    if (m < 1000) return Math.round(m) + ' m';
+    return (m/1000).toFixed(m < 10000 ? 1 : 0) + ' km';
+  }
+  function luminance(hex) {
+    const h = hex.replace('#','');
+    const r = parseInt(h.substring(0,2),16)/255;
+    const g = parseInt(h.substring(2,4),16)/255;
+    const b = parseInt(h.substring(4,6),16)/255;
+    const lin = v => v <= 0.03928 ? v/12.92 : Math.pow((v+0.055)/1.055, 2.4);
+    return 0.2126*lin(r) + 0.7152*lin(g) + 0.0722*lin(b);
+  }
+
+  function renderList() {
+    const container = document.getElementById('list-rows');
+    container.innerHTML = '';
+    let items = payload.restaurants.filter(passesFilter);
+    if (sortMode === 'near' && myPos) {
+      items.forEach(r => r._d = distM(myPos, r));
+      items.sort((a,b) => a._d - b._d);
+    } else {
+      items.sort((a,b) => (a.nome||'').localeCompare(b.nome||'', 'it', {sensitivity:'base'}));
+    }
+    document.getElementById('list-count').textContent =
+      items.length === 1 ? '1 ristorante' : `${items.length} ristoranti`;
+    if (items.length === 0) {
+      const div = document.createElement('div');
+      div.className = 'row empty';
+      div.textContent = 'Nessun risultato.';
+      container.appendChild(div);
+      return;
+    }
+    const frag = document.createDocumentFragment();
+    items.forEach(r => {
+      const cat = payload.categories[r.categoria] || {label: r.categoria, color: '#888'};
+      const dark = luminance(cat.color) < 0.5;
+      const div = document.createElement('div');
+      div.className = 'row ' + (dark ? 'dark' : 'light');
+      div.style.background = cat.color;
+      let html = '';
+      if (sortMode === 'near' && myPos && r._d != null) {
+        html += `<span class="dist">${fmtDist(r._d)}</span>`;
+      }
+      html += `<div class="nome">${escapeHtml(r.nome)}</div>`;
+      const meta = [];
+      if (r.tipologia) meta.push(escapeHtml(r.tipologia));
+      if (r.indirizzo) meta.push(escapeHtml(r.indirizzo));
+      if (r.citta)     meta.push(escapeHtml(r.citta));
+      if (r.telefono)  meta.push('☎ ' + escapeHtml(r.telefono));
+      if (meta.length) html += `<div class="meta-line">${meta.join('<span class="sep">·</span>')}</div>`;
+      if (r.recensore) html += `<div class="recensore-line">Recensore: ${escapeHtml(r.recensore)}</div>`;
+      div.innerHTML = html;
+      div.addEventListener('click', () => {
+        setView('map');
+        setTimeout(() => {
+          map.setView([r.lat, r.lon], 16);
+          const mk = allMarkers[r._idx];
+          if (mk) {
+            if (!layerGroup.hasLayer(mk)) layerGroup.addLayer(mk);
+            mk.openPopup();
+          }
+        }, 120);
+      });
+      frag.appendChild(div);
+    });
+    container.appendChild(frag);
+  }
+
+  function refreshAll() {
+    refreshMap();
+    if (currentView === 'list') renderList();
+  }
+
+  function setView(v) {
+    currentView = v;
+    document.getElementById('map').classList.toggle('hidden', v !== 'map');
+    document.getElementById('list').classList.toggle('hidden', v !== 'list');
+    document.getElementById('view-toggle').textContent = (v === 'map') ? 'Lista' : 'Mappa';
+    if (v === 'map') {
+      setTimeout(() => map.invalidateSize(), 50);
+    } else {
+      // Default sort proximity se geolocalizzato e l'utente non ha scelto esplicitamente
+      if (!userPickedSort && myPos) {
+        sortMode = 'near';
+        document.getElementById('sort-near').classList.add('active');
+        document.getElementById('sort-az').classList.remove('active');
+      }
+      renderList();
+    }
+  }
+
+  // ─── Bottoni ───────────────────────────────────────────────────────────
+  document.getElementById('view-toggle').addEventListener('click', () => {
+    setView(currentView === 'map' ? 'list' : 'map');
+  });
+  document.getElementById('sort-az').addEventListener('click', () => {
+    sortMode = 'az';
+    userPickedSort = true;
+    document.getElementById('sort-az').classList.add('active');
+    document.getElementById('sort-near').classList.remove('active');
+    renderList();
+  });
+  document.getElementById('sort-near').addEventListener('click', () => {
+    if (!myPos) return;
+    sortMode = 'near';
+    userPickedSort = true;
+    document.getElementById('sort-near').classList.add('active');
+    document.getElementById('sort-az').classList.remove('active');
+    renderList();
+  });
+
+  const searchEl = document.getElementById('search');
+  searchEl.addEventListener('input', () => {
+    searchQ = searchEl.value.trim().toLowerCase();
+    refreshAll();
+  });
+
+  refreshMap();
 
   // ─── Geolocalizzazione utente ──────────────────────────────────────────
   let meMarker = null, meCircle = null;
@@ -275,6 +497,21 @@
       fillColor: '#1976D2', fillOpacity: 0.1, interactive: false,
     }).addTo(map);
     meCtrl.enable();
+    const firstFix = !myPos;
+    myPos = { lat, lon };
+    const nearBtn = document.getElementById('sort-near');
+    nearBtn.disabled = false;
+    nearBtn.title = 'Ordina per vicinanza a te';
+    // Al primo fix, se siamo già in vista lista e l'utente non ha ancora scelto
+    // un ordinamento esplicitamente, passa a "Vicino a me"
+    if (firstFix && !userPickedSort) {
+      sortMode = 'near';
+      nearBtn.classList.add('active');
+      document.getElementById('sort-az').classList.remove('active');
+      if (currentView === 'list') renderList();
+    } else if (sortMode === 'near' && currentView === 'list') {
+      renderList();  // aggiorna le distanze
+    }
   }
   if ('geolocation' in navigator) {
     navigator.geolocation.watchPosition(
