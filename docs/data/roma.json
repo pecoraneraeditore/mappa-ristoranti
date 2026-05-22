@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T06:39:52+00:00",
+  "generated_at": "2026-05-22T07:23:21+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -2432,11 +2432,11 @@
       "telefono": "06/4466573",
       "recensore": "Fabrizio Sbicca",
       "categoria": "da_finire",
-      "lat": 41.4976365,
-      "lon": 12.6319101,
+      "lat": 41.8956791569936,
+      "lon": 12.501959002216351,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-05-18"
+      "manuale": true,
+      "geocoded_at": "2026-05-22"
     },
     {
       "nome": "Vineria Cesare dal 1963",
@@ -6842,11 +6842,11 @@
       "telefono": "06/45666656",
       "recensore": "bloccato per Fabrizio Sbicca",
       "categoria": "riservato",
-      "lat": 41.674416,
-      "lon": 12.6975314,
+      "lat": 41.89679564973395,
+      "lon": 12.499504573152592,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-05-18"
+      "manuale": true,
+      "geocoded_at": "2026-05-22"
     },
     {
       "nome": "Trapizzino",
@@ -6943,9 +6943,9 @@
   "stats": {
     "totale_letti": 460,
     "con_coordinate": 460,
-    "manuali": 40,
+    "manuali": 42,
     "approssimati": 0,
-    "precisi": 420,
+    "precisi": 418,
     "falliti": 0,
     "con_recensore": 361,
     "con_telefono": 458,
