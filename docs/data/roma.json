@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T05:06:49+00:00",
+  "generated_at": "2026-05-24T12:27:30+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -1357,6 +1357,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-18"
+    },
+    {
+      "nome": "Chinappi dal Presidente",
+      "tipologia": "principalmente pesce / pizzeria",
+      "indirizzo": "Via Anfiteatro, 8",
+      "zona": "",
+      "citta": "Formia",
+      "telefono": "348/8378513",
+      "recensore": "Simone Cargiani",
+      "categoria": "fatto",
+      "lat": 41.257529410024596,
+      "lon": 13.607647265635304,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-05-24"
     },
     {
       "nome": "Contrada Rapello",
@@ -6941,14 +6956,14 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 460,
-    "con_coordinate": 460,
-    "manuali": 42,
+    "totale_letti": 461,
+    "con_coordinate": 461,
+    "manuali": 43,
     "approssimati": 0,
     "precisi": 418,
     "falliti": 0,
-    "con_recensore": 361,
-    "con_telefono": 458,
+    "con_recensore": 362,
+    "con_telefono": 459,
     "colonne_rilevate": {
       "nome": 4,
       "tipologia": 5,
