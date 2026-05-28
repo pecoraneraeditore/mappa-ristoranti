@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T08:13:13+00:00",
+  "generated_at": "2026-05-28T08:42:14+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -2752,6 +2752,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-18"
+    },
+    {
+      "nome": "Osteria al Forno di Agnese",
+      "tipologia": "tipica",
+      "indirizzo": "Via S. Maria del Cassero",
+      "zona": "",
+      "citta": "Civita di Bagnoregio",
+      "telefono": "0761/792571",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 42.62801832889736,
+      "lon": 12.113497979928281,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-05-28"
     },
     {
       "nome": "Osteria Bonelli",
@@ -6174,6 +6189,21 @@
       "geocoded_at": "2026-05-18"
     },
     {
+      "nome": "Gelateria Numa",
+      "tipologia": "gelateria",
+      "indirizzo": "Via Franco Sacchetti, 105",
+      "zona": "Montesacro",
+      "citta": "Roma",
+      "telefono": "352/0104703",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 41.94700822535606,
+      "lon": 12.54287904662492,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-05-28"
+    },
+    {
       "nome": "Gelato d'Essai",
       "tipologia": "gelateria",
       "indirizzo": "Viale Battista Bardanzellu, 77",
@@ -6654,21 +6684,6 @@
       "geocoded_at": "2026-05-18"
     },
     {
-      "nome": "Retrò",
-      "tipologia": "gelateria",
-      "indirizzo": "Via Baldo degli Ubaldi, 118",
-      "zona": "Piazza Irnerio",
-      "citta": "Roma",
-      "telefono": "06/6636288",
-      "recensore": "bloccato per Anca Enache",
-      "categoria": "riservato",
-      "lat": 41.9007916,
-      "lon": 12.438082,
-      "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-05-18"
-    },
-    {
       "nome": "Ruver - teglia frazionata",
       "tipologia": "pizzeria al taglio",
       "indirizzo": "Viale Aventino, 46",
@@ -6956,14 +6971,14 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 461,
-    "con_coordinate": 461,
-    "manuali": 43,
+    "totale_letti": 462,
+    "con_coordinate": 462,
+    "manuali": 45,
     "approssimati": 0,
-    "precisi": 418,
+    "precisi": 417,
     "falliti": 0,
-    "con_recensore": 362,
-    "con_telefono": 459,
+    "con_recensore": 361,
+    "con_telefono": 460,
     "colonne_rilevate": {
       "nome": 4,
       "tipologia": 5,
