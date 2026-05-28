@@ -3049,6 +3049,12 @@
     "lat": 41.7715325,
     "lon": 12.2216435
   },
+  "margherì|corso guglielmo marconi, 23|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-05-28",
+    "lat": 45.0557192,
+    "lon": 7.6820412
+  },
   "margherì|via sant'ottavio, 51/c|torino": {
     "approssimato": false,
     "geocoded_at": "2026-05-19",

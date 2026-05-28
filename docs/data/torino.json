@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T11:07:20+00:00",
+  "generated_at": "2026-05-28T14:42:34+00:00",
   "source_file": "Torino_2027.xlsx",
   "citta_default": "Torino",
   "regione": "Piemonte",
@@ -1884,6 +1884,21 @@
       "geocoded_at": "2026-05-19"
     },
     {
+      "nome": "Piattini - Caffè e Vini",
+      "tipologia": "caffetteria / wine bar",
+      "indirizzo": "Via Corte d'Appello, 9/A",
+      "zona": "Quadrilatero Romano",
+      "citta": "Torino",
+      "telefono": "331/3843390",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
+      "lat": 45.0740646,
+      "lon": 7.6796762,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-05-19"
+    },
+    {
       "nome": "Smith's British",
       "tipologia": "pub inglese",
       "indirizzo": "Via Virle, 19",
@@ -2134,21 +2149,6 @@
       "categoria": "riservato",
       "lat": 45.0633487,
       "lon": 7.6928035,
-      "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-05-19"
-    },
-    {
-      "nome": "Piattini - Caffè e Vini",
-      "tipologia": "caffetteria / wine bar",
-      "indirizzo": "Via Corte d'Appello, 9/A",
-      "zona": "Quadrilatero Romano",
-      "citta": "Torino",
-      "telefono": "331/3843390",
-      "recensore": "Fernanda D'Arienzo",
-      "categoria": "fatto",
-      "lat": 45.0740646,
-      "lon": 7.6796762,
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-19"
@@ -2874,6 +2874,21 @@
       "geocoded_at": "2026-05-19"
     },
     {
+      "nome": "Margherì",
+      "tipologia": "pizzeria al taglio",
+      "indirizzo": "Corso Guglielmo Marconi, 23",
+      "zona": "San Salvario",
+      "citta": "Torino",
+      "telefono": "011/19502617",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
+      "lat": 45.0557192,
+      "lon": 7.6820412,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-05-28"
+    },
+    {
       "nome": "Marilù fa il gelato",
       "tipologia": "gelateria",
       "indirizzo": "Via Nizza, 92",
@@ -3191,14 +3206,14 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 210,
-    "con_coordinate": 210,
+    "totale_letti": 211,
+    "con_coordinate": 211,
     "manuali": 6,
     "approssimati": 0,
-    "precisi": 204,
+    "precisi": 205,
     "falliti": 0,
-    "con_recensore": 126,
-    "con_telefono": 210,
+    "con_recensore": 127,
+    "con_telefono": 211,
     "colonne_rilevate": {
       "nome": 4,
       "tipologia": 5,
