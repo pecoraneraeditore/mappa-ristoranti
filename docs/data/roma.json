@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T05:17:34+00:00",
+  "generated_at": "2026-05-29T09:52:22+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -1155,8 +1155,8 @@
       "zona": "Corso Francia",
       "citta": "Roma",
       "telefono": "06/3292209",
-      "recensore": "",
-      "categoria": "per_editori",
+      "recensore": "Simone Cargiani",
+      "categoria": "fatto",
       "lat": 41.9494486,
       "lon": 12.4697967,
       "approssimato": false,
@@ -6977,7 +6977,7 @@
     "approssimati": 0,
     "precisi": 417,
     "falliti": 0,
-    "con_recensore": 361,
+    "con_recensore": 362,
     "con_telefono": 460,
     "colonne_rilevate": {
       "nome": 4,
