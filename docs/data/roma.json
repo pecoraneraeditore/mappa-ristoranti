@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T08:08:37+00:00",
+  "generated_at": "2026-05-30T14:23:39+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -1269,6 +1269,21 @@
       "geocoded_at": "2026-05-18"
     },
     {
+      "nome": "Bacchettone e Zazzà",
+      "tipologia": "principalmente carne",
+      "indirizzo": "Via delle Terme, 77",
+      "zona": "",
+      "citta": "Castelforte",
+      "telefono": "0771/607015",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 41.28954879741742,
+      "lon": 13.83952498668336,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-05-30"
+    },
+    {
       "nome": "Borgo San Giorgio",
       "tipologia": "principalmente pesce",
       "indirizzo": "Via dei Pastori, 30",
@@ -1689,6 +1704,21 @@
       "geocoded_at": "2026-05-18"
     },
     {
+      "nome": "La Locanda del Ditirambo",
+      "tipologia": "tradizionale",
+      "indirizzo": "Via dell'Orologio, 11/A",
+      "zona": "",
+      "citta": "Castro dei Volsci",
+      "telefono": "0775/662091",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 41.50866221112778,
+      "lon": 13.40640249472946,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-05-30"
+    },
+    {
       "nome": "La Locanda della Chiocciola",
       "tipologia": "tradizionale",
       "indirizzo": "Località Seripola, snc",
@@ -1762,6 +1792,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-18"
+    },
+    {
+      "nome": "Leon d'Oro",
+      "tipologia": "tradizionale",
+      "indirizzo": "Corso San Giuseppe da Leonessa, 120",
+      "zona": "",
+      "citta": "Leonessa",
+      "telefono": "0746/923320",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 42.56262903667231,
+      "lon": 12.963527058287966,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-05-30"
     },
     {
       "nome": "Li Somari",
@@ -2010,8 +2055,8 @@
       "zona": "Ex Fiera",
       "citta": "Roma",
       "telefono": "06/59600651",
-      "recensore": "bloccato per Matteo Damiani",
-      "categoria": "riservato",
+      "recensore": "Matteo Damiani",
+      "categoria": "fatto",
       "lat": 41.8495679,
       "lon": 12.4884847,
       "approssimato": false,
@@ -2092,6 +2137,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-18"
+    },
+    {
+      "nome": "Orsola",
+      "tipologia": "tradizionale",
+      "indirizzo": "Piazza della Repubblica, 4",
+      "zona": "",
+      "citta": "Allumiere",
+      "telefono": "0766/96070",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 42.15604104501563,
+      "lon": 11.902343389858135,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-05-30"
     },
     {
       "nome": "Osteria “Il Bersagliere”",
@@ -2214,6 +2274,21 @@
       "geocoded_at": "2026-05-18"
     },
     {
+      "nome": "Parco delle Querce",
+      "tipologia": "tradizionale",
+      "indirizzo": "Km 15, SP13",
+      "zona": "",
+      "citta": "Valentano",
+      "telefono": "331/7702747",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 42.54204862838347,
+      "lon": 11.832933159518674,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-05-30"
+    },
+    {
       "nome": "Pastorie",
       "tipologia": "abruzzese",
       "indirizzo": "Via Pesaro, 40",
@@ -2227,6 +2302,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-18"
+    },
+    {
+      "nome": "Piazzetta del Sole",
+      "tipologia": "tradizionale",
+      "indirizzo": "Via XX Settembre, 129",
+      "zona": "",
+      "citta": "Farnese",
+      "telefono": "0761/458606",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 42.54891885981214,
+      "lon": 11.722242354291765,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-05-30"
     },
     {
       "nome": "Popina Trattoria",
@@ -2649,6 +2739,21 @@
       "geocoded_at": "2026-05-18"
     },
     {
+      "nome": "Il Filo Rosso di Coralli",
+      "tipologia": "tipica",
+      "indirizzo": "Via Costa Del Sole, snc",
+      "zona": "",
+      "citta": "Collebaccaro",
+      "telefono": "339/3998616",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 42.39219014190762,
+      "lon": 12.772112791252264,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-05-30"
+    },
+    {
       "nome": "Il Vecchio Mulino",
       "tipologia": "territoriale",
       "indirizzo": "Via G. Marconi, 25/A",
@@ -2677,6 +2782,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-18"
+    },
+    {
+      "nome": "La Bottega dell'Artista",
+      "tipologia": "tipica",
+      "indirizzo": "Via Alfredo Fusco, 96",
+      "zona": "",
+      "citta": "Castelforte",
+      "telefono": "340/2589224",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 41.2996898977659,
+      "lon": 13.823234188670561,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-05-30"
     },
     {
       "nome": "La Briciola di Adriana",
@@ -5289,21 +5409,6 @@
       "geocoded_at": "2026-05-18"
     },
     {
-      "nome": "IMHO",
-      "tipologia": "",
-      "indirizzo": "Via Renzo da Ceri, 6",
-      "zona": "Pigneto",
-      "citta": "Roma",
-      "telefono": "06/94410660",
-      "recensore": "Fernanda D'Arienzo",
-      "categoria": "fatto",
-      "lat": 41.89206094245367,
-      "lon": 12.5381366209542,
-      "approssimato": false,
-      "manuale": true,
-      "geocoded_at": "2026-05-30"
-    },
-    {
       "nome": "Ie Koji Sakaba",
       "tipologia": "giapponese",
       "indirizzo": "Via Emilio Faà di Bruno, 31",
@@ -5317,6 +5422,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-18"
+    },
+    {
+      "nome": "IMHO",
+      "tipologia": "",
+      "indirizzo": "Via Renzo da Ceri, 6",
+      "zona": "Pigneto",
+      "citta": "Roma",
+      "telefono": "06/94410660",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
+      "lat": 41.89206094245367,
+      "lon": 12.5381366209542,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-05-30"
     },
     {
       "nome": "Koû Koû",
@@ -6180,8 +6300,8 @@
       "zona": "Montesacro",
       "citta": "Roma",
       "telefono": "352/0104703",
-      "recensore": "",
-      "categoria": "da_fare",
+      "recensore": "Fabrizio Sbicca",
+      "categoria": "fatto",
       "lat": 41.94700822535606,
       "lon": 12.54287904662492,
       "approssimato": false,
@@ -6956,14 +7076,14 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 461,
-    "con_coordinate": 461,
-    "manuali": 45,
+    "totale_letti": 469,
+    "con_coordinate": 469,
+    "manuali": 53,
     "approssimati": 0,
     "precisi": 416,
     "falliti": 0,
-    "con_recensore": 361,
-    "con_telefono": 459,
+    "con_recensore": 362,
+    "con_telefono": 467,
     "colonne_rilevate": {
       "nome": 4,
       "tipologia": 5,
