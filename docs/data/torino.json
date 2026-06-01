@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T13:13:14+00:00",
+  "generated_at": "2026-06-01T15:01:32+00:00",
   "source_file": "Torino_2027.xlsx",
   "citta_default": "Torino",
   "regione": "Piemonte",
@@ -952,6 +952,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-19"
+    },
+    {
+      "nome": "L'Ostu del Feramiù",
+      "tipologia": "osteria",
+      "indirizzo": "Via Baretti, 20",
+      "zona": "San Salvario",
+      "citta": "Torino",
+      "telefono": "329/1751392",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 45.0573151,
+      "lon": 7.6817999,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-06-01"
     },
     {
       "nome": "L'Uliveto",
@@ -3206,14 +3221,14 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 211,
-    "con_coordinate": 211,
+    "totale_letti": 212,
+    "con_coordinate": 212,
     "manuali": 6,
     "approssimati": 0,
-    "precisi": 205,
+    "precisi": 206,
     "falliti": 0,
     "con_recensore": 127,
-    "con_telefono": 211,
+    "con_telefono": 212,
     "colonne_rilevate": {
       "nome": 4,
       "tipologia": 5,

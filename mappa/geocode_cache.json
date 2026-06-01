@@ -478,6 +478,12 @@
     "lat": 45.4809163,
     "lon": 9.2018167
   },
+  "barnum café|via del pellegrino, 63/65|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-06-01",
+    "lat": 41.8966843,
+    "lon": 12.4708372
+  },
   "barnum café|via del pellegrino, 87|roma": {
     "geocoded_at": "2026-05-18",
     "lat": 41.8970406,
@@ -1236,6 +1242,12 @@
     "lat": 41.3612998,
     "lon": 13.4235619
   },
+  "da franz|via ascanio sforza, 47|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-06-01",
+    "lat": 45.447108,
+    "lon": 9.1771134
+  },
   "da michele|via tiberio imperatore, 95/97|roma": {
     "geocoded_at": "2026-05-18",
     "lat": 41.8512046,
@@ -1586,6 +1598,12 @@
     "lat": 41.886502,
     "lon": 12.4691955
   },
+  "fatum|via andrea solari, 6|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-06-01",
+    "lat": 45.4561616,
+    "lon": 9.1649546
+  },
   "fax factory|via antonio raimondi, 87|roma": {
     "geocoded_at": "2026-05-18",
     "lat": 41.8911972,
@@ -1690,6 +1708,12 @@
     "geocoded_at": "2026-05-18",
     "lat": 41.880186,
     "lon": 12.4760701
+  },
+  "futura|via pietro borsieri, 28|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-06-01",
+    "lat": 45.4888438,
+    "lon": 9.1892082
   },
   "fuzion food|via alessandro volta, 4/b|torino": {
     "approssimato": false,
@@ -2400,6 +2424,12 @@
     "geocoded_at": "2026-05-18",
     "lat": 42.4160906,
     "lon": 13.0790018
+  },
+  "l'ostu del feramiù|via baretti, 20|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-06-01",
+    "lat": 45.0573151,
+    "lon": 7.6817999
   },
   "l'uliveto|via saluzzo, 57/bis c|torino": {
     "approssimato": false,
@@ -3502,6 +3532,12 @@
     "lat": 45.068459,
     "lon": 7.6662057
   },
+  "origine|via corinto, 66|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-06-01",
+    "lat": 41.8537312,
+    "lon": 12.4753582
+  },
   "orma vini|via sant'ottavio, 52/d|torino": {
     "approssimato": false,
     "geocoded_at": "2026-05-19",
@@ -3750,6 +3786,12 @@
     "geocoded_at": "2026-05-19",
     "lat": 45.0765709,
     "lon": 7.6811316
+  },
+  "pappare' milano symbiosis|via orobia, 16|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-06-01",
+    "lat": 45.4427108,
+    "lon": 9.2055653
   },
   "particolare milano|via gerolamo tiraboschi, 5|milano": {
     "approssimato": false,
@@ -4279,6 +4321,12 @@
     "lat": 41.8615139,
     "lon": 12.5359105
   },
+  "sasà martucci|via romolo gessi, 12|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-06-01",
+    "lat": 45.4591459,
+    "lon": 9.1530422
+  },
   "satricvm|strada nettuno-cisterna, 1227 - loc. le ferriere|latina": {
     "approssimato": true,
     "geocoded_at": "2026-05-18",
@@ -4654,6 +4702,12 @@
     "lat": 45.4826846,
     "lon": 9.2063811
   },
+  "terracotta osteria con brace|viale maresciallo pilsudski, 44|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-06-01",
+    "lat": 41.9269342,
+    "lon": 12.4743841
+  },
   "terramadre|via del baluardo, 7|nettuno": {
     "geocoded_at": "2026-05-18",
     "lat": 41.4569014,
@@ -4781,6 +4835,12 @@
     "geocoded_at": "2026-05-19",
     "lat": 45.0958958,
     "lon": 7.6936721
+  },
+  "trattoria da panciroli|via gaudenzio ferrari, 1|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-06-01",
+    "lat": 45.4561509,
+    "lon": 9.1750609
   },
   "trattoria del cimino dal 1895|via filippo nicolai, 44|caprarola": {
     "geocoded_at": "2026-05-18",
@@ -5060,6 +5120,12 @@
     "geocoded_at": "2026-05-19",
     "lat": 45.4882219,
     "lon": 9.1616662
+  },
+  "yajiri maison|via carlo goldoni 36|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-06-01",
+    "lat": 45.4692815,
+    "lon": 9.2165352
   },
   "zazà ramen|via solferino, 48|milano": {
     "approssimato": false,

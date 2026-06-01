@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T13:13:14+00:00",
+  "generated_at": "2026-06-01T15:01:30+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -714,6 +714,21 @@
       "geocoded_at": "2026-05-19"
     },
     {
+      "nome": "Trattoria da Panciroli",
+      "tipologia": "tradizionale",
+      "indirizzo": "Via Gaudenzio Ferrari, 1",
+      "zona": "Darsena",
+      "citta": "Milano",
+      "telefono": "02/38260809",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 45.4561509,
+      "lon": 9.1750609,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-06-01"
+    },
+    {
       "nome": "Trattoria del Nuovo Macello",
       "tipologia": "tradizionale",
       "indirizzo": "Via Cesare Lombroso, 20",
@@ -1254,6 +1269,21 @@
       "geocoded_at": "2026-05-19"
     },
     {
+      "nome": "Yajiri Maison",
+      "tipologia": "giapponese",
+      "indirizzo": "Via Carlo Goldoni 36",
+      "zona": "Piazza Tricolore",
+      "citta": "Milano",
+      "telefono": "351/3172407",
+      "recensore": "",
+      "categoria": "per_editori",
+      "lat": 45.4692815,
+      "lon": 9.2165352,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-06-01"
+    },
+    {
       "nome": "Zazà Ramen",
       "tipologia": "giapponese",
       "indirizzo": "Via Solferino, 48",
@@ -1539,6 +1569,21 @@
       "geocoded_at": "2026-05-19"
     },
     {
+      "nome": "Futura",
+      "tipologia": "pizzeria",
+      "indirizzo": "Via Pietro Borsieri, 28",
+      "zona": "",
+      "citta": "Milano",
+      "telefono": "342/1405728",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 45.4888438,
+      "lon": 9.1892082,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-06-01"
+    },
+    {
       "nome": "Materia",
       "tipologia": "pizzeria",
       "indirizzo": "Via del Torchio, 1",
@@ -1582,6 +1627,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-19"
+    },
+    {
+      "nome": "Sasà Martucci",
+      "tipologia": "pizzeria",
+      "indirizzo": "Via Romolo Gessi, 12",
+      "zona": "Washington",
+      "citta": "Milano",
+      "telefono": "02/35997778",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 45.4591459,
+      "lon": 9.1530422,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-06-01"
     },
     {
       "nome": "Adolfo Stefanelli",
@@ -1807,6 +1867,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-19"
+    },
+    {
+      "nome": "Fatum",
+      "tipologia": "caffetteria specialty",
+      "indirizzo": "Via Andrea Solari, 6",
+      "zona": "",
+      "citta": "Milano",
+      "telefono": "n.d.",
+      "recensore": "",
+      "categoria": "per_editori",
+      "lat": 45.4561616,
+      "lon": 9.1649546,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-06-01"
     },
     {
       "nome": "Fòla",
@@ -2244,6 +2319,21 @@
       "geocoded_at": "2026-05-19"
     },
     {
+      "nome": "Pappare' Milano Symbiosis",
+      "tipologia": "caffetteria / brunch",
+      "indirizzo": "Via Orobia, 16",
+      "zona": "Fondazione Prada",
+      "citta": "Milano",
+      "telefono": "351/9645683",
+      "recensore": "",
+      "categoria": "per_editori",
+      "lat": 45.4427108,
+      "lon": 9.2055653,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-06-01"
+    },
+    {
       "nome": "Rito",
       "tipologia": "Via Achille Maiocchi, 18",
       "indirizzo": "Porta Venezia",
@@ -2527,6 +2617,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-19"
+    },
+    {
+      "nome": "Da Franz",
+      "tipologia": "vineria con cucina",
+      "indirizzo": "Via Ascanio Sforza, 47",
+      "zona": "Alzaia Naviglio Pavese",
+      "citta": "Milano",
+      "telefono": "",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 45.447108,
+      "lon": 9.1771134,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-06-01"
     },
     {
       "nome": "Enoteca Naturale",
@@ -3356,14 +3461,14 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 221,
-    "con_coordinate": 221,
+    "totale_letti": 228,
+    "con_coordinate": 228,
     "manuali": 3,
     "approssimati": 0,
-    "precisi": 218,
+    "precisi": 225,
     "falliti": 0,
     "con_recensore": 190,
-    "con_telefono": 219,
+    "con_telefono": 225,
     "colonne_rilevate": {
       "nome": 4,
       "tipologia": 5,
