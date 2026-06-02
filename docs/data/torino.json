@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T19:37:10+00:00",
+  "generated_at": "2026-06-02T21:02:05+00:00",
   "source_file": "Torino_2027.xlsx",
   "citta_default": "Torino",
   "regione": "Piemonte",
@@ -660,8 +660,8 @@
       "zona": "Centro",
       "citta": "Torino",
       "telefono": "011/8124621",
-      "recensore": "bloccato per Francesca Vasciaveo",
-      "categoria": "riservato",
+      "recensore": "Francesca Vasciaveo",
+      "categoria": "fatto",
       "lat": 45.0682331,
       "lon": 7.6887287,
       "approssimato": false,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T19:37:09+00:00",
+  "generated_at": "2026-06-02T21:02:05+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -5325,8 +5325,8 @@
       "zona": "Trastevere",
       "citta": "Roma",
       "telefono": "06/88798381",
-      "recensore": "bloccato per Giulia Maria Bellucci",
-      "categoria": "riservato",
+      "recensore": "Giulia Maria Bellucci",
+      "categoria": "fatto",
       "lat": 41.8872734,
       "lon": 12.4709453,
       "approssimato": false,
