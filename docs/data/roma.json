@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T12:04:00+00:00",
+  "generated_at": "2026-06-02T19:37:09+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -3225,8 +3225,8 @@
       "zona": "Trastevere",
       "citta": "Roma",
       "telefono": "06/5816665",
-      "recensore": "bloccato per Luca Veglianti",
-      "categoria": "riservato",
+      "recensore": "Luca Veglianti",
+      "categoria": "fatto",
       "lat": 41.8874666,
       "lon": 12.4771441,
       "approssimato": false,
