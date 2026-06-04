@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T06:00:39+00:00",
+  "generated_at": "2026-06-04T09:13:10+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -900,8 +900,8 @@
       "zona": "Parco Vittorio",
       "citta": "Milano",
       "telefono": "02/55184138",
-      "recensore": "bloccato per Maria Vittoria Ottaviano",
-      "categoria": "riservato",
+      "recensore": "Maria Vittoria Ottaviano",
+      "categoria": "fatto",
       "lat": 45.4563953,
       "lon": 9.2171851,
       "approssimato": false,
