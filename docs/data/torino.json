@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T10:48:36+00:00",
+  "generated_at": "2026-06-05T05:23:51+00:00",
   "source_file": "Torino_2027.xlsx",
   "citta_default": "Torino",
   "regione": "Piemonte",
@@ -396,7 +396,7 @@
       "lon": 7.682245039229181,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-06-04"
+      "geocoded_at": "2026-06-05"
     },
     {
       "nome": "Silos",
@@ -735,8 +735,8 @@
       "zona": "Pre collina",
       "citta": "Torino",
       "telefono": "349/1799842",
-      "recensore": "bloccato per Catia Gribaudo",
-      "categoria": "riservato",
+      "recensore": "Catia Gribaudo",
+      "categoria": "fatto",
       "lat": 45.0618358,
       "lon": 7.7164405,
       "approssimato": false,
@@ -756,7 +756,7 @@
       "lon": 7.674135480627022,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-06-04"
+      "geocoded_at": "2026-06-05"
     },
     {
       "nome": "Trattoria Tarassaco",
@@ -1116,7 +1116,7 @@
       "lon": 7.690986168275447,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-06-04"
+      "geocoded_at": "2026-06-05"
     },
     {
       "nome": "El Beso",
@@ -1371,7 +1371,7 @@
       "lon": 7.682089683753758,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-06-04"
+      "geocoded_at": "2026-06-05"
     },
     {
       "nome": "Da Zero",
@@ -1521,7 +1521,7 @@
       "lon": 7.681117647008224,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-06-04"
+      "geocoded_at": "2026-06-05"
     },
     {
       "nome": "Caffè San Carlo",
@@ -1536,7 +1536,7 @@
       "lon": 7.682495521878584,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-06-04"
+      "geocoded_at": "2026-06-05"
     },
     {
       "nome": "Cibrario forno contemporaneo",
@@ -2036,17 +2036,17 @@
     {
       "nome": "Tartatea Torteria",
       "tipologia": "pasticceria / sala da tè",
-      "indirizzo": "Via XX Settembre, 17",
-      "zona": "Porta Nuova",
+      "indirizzo": "Corso Duca degli Abruzzi, 59",
+      "zona": "Crocetta",
       "citta": "Torino",
       "telefono": "351/6271679",
       "recensore": "Fernanda D'Arienzo",
       "categoria": "fatto",
-      "lat": 45.0656184,
-      "lon": 7.6794248,
+      "lat": 45.056982007771495,
+      "lon": 7.659341688955742,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-05-19"
+      "manuale": true,
+      "geocoded_at": "2026-06-05"
     },
     {
       "nome": "The Tea",
@@ -3223,9 +3223,9 @@
   "stats": {
     "totale_letti": 212,
     "con_coordinate": 212,
-    "manuali": 6,
+    "manuali": 7,
     "approssimati": 0,
-    "precisi": 206,
+    "precisi": 205,
     "falliti": 0,
     "con_recensore": 127,
     "con_telefono": 212,
