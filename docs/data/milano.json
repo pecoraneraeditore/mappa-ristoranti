@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T18:58:17+00:00",
+  "generated_at": "2026-06-08T05:58:48+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -2121,7 +2121,7 @@
       "lon": 9.157788011970972,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-06-07"
+      "geocoded_at": "2026-06-08"
     },
     {
       "nome": "Tre Chicchere",
@@ -2826,7 +2826,7 @@
       "lon": 9.220205980253644,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-06-07"
+      "geocoded_at": "2026-06-08"
     },
     {
       "nome": "Porcobrado",
@@ -3321,7 +3321,7 @@
       "lon": 9.212648146393095,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-06-07"
+      "geocoded_at": "2026-06-08"
     },
     {
       "nome": "Rigoletto",
