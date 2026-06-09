@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T05:12:05+00:00",
+  "generated_at": "2026-06-09T09:01:10+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -712,6 +712,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-18"
+    },
+    {
+      "nome": "Gordito",
+      "tipologia": "tradizionale con spunti creativi",
+      "indirizzo": "Via Francesco Coletti, 21",
+      "zona": "Vigna Clara",
+      "citta": "Roma",
+      "telefono": "366/5038646",
+      "recensore": "",
+      "categoria": "per_editori",
+      "lat": 41.94641094326607,
+      "lon": 12.465099700815312,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-06-09"
     },
     {
       "nome": "Hand Made",
@@ -7106,14 +7121,14 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 471,
-    "con_coordinate": 471,
-    "manuali": 55,
+    "totale_letti": 472,
+    "con_coordinate": 472,
+    "manuali": 56,
     "approssimati": 0,
     "precisi": 416,
     "falliti": 0,
     "con_recensore": 370,
-    "con_telefono": 469,
+    "con_telefono": 470,
     "colonne_rilevate": {
       "nome": 4,
       "tipologia": 5,
