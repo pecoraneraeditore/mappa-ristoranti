@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T09:01:10+00:00",
+  "generated_at": "2026-06-10T05:24:28+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -810,8 +810,8 @@
       "zona": "Washington",
       "citta": "Milano",
       "telefono": "02/4694643",
-      "recensore": "bloccato per Alice D'Adda",
-      "categoria": "riservato",
+      "recensore": "Alice D'Adda",
+      "categoria": "fatto",
       "lat": 45.461842,
       "lon": 9.1513088,
       "approssimato": false,
@@ -2121,7 +2121,7 @@
       "lon": 9.157788011970972,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-06-09"
+      "geocoded_at": "2026-06-10"
     },
     {
       "nome": "Tre Chicchere",
@@ -2826,7 +2826,7 @@
       "lon": 9.220205980253644,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-06-09"
+      "geocoded_at": "2026-06-10"
     },
     {
       "nome": "Porcobrado",
@@ -2970,8 +2970,8 @@
       "zona": "Varesine",
       "citta": "Milano",
       "telefono": "02/62061443",
-      "recensore": "bloccato per William Gray",
-      "categoria": "riservato",
+      "recensore": "William Gray",
+      "categoria": "fatto",
       "lat": 45.4821961,
       "lon": 9.1932374,
       "approssimato": false,
@@ -2985,8 +2985,8 @@
       "zona": "Navigli",
       "citta": "Milano",
       "telefono": "345/2182186",
-      "recensore": "bloccato per William Gray",
-      "categoria": "riservato",
+      "recensore": "William Gray",
+      "categoria": "fatto",
       "lat": 45.4507082,
       "lon": 9.1779486,
       "approssimato": false,
@@ -3321,7 +3321,7 @@
       "lon": 9.212648146393095,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-06-09"
+      "geocoded_at": "2026-06-10"
     },
     {
       "nome": "Rigoletto",
