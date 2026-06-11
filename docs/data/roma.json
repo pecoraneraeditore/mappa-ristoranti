@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T05:57:23+00:00",
+  "generated_at": "2026-06-11T11:55:57+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -705,8 +705,8 @@
       "zona": "Vigna Clara",
       "citta": "Roma",
       "telefono": "366/5038646",
-      "recensore": "",
-      "categoria": "per_editori",
+      "recensore": "Simone Cargiani",
+      "categoria": "fatto",
       "lat": 41.94641094326607,
       "lon": 12.465099700815312,
       "approssimato": false,
@@ -7112,7 +7112,7 @@
     "approssimati": 0,
     "precisi": 415,
     "falliti": 0,
-    "con_recensore": 372,
+    "con_recensore": 373,
     "con_telefono": 469,
     "colonne_rilevate": {
       "nome": 4,
