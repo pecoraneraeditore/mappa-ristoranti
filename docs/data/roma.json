@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T05:54:22+00:00",
+  "generated_at": "2026-06-12T12:36:14+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -2700,8 +2700,8 @@
       "zona": "Cipro",
       "citta": "Roma",
       "telefono": "345/5017051",
-      "recensore": "",
-      "categoria": "da_fare",
+      "recensore": "Fabrizio Sbicca",
+      "categoria": "fatto",
       "lat": 41.90530306820849,
       "lon": 12.44651286331835,
       "approssimato": false,
@@ -7112,7 +7112,7 @@
     "approssimati": 0,
     "precisi": 415,
     "falliti": 0,
-    "con_recensore": 375,
+    "con_recensore": 376,
     "con_telefono": 469,
     "colonne_rilevate": {
       "nome": 4,
