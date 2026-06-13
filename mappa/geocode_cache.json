@@ -3948,6 +3948,18 @@
     "lat": 41.9066975,
     "lon": 12.4466606
   },
+  "pizzeria der biondo|via tornimparte, 3a|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-06-13",
+    "lat": 41.9043227,
+    "lon": 12.6933611
+  },
+  "pizzeria der biondo|via tuscolana, 1472|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-06-13",
+    "lat": 41.8541303,
+    "lon": 12.5667585
+  },
   "più di un gelato|via cesare battisti, 7/f|torino": {
     "approssimato": false,
     "geocoded_at": "2026-05-19",

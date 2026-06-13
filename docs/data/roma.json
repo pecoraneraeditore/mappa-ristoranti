@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T05:24:51+00:00",
+  "generated_at": "2026-06-13T10:44:24+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -6789,6 +6789,36 @@
       "geocoded_at": "2026-05-18"
     },
     {
+      "nome": "Pizzeria Der Biondo",
+      "tipologia": "pizzeria al taglio",
+      "indirizzo": "Via Tuscolana, 1472",
+      "zona": "Cinecittà",
+      "citta": "Roma",
+      "telefono": "393/1161874",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 41.8541303,
+      "lon": 12.5667585,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-06-13"
+    },
+    {
+      "nome": "Pizzeria Der Biondo",
+      "tipologia": "pizzeria al taglio",
+      "indirizzo": "Via Tornimparte, 3A",
+      "zona": "Castelverde",
+      "citta": "Roma",
+      "telefono": "340/2752791",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 41.9043227,
+      "lon": 12.6933611,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-06-13"
+    },
+    {
       "nome": "POP Pizzeria Popolare",
       "tipologia": "pizzeria al taglio",
       "indirizzo": "Largo Appio Claudio, 384",
@@ -7106,14 +7136,14 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 471,
-    "con_coordinate": 471,
+    "totale_letti": 473,
+    "con_coordinate": 473,
     "manuali": 56,
     "approssimati": 0,
-    "precisi": 415,
+    "precisi": 417,
     "falliti": 0,
     "con_recensore": 377,
-    "con_telefono": 469,
+    "con_telefono": 471,
     "colonne_rilevate": {
       "nome": 4,
       "tipologia": 5,
