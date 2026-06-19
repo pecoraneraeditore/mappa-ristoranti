@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T06:56:42+00:00",
+  "generated_at": "2026-06-19T09:34:00+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -1845,8 +1845,8 @@
       "zona": "",
       "citta": "Velletri",
       "telefono": "06/5590376",
-      "recensore": "",
-      "categoria": "per_editori",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
       "lat": 41.6894371,
       "lon": 12.779374,
       "approssimato": false,
@@ -7142,7 +7142,7 @@
     "approssimati": 0,
     "precisi": 416,
     "falliti": 0,
-    "con_recensore": 382,
+    "con_recensore": 383,
     "con_telefono": 471,
     "colonne_rilevate": {
       "nome": 4,
