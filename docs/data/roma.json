@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T06:25:01+00:00",
+  "generated_at": "2026-06-19T06:56:42+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -3495,8 +3495,8 @@
       "zona": "Centocelle",
       "citta": "Roma",
       "telefono": "345/5479532",
-      "recensore": "bloccato per Vanessa Picena",
-      "categoria": "riservato",
+      "recensore": "Vanessa Picena",
+      "categoria": "fatto",
       "lat": 41.8749586,
       "lon": 12.5411903,
       "approssimato": false,
