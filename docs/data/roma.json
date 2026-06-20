@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T07:41:14+00:00",
+  "generated_at": "2026-06-20T08:39:47+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -645,8 +645,8 @@
       "zona": "Monti",
       "citta": "Roma",
       "telefono": "06/6785496",
-      "recensore": "bloccato per Marco Silleni",
-      "categoria": "riservato",
+      "recensore": "Marco Silleni",
+      "categoria": "fatto",
       "lat": 41.8937195,
       "lon": 12.489126,
       "approssimato": false,
@@ -6632,11 +6632,11 @@
       "telefono": "06/3225744",
       "recensore": "Fabrizio Sbicca",
       "categoria": "fatto",
-      "lat": 41.9072712,
-      "lon": 12.4707362,
+      "lat": 41.90631739386229,
+      "lon": 12.47060841676495,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-05-18"
+      "manuale": true,
+      "geocoded_at": "2026-06-20"
     },
     {
       "nome": "Neve di Latte",
@@ -7153,9 +7153,9 @@
   "stats": {
     "totale_letti": 474,
     "con_coordinate": 474,
-    "manuali": 57,
+    "manuali": 58,
     "approssimati": 0,
-    "precisi": 417,
+    "precisi": 416,
     "falliti": 0,
     "con_recensore": 384,
     "con_telefono": 472,
