@@ -4345,6 +4345,12 @@
     "lat": 41.4595261,
     "lon": 13.0125912
   },
+  "scambio cucina condivisa|via federico cesi, 22|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-06-20",
+    "lat": 41.9072621,
+    "lon": 12.4706734
+  },
   "scannabue|largo saluzzo, 25/h|torino": {
     "approssimato": false,
     "geocoded_at": "2026-05-19",

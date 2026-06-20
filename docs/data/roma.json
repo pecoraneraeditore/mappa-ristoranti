@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T05:21:27+00:00",
+  "generated_at": "2026-06-20T07:41:14+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -1012,6 +1012,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-18"
+    },
+    {
+      "nome": "Scambio Cucina Condivisa",
+      "tipologia": "tradizionale con spunti creativi",
+      "indirizzo": "Via Federico Cesi, 22",
+      "zona": "Prati",
+      "citta": "Roma",
+      "telefono": "06/95008310",
+      "recensore": "Simone Cargiani",
+      "categoria": "fatto",
+      "lat": 41.9072621,
+      "lon": 12.4706734,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-06-20"
     },
     {
       "nome": "Sintesi",
@@ -7136,14 +7151,14 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 473,
-    "con_coordinate": 473,
+    "totale_letti": 474,
+    "con_coordinate": 474,
     "manuali": 57,
     "approssimati": 0,
-    "precisi": 416,
+    "precisi": 417,
     "falliti": 0,
-    "con_recensore": 383,
-    "con_telefono": 471,
+    "con_recensore": 384,
+    "con_telefono": 472,
     "colonne_rilevate": {
       "nome": 4,
       "tipologia": 5,
