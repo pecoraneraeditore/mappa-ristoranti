@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T08:01:11+00:00",
+  "generated_at": "2026-06-21T09:11:03+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -5289,6 +5289,21 @@
       "geocoded_at": "2026-05-18"
     },
     {
+      "nome": "Ruvido",
+      "tipologia": "enoteca",
+      "indirizzo": "Via Apulia, 11",
+      "zona": "San Giovanni",
+      "citta": "Roma",
+      "telefono": "06/97619059",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 41.88173174194172,
+      "lon": 12.504400880125283,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-06-21"
+    },
+    {
       "nome": "Sottobanco",
       "tipologia": "wine bar / bistrot",
       "indirizzo": "Via Paolo Frisi, 1",
@@ -7211,14 +7226,14 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 478,
-    "con_coordinate": 478,
-    "manuali": 60,
+    "totale_letti": 479,
+    "con_coordinate": 479,
+    "manuali": 61,
     "approssimati": 0,
     "precisi": 418,
     "falliti": 0,
     "con_recensore": 389,
-    "con_telefono": 476,
+    "con_telefono": 477,
     "colonne_rilevate": {
       "nome": 4,
       "tipologia": 5,
