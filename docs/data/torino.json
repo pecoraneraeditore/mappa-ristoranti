@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T06:09:35+00:00",
+  "generated_at": "2026-06-21T07:39:00+00:00",
   "source_file": "Torino_2027.xlsx",
   "citta_default": "Torino",
   "regione": "Piemonte",
@@ -915,8 +915,8 @@
       "zona": "Centro",
       "citta": "Torino",
       "telefono": "011/7633447",
-      "recensore": "bloccato per Isabella Brandino",
-      "categoria": "riservato",
+      "recensore": "Isabella Brandino",
+      "categoria": "fatto",
       "lat": 45.0654927,
       "lon": 7.6909929,
       "approssimato": false,
