@@ -2398,6 +2398,18 @@
     "lat": 41.8918268,
     "lon": 12.469088
   },
+  "l'elementare|via degli stradivari, 25|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-06-21",
+    "lat": 41.8748628,
+    "lon": 12.4690891
+  },
+  "l'elementare|via gallia, 83|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-06-21",
+    "lat": 41.8809097,
+    "lon": 12.505236
+  },
   "l'elementare|via licinio stolone, 92|roma": {
     "geocoded_at": "2026-05-18",
     "lat": 41.8563483,

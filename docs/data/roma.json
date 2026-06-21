@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T07:38:59+00:00",
+  "generated_at": "2026-06-21T08:01:11+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -3894,6 +3894,36 @@
       "geocoded_at": "2026-05-18"
     },
     {
+      "nome": "L'Elementare",
+      "tipologia": "pizzeria",
+      "indirizzo": "Via degli Stradivari, 25",
+      "zona": "Trastevere",
+      "citta": "Roma",
+      "telefono": "06/5894016",
+      "recensore": "bloccato per Fabrizio Sbicca",
+      "categoria": "riservato",
+      "lat": 41.8748628,
+      "lon": 12.4690891,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-06-21"
+    },
+    {
+      "nome": "L'Elementare",
+      "tipologia": "pizzeria",
+      "indirizzo": "Via Gallia, 83",
+      "zona": "San Giovanni",
+      "citta": "Roma",
+      "telefono": "06/69310694",
+      "recensore": "bloccato per Fabrizio Sbicca",
+      "categoria": "riservato",
+      "lat": 41.8809097,
+      "lon": 12.505236,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-06-21"
+    },
+    {
       "nome": "Magnifica",
       "tipologia": "pizzeria",
       "indirizzo": "Via Ugo de Carolis, 72/D",
@@ -7181,14 +7211,14 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 476,
-    "con_coordinate": 476,
+    "totale_letti": 478,
+    "con_coordinate": 478,
     "manuali": 60,
     "approssimati": 0,
-    "precisi": 416,
+    "precisi": 418,
     "falliti": 0,
-    "con_recensore": 387,
-    "con_telefono": 474,
+    "con_recensore": 389,
+    "con_telefono": 476,
     "colonne_rilevate": {
       "nome": 4,
       "tipologia": 5,
