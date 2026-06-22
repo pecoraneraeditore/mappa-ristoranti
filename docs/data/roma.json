@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T08:11:28+00:00",
+  "generated_at": "2026-06-22T09:45:35+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -1650,13 +1650,13 @@
       "zona": "",
       "citta": "Fregene",
       "telefono": "06/66561647",
-      "recensore": "",
-      "categoria": "per_editori",
-      "lat": 41.8622156,
-      "lon": 12.1873593,
+      "recensore": "Simone Cargiani",
+      "categoria": "fatto",
+      "lat": 41.861343527588865,
+      "lon": 12.18767684194969,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-05-18"
+      "manuale": true,
+      "geocoded_at": "2026-06-22"
     },
     {
       "nome": "La Bottega delle tre Sorelle",
@@ -7243,11 +7243,11 @@
   "stats": {
     "totale_letti": 480,
     "con_coordinate": 480,
-    "manuali": 62,
+    "manuali": 63,
     "approssimati": 0,
-    "precisi": 418,
+    "precisi": 417,
     "falliti": 0,
-    "con_recensore": 389,
+    "con_recensore": 390,
     "con_telefono": 478,
     "colonne_rilevate": {
       "nome": 4,
