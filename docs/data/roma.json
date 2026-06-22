@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T06:34:40+00:00",
+  "generated_at": "2026-06-22T08:05:55+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -6624,6 +6624,21 @@
       "geocoded_at": "2026-05-18"
     },
     {
+      "nome": "Labhalo",
+      "tipologia": "fast fusion food",
+      "indirizzo": "Via Giuseppe Candiani, 69",
+      "zona": "Tor Tre Teste",
+      "citta": "Roma",
+      "telefono": "327/4576545",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 41.891703213366675,
+      "lon": 12.584924888955737,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-06-22"
+    },
+    {
       "nome": "Lievito Pizza Pane",
       "tipologia": "pizzeria al taglio / panificio",
       "indirizzo": "Viale Europa, 339",
@@ -7226,14 +7241,14 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 479,
-    "con_coordinate": 479,
-    "manuali": 61,
+    "totale_letti": 480,
+    "con_coordinate": 480,
+    "manuali": 62,
     "approssimati": 0,
     "precisi": 418,
     "falliti": 0,
     "con_recensore": 389,
-    "con_telefono": 477,
+    "con_telefono": 478,
     "colonne_rilevate": {
       "nome": 4,
       "tipologia": 5,
