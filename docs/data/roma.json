@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T05:05:55+00:00",
+  "generated_at": "2026-06-24T17:58:46+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -4606,7 +4606,7 @@
       "citta": "Roma",
       "telefono": "06/3231436",
       "recensore": "Luca Veglianti",
-      "categoria": "da_finire",
+      "categoria": "fatto",
       "lat": 41.9142700552323,
       "lon": 12.474733789090989,
       "approssimato": false,
@@ -5647,6 +5647,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-18"
+    },
+    {
+      "nome": "Vetro",
+      "tipologia": "snack bar",
+      "indirizzo": "Viale Carso, 17",
+      "zona": "Piazzale Clodio",
+      "citta": "Roma",
+      "telefono": "06/69317804",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
+      "lat": 41.919368054530466,
+      "lon": 12.45991023163961,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-06-24"
     },
     {
       "nome": "Vineria Risorgimento",
@@ -7256,14 +7271,14 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 481,
-    "con_coordinate": 481,
-    "manuali": 64,
+    "totale_letti": 482,
+    "con_coordinate": 482,
+    "manuali": 65,
     "approssimati": 0,
     "precisi": 417,
     "falliti": 0,
-    "con_recensore": 389,
-    "con_telefono": 479,
+    "con_recensore": 390,
+    "con_telefono": 480,
     "colonne_rilevate": {
       "nome": 4,
       "tipologia": 5,
