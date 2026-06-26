@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T12:32:43+00:00",
+  "generated_at": "2026-06-26T15:34:14+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -5745,13 +5745,13 @@
       "zona": "",
       "citta": "Roma",
       "telefono": "340/0832288",
-      "recensore": "",
-      "categoria": "da_fare",
-      "lat": 41.9058911,
-      "lon": 12.5353758,
+      "recensore": "Fabrizio Sbicca",
+      "categoria": "fatto",
+      "lat": 41.90607809405537,
+      "lon": 12.53551711972588,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-05-18"
+      "manuale": true,
+      "geocoded_at": "2026-06-26"
     },
     {
       "nome": "Metropolita",
@@ -7273,11 +7273,11 @@
   "stats": {
     "totale_letti": 482,
     "con_coordinate": 482,
-    "manuali": 65,
+    "manuali": 66,
     "approssimati": 0,
-    "precisi": 417,
+    "precisi": 416,
     "falliti": 0,
-    "con_recensore": 388,
+    "con_recensore": 389,
     "con_telefono": 480,
     "colonne_rilevate": {
       "nome": 4,
