@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T15:34:14+00:00",
+  "generated_at": "2026-06-26T16:52:58+00:00",
   "source_file": "Torino_2027.xlsx",
   "citta_default": "Torino",
   "regione": "Piemonte",
@@ -1275,8 +1275,8 @@
       "zona": "Cenisia",
       "citta": "Torino",
       "telefono": "351/6160558",
-      "recensore": "bloccato per Andrea Magnani",
-      "categoria": "riservato",
+      "recensore": "Andrea Magnani",
+      "categoria": "fatto",
       "lat": 45.0663733,
       "lon": 7.6547971,
       "approssimato": false,
