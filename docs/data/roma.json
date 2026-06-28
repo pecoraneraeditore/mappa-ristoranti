@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T05:22:17+00:00",
+  "generated_at": "2026-06-28T07:19:02+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -750,13 +750,13 @@
       "zona": "Torrevecchia",
       "citta": "Roma",
       "telefono": "06/23209132",
-      "recensore": "bloccato per Valentino Affinita",
-      "categoria": "riservato",
-      "lat": 41.9360492,
-      "lon": 12.4183103,
+      "recensore": "Valentino Affinita",
+      "categoria": "fatto",
+      "lat": 41.934777415596464,
+      "lon": 12.420204632620242,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-05-18"
+      "manuale": true,
+      "geocoded_at": "2026-06-28"
     },
     {
       "nome": "La Ciambella bar à vin",
@@ -7273,9 +7273,9 @@
   "stats": {
     "totale_letti": 482,
     "con_coordinate": 482,
-    "manuali": 66,
+    "manuali": 67,
     "approssimati": 0,
-    "precisi": 416,
+    "precisi": 415,
     "falliti": 0,
     "con_recensore": 396,
     "con_telefono": 480,
