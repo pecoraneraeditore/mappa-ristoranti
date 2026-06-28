@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T07:19:02+00:00",
+  "generated_at": "2026-06-28T10:25:59+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -4290,8 +4290,8 @@
       "zona": "Collatino",
       "citta": "Roma",
       "telefono": "06/2593441",
-      "recensore": "",
-      "categoria": "da_fare",
+      "recensore": "Fabrizio Sbicca",
+      "categoria": "fatto",
       "lat": 41.8974719,
       "lon": 12.5646579,
       "approssimato": false,
@@ -7277,7 +7277,7 @@
     "approssimati": 0,
     "precisi": 415,
     "falliti": 0,
-    "con_recensore": 396,
+    "con_recensore": 397,
     "con_telefono": 480,
     "colonne_rilevate": {
       "nome": 4,
