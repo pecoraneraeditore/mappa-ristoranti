@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T12:20:11+00:00",
+  "generated_at": "2026-06-29T16:50:44+00:00",
   "source_file": "Torino_2027.xlsx",
   "citta_default": "Torino",
   "regione": "Piemonte",
@@ -315,8 +315,8 @@
       "zona": "Pre Collina",
       "citta": "Torino",
       "telefono": "011/8190028",
-      "recensore": "bloccato per Andrea Bernardi",
-      "categoria": "riservato",
+      "recensore": "Andrea Bernardi",
+      "categoria": "fatto",
       "lat": 45.0651529,
       "lon": 7.7139389,
       "approssimato": false,
