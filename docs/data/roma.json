@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T16:50:44+00:00",
+  "generated_at": "2026-06-29T18:16:52+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -2640,8 +2640,8 @@
       "zona": "Trastevere",
       "citta": "Roma",
       "telefono": "06/58332008",
-      "recensore": "bloccato per Francesca Sebastio",
-      "categoria": "riservato",
+      "recensore": "Francesca Sebastio",
+      "categoria": "fatto",
       "lat": 41.8908353,
       "lon": 12.4679786,
       "approssimato": false,
