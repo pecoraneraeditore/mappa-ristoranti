@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T07:22:15+00:00",
+  "generated_at": "2026-07-01T08:32:31+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -930,8 +930,8 @@
       "zona": "Porta Venezia",
       "citta": "Milano",
       "telefono": "02/29521014",
-      "recensore": "bloccato per Antonio Landi",
-      "categoria": "riservato",
+      "recensore": "Antonio Landi",
+      "categoria": "fatto",
       "lat": 45.4801057,
       "lon": 9.2087157,
       "approssimato": false,
