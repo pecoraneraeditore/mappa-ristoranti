@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T05:45:55+00:00",
+  "generated_at": "2026-07-01T07:22:15+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -390,8 +390,8 @@
       "zona": "",
       "citta": "Milano",
       "telefono": "333/1855267",
-      "recensore": "bloccato per Maria Vittoria Ottaviano",
-      "categoria": "riservato",
+      "recensore": "Maria Vittoria Ottaviano",
+      "categoria": "fatto",
       "lat": 45.4266973,
       "lon": 9.1695851,
       "approssimato": false,

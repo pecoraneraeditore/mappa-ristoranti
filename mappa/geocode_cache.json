@@ -969,6 +969,12 @@
     "lat": 41.7715325,
     "lon": 12.2216435
   },
+  "clove|via dei gracchi, 229|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-07-01",
+    "lat": 41.9085511,
+    "lon": 12.4647506
+  },
   "clèa pasticceria culinaria|via giacomo boni, 25|milano": {
     "approssimato": false,
     "geocoded_at": "2026-05-19",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T05:45:54+00:00",
+  "generated_at": "2026-07-01T07:22:14+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -5521,7 +5521,7 @@
       "citta": "Roma",
       "telefono": "392/4799773",
       "recensore": "Luca Veglianti",
-      "categoria": "da_finire",
+      "categoria": "fatto",
       "lat": 41.9140499,
       "lon": 12.4568725,
       "approssimato": false,
@@ -5977,6 +5977,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-18"
+    },
+    {
+      "nome": "Clove",
+      "tipologia": "pizzeria al taglio",
+      "indirizzo": "Via dei Gracchi, 229",
+      "zona": "Prati",
+      "citta": "Roma",
+      "telefono": "06/35291876",
+      "recensore": "Luca Veglianti",
+      "categoria": "fatto",
+      "lat": 41.9085511,
+      "lon": 12.4647506,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-07-01"
     },
     {
       "nome": "Come il Latte",
@@ -7271,14 +7286,14 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 482,
-    "con_coordinate": 482,
+    "totale_letti": 483,
+    "con_coordinate": 483,
     "manuali": 67,
     "approssimati": 0,
-    "precisi": 415,
+    "precisi": 416,
     "falliti": 0,
-    "con_recensore": 397,
-    "con_telefono": 480,
+    "con_recensore": 398,
+    "con_telefono": 481,
     "colonne_rilevate": {
       "nome": 4,
       "tipologia": 5,
