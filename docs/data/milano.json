@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T05:03:51+00:00",
+  "generated_at": "2026-07-02T10:18:34+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -2550,8 +2550,8 @@
       "zona": "",
       "citta": "Milano",
       "telefono": "02/3315249",
-      "recensore": "bloccato per Antonio Landi",
-      "categoria": "riservato",
+      "recensore": "Antonio Landi",
+      "categoria": "fatto",
       "lat": 45.4814907,
       "lon": 9.1762328,
       "approssimato": false,
