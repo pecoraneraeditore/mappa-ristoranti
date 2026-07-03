@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T08:08:07+00:00",
+  "generated_at": "2026-07-03T11:45:20+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -2700,8 +2700,8 @@
       "zona": "Monteverde Nuovo",
       "citta": "Roma",
       "telefono": "06/536015",
-      "recensore": "",
-      "categoria": "da_fare",
+      "recensore": "Fabrizio Sbicca",
+      "categoria": "fatto",
       "lat": 41.8768509,
       "lon": 12.4407734,
       "approssimato": false,
@@ -7307,7 +7307,7 @@
     "approssimati": 0,
     "precisi": 416,
     "falliti": 0,
-    "con_recensore": 400,
+    "con_recensore": 401,
     "con_telefono": 482,
     "colonne_rilevate": {
       "nome": 4,
