@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T04:48:43+00:00",
+  "generated_at": "2026-07-03T08:08:07+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -1012,6 +1012,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-18"
+    },
+    {
+      "nome": "Sbracio",
+      "tipologia": "principalmente carne",
+      "indirizzo": "Via Enrico Fermi, 142",
+      "zona": "Ostiense",
+      "citta": "Roma",
+      "telefono": "06/45544466",
+      "recensore": "Simone Cargiani",
+      "categoria": "fatto",
+      "lat": 41.864863982721744,
+      "lon": 12.473675090627594,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-07-03"
     },
     {
       "nome": "Scambio Cucina Condivisa",
@@ -2437,21 +2452,6 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-18"
-    },
-    {
-      "nome": "Sbracio",
-      "tipologia": "principalmente carne",
-      "indirizzo": "Via Enrico Fermi, 142",
-      "zona": "Ostiense",
-      "citta": "Roma",
-      "telefono": "06/45544466",
-      "recensore": "Simone Cargiani",
-      "categoria": "fatto",
-      "lat": 41.864863982721744,
-      "lon": 12.473675090627594,
-      "approssimato": false,
-      "manuale": true,
-      "geocoded_at": "2026-07-03"
     },
     {
       "nome": "Schenardino - Cucina Pizza & Vino",
