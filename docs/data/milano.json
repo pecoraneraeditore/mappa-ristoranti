@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T05:02:01+00:00",
+  "generated_at": "2026-07-05T08:14:57+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -1890,8 +1890,8 @@
       "zona": "Pasteur",
       "citta": "Milano",
       "telefono": "02/49713413",
-      "recensore": "bloccato per Antonio Landi",
-      "categoria": "riservato",
+      "recensore": "Antonio Landi",
+      "categoria": "fatto",
       "lat": 45.4931418,
       "lon": 9.2169633,
       "approssimato": false,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T05:02:01+00:00",
+  "generated_at": "2026-07-05T08:14:57+00:00",
   "source_file": "Torino_2027.xlsx",
   "citta_default": "Torino",
   "regione": "Piemonte",
@@ -1065,8 +1065,8 @@
       "zona": "Piazza Vittorio",
       "citta": "Torino",
       "telefono": "328/8015231",
-      "recensore": "bloccato per Isabella Brandino",
-      "categoria": "riservato",
+      "recensore": "Isabella Brandino",
+      "categoria": "fatto",
       "lat": 45.0636292,
       "lon": 7.6950841,
       "approssimato": false,
