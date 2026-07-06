@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T05:17:47+00:00",
+  "generated_at": "2026-07-06T07:45:05+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -1170,8 +1170,8 @@
       "zona": "",
       "citta": "Ponza",
       "telefono": "0771/80643",
-      "recensore": "bloccato per Anca Enache",
-      "categoria": "riservato",
+      "recensore": "Anca Enache",
+      "categoria": "fatto",
       "lat": 40.895192392463066,
       "lon": 12.967058864523024,
       "approssimato": false,
