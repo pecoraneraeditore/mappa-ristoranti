@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T04:59:09+00:00",
+  "generated_at": "2026-07-07T15:43:26+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -412,6 +412,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-18"
+    },
+    {
+      "nome": "Alicina",
+      "tipologia": "pesce",
+      "indirizzo": "Via Riano, 15 - Mercato Rionale Ponte Milvio, box 8-9-10",
+      "zona": "Ponte Milvio",
+      "citta": "Roma",
+      "telefono": "335/7743957",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
+      "lat": 41.93843330293366,
+      "lon": 12.469444484857682,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-07-07"
     },
     {
       "nome": "Atlas",
@@ -7301,14 +7316,14 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 484,
-    "con_coordinate": 484,
-    "manuali": 68,
+    "totale_letti": 485,
+    "con_coordinate": 485,
+    "manuali": 69,
     "approssimati": 0,
     "precisi": 416,
     "falliti": 0,
-    "con_recensore": 403,
-    "con_telefono": 482,
+    "con_recensore": 404,
+    "con_telefono": 483,
     "colonne_rilevate": {
       "nome": 4,
       "tipologia": 5,
