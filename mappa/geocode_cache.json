@@ -70,6 +70,12 @@
     "lat": 40.8932368,
     "lon": 12.9630622
   },
+  "acqualunae|piazza dei quiriti, 19/20|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-07-08",
+    "lat": 41.9093838,
+    "lon": 12.4644735
+  },
   "acquolina|via del vantaggio, 14|roma": {
     "geocoded_at": "2026-05-18",
     "lat": 41.9086556,
