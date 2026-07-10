@@ -313,6 +313,12 @@
     "lat": 41.8827677,
     "lon": 12.4575412
   },
+  "aqualunae|piazza dei quiriti, 19/20|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-07-10",
+    "lat": 41.9093838,
+    "lon": 12.4644735
+  },
   "arcangelo vino & cucina|via g.g. belli, 59/61|roma": {
     "geocoded_at": "2026-05-18",
     "lat": 42.1444015,

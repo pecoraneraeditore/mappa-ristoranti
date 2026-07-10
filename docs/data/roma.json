@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T10:38:21+00:00",
+  "generated_at": "2026-07-10T04:58:28+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -231,7 +231,7 @@
       "lon": 12.849190594785567,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "L'Osteria dell'Orologio",
@@ -351,7 +351,7 @@
       "lon": 12.468759116941461,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Pulejo",
@@ -396,7 +396,7 @@
       "lon": 12.741851017737611,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Zia Restaurant",
@@ -412,21 +412,6 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-18"
-    },
-    {
-      "nome": "Alicina",
-      "tipologia": "pesce",
-      "indirizzo": "Via Riano, 15 - Mercato Rionale Ponte Milvio, box 8-9-10",
-      "zona": "Ponte Milvio",
-      "citta": "Roma",
-      "telefono": "335/7743957",
-      "recensore": "Fernanda D'Arienzo",
-      "categoria": "fatto",
-      "lat": 41.93843330293366,
-      "lon": 12.469444484857682,
-      "approssimato": false,
-      "manuale": true,
-      "geocoded_at": "2026-07-09"
     },
     {
       "nome": "Atlas",
@@ -456,7 +441,7 @@
       "lon": 12.661723908109279,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Barred",
@@ -606,7 +591,7 @@
       "lon": 12.493778041993513,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Dogma",
@@ -726,7 +711,7 @@
       "lon": 12.465099700815312,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Hand Made",
@@ -756,7 +741,7 @@
       "lon": 12.47526483926433,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Isotta - Trattoria Cortese",
@@ -771,7 +756,7 @@
       "lon": 12.420204632620242,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "La Ciambella bar à vin",
@@ -801,7 +786,7 @@
       "lon": 13.606285625808828,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "La Tana dei Carbonari",
@@ -816,7 +801,7 @@
       "lon": 13.154755650341361,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Locanda Altobelli",
@@ -861,7 +846,7 @@
       "lon": 12.229620634749661,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Metis",
@@ -1011,7 +996,7 @@
       "lon": 12.76587676294282,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Ristorante Moi",
@@ -1041,7 +1026,7 @@
       "lon": 12.473675090627594,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Scambio Cucina Condivisa",
@@ -1191,22 +1176,7 @@
       "lon": 12.967058864523024,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
-    },
-    {
-      "nome": "Acqualunae",
-      "tipologia": "principalmente pesce",
-      "indirizzo": "Piazza dei Quiriti, 19/20",
-      "zona": "Prati",
-      "citta": "Roma",
-      "telefono": "06/31076456",
-      "recensore": "Simone Cargiani",
-      "categoria": "fatto",
-      "lat": 41.9093838,
-      "lon": 12.4644735,
-      "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-07-08"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Ai Due Otri",
@@ -1251,7 +1221,7 @@
       "lon": 13.166111144621077,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Angelino \"ai Fori\" dal 1947",
@@ -1267,6 +1237,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-18"
+    },
+    {
+      "nome": "Aqualunae",
+      "tipologia": "principalmente pesce",
+      "indirizzo": "Piazza dei Quiriti, 19/20",
+      "zona": "Prati",
+      "citta": "Roma",
+      "telefono": "06/31076456",
+      "recensore": "Simone Cargiani",
+      "categoria": "fatto",
+      "lat": 41.9093838,
+      "lon": 12.4644735,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Arcangelo Vino & Cucina",
@@ -1341,7 +1326,7 @@
       "lon": 13.83952498668336,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Borgo San Giorgio",
@@ -1371,7 +1356,7 @@
       "lon": 12.978489249161939,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Buccia",
@@ -1401,7 +1386,7 @@
       "lon": 13.122920514770096,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Chalet del Lago",
@@ -1416,7 +1401,7 @@
       "lon": 12.262343120947389,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Chinappi",
@@ -1446,7 +1431,7 @@
       "lon": 13.607647265635304,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Contrada Rapello",
@@ -1521,7 +1506,7 @@
       "lon": 12.914128534051267,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Divina Giulia",
@@ -1626,7 +1611,7 @@
       "lon": 13.431396627622997,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Il Grecale",
@@ -1680,8 +1665,8 @@
       "zona": "Centocelle",
       "citta": "Roma",
       "telefono": "06/89619556",
-      "recensore": "bloccato per Matteo Damiani",
-      "categoria": "riservato",
+      "recensore": "Matteo Damiani",
+      "categoria": "fatto",
       "lat": 41.8781912,
       "lon": 12.5639629,
       "approssimato": false,
@@ -1701,7 +1686,7 @@
       "lon": 12.18767684194969,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "La Bottega delle tre Sorelle",
@@ -1776,7 +1761,7 @@
       "lon": 13.40640249472946,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "La Locanda della Chiocciola",
@@ -1791,7 +1776,7 @@
       "lon": 12.359566954675824,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "La Palazzina",
@@ -1836,7 +1821,7 @@
       "lon": 12.692992578950797,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "La Villetta",
@@ -1866,7 +1851,7 @@
       "lon": 12.963527058287966,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Li Somari",
@@ -1896,7 +1881,7 @@
       "lon": 13.520841403709602,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Locanda Dorica",
@@ -2211,7 +2196,7 @@
       "lon": 11.902343389858135,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Osteria “Il Bersagliere”",
@@ -2241,7 +2226,7 @@
       "lon": 13.737764537660487,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Osteria del Borgo",
@@ -2256,7 +2241,7 @@
       "lon": 12.34996953999624,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Osteria del Tempo Perso",
@@ -2271,7 +2256,7 @@
       "lon": 13.713537624096158,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Osteria di Maccarese",
@@ -2331,7 +2316,7 @@
       "lon": 12.962091128660296,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Osteria Santa Lucia",
@@ -2361,7 +2346,7 @@
       "lon": 11.832933159518674,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Pastorie",
@@ -2391,7 +2376,7 @@
       "lon": 11.722242354291765,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Popina Trattoria",
@@ -2466,7 +2451,7 @@
       "lon": 12.495906231519927,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Santuccio ai Colli",
@@ -2631,7 +2616,7 @@
       "lon": 12.501959002216351,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Vineria Cesare dal 1963",
@@ -2781,7 +2766,7 @@
       "lon": 12.44651286331835,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Felice",
@@ -2856,7 +2841,7 @@
       "lon": 12.772112791252264,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Il Vecchio Mulino",
@@ -2871,7 +2856,7 @@
       "lon": 12.10927651128648,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Iotto",
@@ -2901,7 +2886,7 @@
       "lon": 13.823234188670561,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "La Briciola di Adriana",
@@ -2991,7 +2976,7 @@
       "lon": 12.113497979928281,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Osteria Bonelli",
@@ -3036,7 +3021,7 @@
       "lon": 13.143353525815082,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Osteria Fratelli Mori",
@@ -3201,7 +3186,7 @@
       "lon": 12.469034833268445,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Dar Basha",
@@ -3726,7 +3711,7 @@
       "lon": 12.228188973513207,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Crunch!",
@@ -4266,7 +4251,7 @@
       "lon": 12.647856071662343,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Caffè Fleming",
@@ -4281,7 +4266,7 @@
       "lon": 12.473496611504828,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Casa Manfredi",
@@ -4551,7 +4536,7 @@
       "lon": 12.47504955492014,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Nero Vaniglia",
@@ -4671,7 +4656,7 @@
       "lon": 12.474733789090989,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Slow",
@@ -4686,7 +4671,7 @@
       "lon": 12.476047171258973,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Sordoni",
@@ -5016,7 +5001,7 @@
       "lon": 12.52730874517291,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Sicché - Roba toscana",
@@ -5316,7 +5301,7 @@
       "lon": 12.472919696984244,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Mostò",
@@ -5376,7 +5361,7 @@
       "lon": 12.504400880125283,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Sottobanco",
@@ -5452,6 +5437,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-18"
+    },
+    {
+      "nome": "Alicina",
+      "tipologia": "pesce",
+      "indirizzo": "Via Riano, 15 - Mercato Rionale Ponte Milvio, box 8-9-10",
+      "zona": "Ponte Milvio",
+      "citta": "Roma",
+      "telefono": "335/7743957",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
+      "lat": 41.93843330293366,
+      "lon": 12.469444484857682,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Aromaticus",
@@ -5586,7 +5586,7 @@
       "lon": 12.5381366209542,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Koû Koû",
@@ -5706,7 +5706,7 @@
       "lon": 12.45991023163961,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Vineria Risorgimento",
@@ -5751,7 +5751,7 @@
       "lon": 12.46968372581943,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Drink Kong",
@@ -5796,7 +5796,7 @@
       "lon": 12.53551711972588,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Metropolita",
@@ -5931,7 +5931,7 @@
       "lon": 12.474274381610769,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Arte Bianca di Gabriele",
@@ -6066,7 +6066,7 @@
       "lon": 12.468609293963063,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Crema Alta Gelateria",
@@ -6081,7 +6081,7 @@
       "lon": 12.454795365832444,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Cremeria Alpi",
@@ -6201,7 +6201,7 @@
       "lon": 12.473223499943083,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "El maiz",
@@ -6291,7 +6291,7 @@
       "lon": 12.474234812461015,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Fatamorgana",
@@ -6516,7 +6516,7 @@
       "lon": 12.54287904662492,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Gelato d'Essai",
@@ -6726,7 +6726,7 @@
       "lon": 12.584924888955737,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Lievito Pizza Pane",
@@ -6816,7 +6816,7 @@
       "lon": 12.47060841676495,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Neve di Latte",
@@ -7086,7 +7086,7 @@
       "lon": 12.476063715583715,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "San Biagio pizza e bolle",
@@ -7146,7 +7146,7 @@
       "lon": 12.229144156450465,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Sancho",
@@ -7236,7 +7236,7 @@
       "lon": 12.499504573152592,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-09"
+      "geocoded_at": "2026-07-10"
     },
     {
       "nome": "Trapizzino",
