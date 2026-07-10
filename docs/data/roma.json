@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T12:36:00+00:00",
+  "generated_at": "2026-07-10T16:40:15+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -255,8 +255,8 @@
       "zona": "",
       "citta": "Pontinia",
       "telefono": "0773/86391",
-      "recensore": "",
-      "categoria": "per_editori",
+      "recensore": "Simone Cargiani",
+      "categoria": "fatto",
       "lat": 41.410182,
       "lon": 13.0430945,
       "approssimato": false,
@@ -7337,7 +7337,7 @@
     "approssimati": 0,
     "precisi": 417,
     "falliti": 0,
-    "con_recensore": 408,
+    "con_recensore": 409,
     "con_telefono": 484,
     "colonne_rilevate": {
       "nome": 4,
