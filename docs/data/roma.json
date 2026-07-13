@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T04:34:51+00:00",
+  "generated_at": "2026-07-13T07:46:00+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -4239,6 +4239,21 @@
       "geocoded_at": "2026-05-18"
     },
     {
+      "nome": "Caffè Colombo",
+      "tipologia": "bar / pasticceria",
+      "indirizzo": "Via Bartolomeo Cavaceppi, 103/111",
+      "zona": "Mezzocamino",
+      "citta": "Roma",
+      "telefono": "06/59879544",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 41.79699881917897,
+      "lon": 12.430385400824383,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-07-13"
+    },
+    {
       "nome": "Caffè Conti",
       "tipologia": "caffetteria",
       "indirizzo": "Via Tuscolana, 1677",
@@ -7331,14 +7346,14 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 486,
-    "con_coordinate": 486,
-    "manuali": 69,
+    "totale_letti": 487,
+    "con_coordinate": 487,
+    "manuali": 70,
     "approssimati": 0,
     "precisi": 417,
     "falliti": 0,
     "con_recensore": 409,
-    "con_telefono": 484,
+    "con_telefono": 485,
     "colonne_rilevate": {
       "nome": 4,
       "tipologia": 5,
