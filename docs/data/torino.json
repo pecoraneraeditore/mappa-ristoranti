@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T18:52:15+00:00",
+  "generated_at": "2026-07-14T19:09:48+00:00",
   "source_file": "Torino_2027.xlsx",
   "citta_default": "Torino",
   "regione": "Piemonte",
@@ -3229,6 +3229,13 @@
     "falliti": 0,
     "con_recensore": 128,
     "con_telefono": 212,
+    "per_categoria": {
+      "fatto": 101,
+      "per_editori": 6,
+      "non_recensibile": 3,
+      "riservato": 26,
+      "da_fare": 76
+    },
     "colonne_rilevate": {
       "nome": 4,
       "tipologia": 5,

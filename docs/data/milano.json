@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T18:52:15+00:00",
+  "generated_at": "2026-07-14T19:09:48+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -3469,6 +3469,12 @@
     "falliti": 0,
     "con_recensore": 190,
     "con_telefono": 225,
+    "per_categoria": {
+      "riservato": 63,
+      "fatto": 127,
+      "per_editori": 10,
+      "da_fare": 28
+    },
     "colonne_rilevate": {
       "nome": 4,
       "tipologia": 5,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T18:52:15+00:00",
+  "generated_at": "2026-07-14T19:09:47+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -7369,6 +7369,14 @@
     "falliti": 0,
     "con_recensore": 409,
     "con_telefono": 486,
+    "per_categoria": {
+      "fatto": 264,
+      "riservato": 136,
+      "per_editori": 18,
+      "da_fare": 57,
+      "non_recensibile": 4,
+      "da_finire": 9
+    },
     "colonne_rilevate": {
       "nome": 4,
       "tipologia": 5,
