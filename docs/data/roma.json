@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T04:08:08+00:00",
+  "generated_at": "2026-07-14T08:54:58+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -3457,6 +3457,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-18"
+    },
+    {
+      "nome": "Parseh",
+      "tipologia": "persiana",
+      "indirizzo": "Via Isidoro di Carace, 6",
+      "zona": "Pigneto",
+      "citta": "Roma",
+      "telefono": "351/7745120",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 41.884709,
+      "lon": 12.5381688,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-07-14"
     },
     {
       "nome": "Sakana Sushi",
@@ -7346,14 +7361,14 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 487,
-    "con_coordinate": 487,
+    "totale_letti": 488,
+    "con_coordinate": 488,
     "manuali": 70,
     "approssimati": 0,
-    "precisi": 417,
+    "precisi": 418,
     "falliti": 0,
     "con_recensore": 409,
-    "con_telefono": 485,
+    "con_telefono": 486,
     "colonne_rilevate": {
       "nome": 4,
       "tipologia": 5,

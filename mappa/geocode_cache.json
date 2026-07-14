@@ -3823,6 +3823,12 @@
     "lat": 45.4427108,
     "lon": 9.2055653
   },
+  "parseh|via isidoro di carace, 6|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-07-14",
+    "lat": 41.884709,
+    "lon": 12.5381688
+  },
   "particolare milano|via gerolamo tiraboschi, 5|milano": {
     "approssimato": false,
     "geocoded_at": "2026-05-19",
