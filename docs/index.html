@@ -29,13 +29,13 @@
   }
   .cards {
     display: grid; gap: 20px;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-    width: 100%; max-width: 780px;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    width: 100%; max-width: 820px;
   }
   .card {
     display: flex; flex-direction: column;
     background: #111; border: 1px solid #222; border-radius: 10px;
-    padding: 28px 24px; text-decoration: none; color: #fff;
+    padding: 24px; text-decoration: none; color: #fff;
     transition: all 0.18s ease;
   }
   .card:hover {
@@ -45,23 +45,45 @@
   }
   .card .city {
     font-size: 26px; font-weight: 700; letter-spacing: 0.5px;
-    margin-bottom: 12px;
+    margin-bottom: 10px;
   }
   .card .count {
     font-size: 13px; color: #aaa; line-height: 1.5;
-    margin-bottom: 16px; min-height: 40px;
+    margin-bottom: 14px;
   }
   .card .count .num { color: #fff; font-weight: 600; font-size: 16px; }
+
+  .breakdown {
+    display: grid; grid-template-columns: 1fr 1fr;
+    gap: 6px 14px;
+    margin-bottom: 16px;
+    padding: 12px; background: rgba(255,255,255,0.03);
+    border-radius: 6px;
+    font-size: 12px;
+  }
+  .breakdown .stat {
+    display: flex; align-items: center; gap: 8px; color: #bbb;
+  }
+  .breakdown .stat .dot {
+    width: 9px; height: 9px; border-radius: 50%;
+    border: 1px solid rgba(255,255,255,0.35);
+    flex-shrink: 0;
+  }
+  .breakdown .stat .n {
+    font-weight: 700; color: #fff; margin-right: 4px; min-width: 2ch;
+    text-align: right;
+  }
+
   .card .updated { font-size: 11px; color: #666; margin-top: auto; }
   .card .arrow {
     display: inline-block; margin-top: 12px; font-size: 14px;
     color: #fff; opacity: 0.5; transition: opacity 0.18s, transform 0.18s;
   }
   .card:hover .arrow { opacity: 1; transform: translateX(3px); }
-  .card.disabled {
-    opacity: 0.4; pointer-events: none;
-  }
+  .card.disabled { opacity: 0.4; pointer-events: none; }
   .card.disabled .count { color: #555; font-style: italic; }
+  .card.disabled .breakdown { display: none; }
+
   footer {
     margin-top: 60px; font-size: 11px; opacity: 0.4;
     text-align: center;
@@ -80,18 +102,21 @@
     <a class="card" href="roma/" data-city="roma" data-default-name="Roma">
       <div class="city">Roma</div>
       <div class="count" data-count>Caricamento…</div>
+      <div class="breakdown" data-breakdown></div>
       <div class="updated" data-updated></div>
       <div class="arrow">Apri mappa →</div>
     </a>
     <a class="card" href="milano/" data-city="milano" data-default-name="Milano">
       <div class="city">Milano</div>
       <div class="count" data-count>Caricamento…</div>
+      <div class="breakdown" data-breakdown></div>
       <div class="updated" data-updated></div>
       <div class="arrow">Apri mappa →</div>
     </a>
     <a class="card" href="torino/" data-city="torino" data-default-name="Torino">
       <div class="city">Torino</div>
       <div class="count" data-count>Caricamento…</div>
+      <div class="breakdown" data-breakdown></div>
       <div class="updated" data-updated></div>
       <div class="arrow">Apri mappa →</div>
     </a>
@@ -103,12 +128,38 @@
 </div>
 
 <script>
-// Per ogni card carica il JSON e popola count + data aggiornamento.
-// Se il file non esiste ancora (es. Milano/Torino non ancora generati),
-// la card viene marcata come "in arrivo" e disabilitata.
+// Definizione dei gruppi da mostrare: label -> [categoria_key,...] + colore per il pallino
+const BREAKDOWN = [
+  { label: 'Recensiti', cats: ['fatto'],                     color: '#E53935' },
+  { label: 'Da finire', cats: ['da_finire'],                 color: '#FBC02D' },
+  { label: 'Bloccati',  cats: ['riservato'],                 color: '#757575' },
+  { label: 'Da fare',   cats: ['da_fare', 'per_editori'],    color: '#FFFFFF' },
+];
+
+// Conta i ristoranti per ciascun gruppo. Preferisce stats.per_categoria (contiene
+// TUTTI i ristoranti letti, anche i non geocodificati); se non presente, fa fallback
+// contando su restaurants[] (solo quelli mappati).
+function countBreakdown(data) {
+  const src = data.stats?.per_categoria;
+  if (src) {
+    return BREAKDOWN.map(g => ({
+      ...g, n: g.cats.reduce((s, k) => s + (src[k] || 0), 0)
+    }));
+  }
+  const map = {};
+  (data.restaurants || []).forEach(r => {
+    map[r.categoria] = (map[r.categoria] || 0) + 1;
+  });
+  return BREAKDOWN.map(g => ({
+    ...g, n: g.cats.reduce((s, k) => s + (map[k] || 0), 0)
+  }));
+}
+
+// Per ogni card carica il JSON e popola count + breakdown + data aggiornamento.
 document.querySelectorAll('.card').forEach(async card => {
   const city = card.dataset.city;
   const countEl = card.querySelector('[data-count]');
+  const breakdownEl = card.querySelector('[data-breakdown]');
   const updatedEl = card.querySelector('[data-updated]');
   try {
     const r = await fetch(`data/${city}.json?t=${Date.now()}`);
@@ -118,8 +169,18 @@ document.querySelectorAll('.card').forEach(async card => {
     if (n === 0) throw new Error('vuoto');
     const approx = data.stats?.approssimati || 0;
     countEl.innerHTML = approx
-      ? `<span class="num">${n}</span> ristoranti<br>(${data.stats.precisi} precisi, ${approx} approssimati)`
+      ? `<span class="num">${n}</span> ristoranti mappati<br><span style="font-size:11px;opacity:0.75">(${data.stats.precisi} precisi, ${approx} approssimati)</span>`
       : `<span class="num">${n}</span> ristoranti mappati`;
+
+    const stats = countBreakdown(data);
+    breakdownEl.innerHTML = stats.map(g => `
+      <div class="stat">
+        <span class="dot" style="background:${g.color}"></span>
+        <span class="n">${g.n}</span>
+        <span>${g.label}</span>
+      </div>
+    `).join('');
+
     const d = new Date(data.generated_at);
     updatedEl.textContent = `Aggiornata ${d.toLocaleString('it-IT',{dateStyle:'medium', timeStyle:'short'})}`;
   } catch (e) {
