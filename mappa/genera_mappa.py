@@ -1,5 +1,8 @@
 """Genera il JSON dei ristoranti per la mappa auto-aggiornante.
 
+v6: aggiunto stats.per_categoria (conteggio TUTTI i ristoranti letti,
+    inclusi i non geocodificati) per popolare i riepiloghi in landing page.
+
 v5: aggiunto campo Telefono (auto-detect dall'header riga 7, default col 9).
 
 v4: auto-detect di TUTTE le colonne tramite header (riga 7).
@@ -35,7 +38,7 @@ CATEGORIES = {
     'plurimo':         {'label': 'Indirizzo plurimo','color': '#FB8C00'},
 }
 
-USER_AGENT = 'PNE-Mappa-Guida/5.0 (contatto: s.cargiani@lapecoranera.net)'
+USER_AGENT = 'PNE-Mappa-Guida/6.0 (contatto: s.cargiani@lapecoranera.net)'
 
 DEFAULT_COLS = {
     'nome': 4, 'tipologia': 5, 'indirizzo': 6, 'zona': 7,
@@ -87,7 +90,6 @@ def _fmt_telefono(val):
     if val is None:
         return ''
     if isinstance(val, float):
-        # numero senza decimali -> intero
         if val.is_integer():
             return str(int(val))
         return repr(val)
@@ -275,6 +277,7 @@ def geocodifica_tutti(ristoranti, cache_path, no_geocode=False, sleep_s=1.1):
                 'nome': r['nome'],
                 'indirizzo': r['indirizzo'],
                 'citta': r['citta'],
+                'categoria': r['categoria'],
                 'motivo': 'no result dopo cascata',
             })
             continue
@@ -304,6 +307,8 @@ def scrivi_json(ristoranti, out_path, source_file, citta_default, regione, falli
     valid = [r for r in ristoranti if r.get('lat') is not None]
     for r in valid:
         r.pop('coord_gps', None)
+    # Conteggio per categoria su TUTTI i ristoranti letti (mappati o meno)
+    per_categoria = dict(Counter(r['categoria'] for r in ristoranti))
     payload = {
         'generated_at': datetime.now(timezone.utc).isoformat(timespec='seconds'),
         'source_file': source_file,
@@ -321,6 +326,7 @@ def scrivi_json(ristoranti, out_path, source_file, citta_default, regione, falli
             'falliti':         len(falliti),
             'con_recensore':   sum(1 for r in ristoranti if r['recensore']),
             'con_telefono':    sum(1 for r in valid if r.get('telefono')),
+            'per_categoria':   per_categoria,
             'colonne_rilevate': cols,
         },
     }
