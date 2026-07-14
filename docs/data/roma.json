@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T08:54:58+00:00",
+  "generated_at": "2026-07-14T18:52:15+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -3825,8 +3825,8 @@
       "zona": "Cinecittà",
       "citta": "Roma",
       "telefono": "06/88939709",
-      "recensore": "bloccato per Vanessa Picena",
-      "categoria": "riservato",
+      "recensore": "Vanessa Picena",
+      "categoria": "fatto",
       "lat": 41.8518128,
       "lon": 12.5591865,
       "approssimato": false,
@@ -4990,7 +4990,7 @@
     },
     {
       "nome": "Origine",
-      "tipologia": "caffèa speciality / brunch",
+      "tipologia": "caffèa specialty / brunch",
       "indirizzo": "Via Corinto, 66",
       "zona": "San Paolo",
       "citta": "Roma",
