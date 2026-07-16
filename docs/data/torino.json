@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T04:13:29+00:00",
+  "generated_at": "2026-07-16T06:45:26+00:00",
   "source_file": "Torino_2027.xlsx",
   "citta_default": "Torino",
   "regione": "Piemonte",
@@ -1455,8 +1455,8 @@
       "zona": "San Salvario",
       "citta": "Torino",
       "telefono": "011/0565889",
-      "recensore": "bloccato per Catia Gribaudo",
-      "categoria": "riservato",
+      "recensore": "Catia Gribaudo",
+      "categoria": "fatto",
       "lat": 45.0486112,
       "lon": 7.6760018,
       "approssimato": false,
@@ -3230,10 +3230,10 @@
     "con_recensore": 128,
     "con_telefono": 212,
     "per_categoria": {
-      "fatto": 101,
+      "fatto": 102,
       "per_editori": 6,
       "non_recensibile": 3,
-      "riservato": 26,
+      "riservato": 25,
       "da_fare": 76
     },
     "colonne_rilevate": {
