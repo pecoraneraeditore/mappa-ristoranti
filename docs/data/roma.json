@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T04:05:31+00:00",
+  "generated_at": "2026-07-18T07:12:21+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -2182,6 +2182,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-18"
+    },
+    {
+      "nome": "Origini Cibo e Vino",
+      "tipologia": "tradizionale",
+      "indirizzo": "Via della Pila, 14",
+      "zona": "",
+      "citta": "Subiaco",
+      "telefono": "328/2466250",
+      "recensore": "Simone Cargiani",
+      "categoria": "fatto",
+      "lat": 41.922880689590514,
+      "lon": 13.09081426816814,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-07-18"
     },
     {
       "nome": "Orsola",
@@ -7361,16 +7376,16 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 488,
-    "con_coordinate": 488,
-    "manuali": 70,
+    "totale_letti": 489,
+    "con_coordinate": 489,
+    "manuali": 71,
     "approssimati": 0,
     "precisi": 418,
     "falliti": 0,
-    "con_recensore": 413,
-    "con_telefono": 486,
+    "con_recensore": 414,
+    "con_telefono": 487,
     "per_categoria": {
-      "fatto": 269,
+      "fatto": 270,
       "riservato": 135,
       "per_editori": 16,
       "da_fare": 55,
