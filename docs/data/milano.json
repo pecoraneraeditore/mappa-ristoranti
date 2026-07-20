@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T16:53:29+00:00",
+  "generated_at": "2026-07-20T18:18:18+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -45,8 +45,8 @@
       "zona": "Porta Venezia",
       "citta": "Milano",
       "telefono": "02/38273030",
-      "recensore": "bloccato per William Gray",
-      "categoria": "riservato",
+      "recensore": "William Gray",
+      "categoria": "fatto",
       "lat": 45.4733847,
       "lon": 9.2042139,
       "approssimato": false,
@@ -3470,9 +3470,9 @@
     "con_recensore": 190,
     "con_telefono": 225,
     "per_categoria": {
-      "riservato": 63,
-      "fatto": 127,
+      "fatto": 128,
       "per_editori": 10,
+      "riservato": 62,
       "da_fare": 28
     },
     "colonne_rilevate": {
