@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T04:19:30+00:00",
+  "generated_at": "2026-07-22T04:21:23+00:00",
   "source_file": "Torino_2027.xlsx",
   "citta_default": "Torino",
   "regione": "Piemonte",
@@ -60,8 +60,8 @@
       "zona": "Quadrilatero Romano",
       "citta": "Torino",
       "telefono": "011/0260053",
-      "recensore": "",
-      "categoria": "per_editori",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
       "lat": 45.0706397,
       "lon": 7.67975,
       "approssimato": false,
@@ -330,8 +330,8 @@
       "zona": "Centro",
       "citta": "Torino",
       "telefono": "011/4271938",
-      "recensore": "",
-      "categoria": "per_editori",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
       "lat": 45.063135,
       "lon": 7.6928491,
       "approssimato": false,
@@ -396,7 +396,7 @@
       "lon": 7.682245039229181,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-21"
+      "geocoded_at": "2026-07-22"
     },
     {
       "nome": "Silos",
@@ -756,7 +756,7 @@
       "lon": 7.674135480627022,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-21"
+      "geocoded_at": "2026-07-22"
     },
     {
       "nome": "Trattoria Tarassaco",
@@ -1116,7 +1116,7 @@
       "lon": 7.690986168275447,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-21"
+      "geocoded_at": "2026-07-22"
     },
     {
       "nome": "El Beso",
@@ -1371,7 +1371,7 @@
       "lon": 7.682089683753758,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-21"
+      "geocoded_at": "2026-07-22"
     },
     {
       "nome": "Da Zero",
@@ -1521,7 +1521,7 @@
       "lon": 7.681117647008224,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-21"
+      "geocoded_at": "2026-07-22"
     },
     {
       "nome": "Caffè San Carlo",
@@ -1536,7 +1536,7 @@
       "lon": 7.682495521878584,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-21"
+      "geocoded_at": "2026-07-22"
     },
     {
       "nome": "Cibrario forno contemporaneo",
@@ -2046,7 +2046,7 @@
       "lon": 7.659341688955742,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-21"
+      "geocoded_at": "2026-07-22"
     },
     {
       "nome": "The Tea",
@@ -2124,21 +2124,6 @@
       "geocoded_at": "2026-05-19"
     },
     {
-      "nome": "La petite cave",
-      "tipologia": "enoteca",
-      "indirizzo": "Corso Alcide De Gasperi, 2/b",
-      "zona": "Crocetta",
-      "citta": "Torino",
-      "telefono": "011/595208",
-      "recensore": "",
-      "categoria": "da_fare",
-      "lat": 45.0589334,
-      "lon": 7.6631135,
-      "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-05-19"
-    },
-    {
       "nome": "Orma vini",
       "tipologia": "wine bar",
       "indirizzo": "Via Sant'Ottavio, 52/D",
@@ -2175,8 +2160,8 @@
       "zona": "Gran Madre",
       "citta": "Torino",
       "telefono": "011/6502183",
-      "recensore": "",
-      "categoria": "da_fare",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
       "lat": 45.063398,
       "lon": 7.7006181,
       "approssimato": false,
@@ -2190,8 +2175,8 @@
       "zona": "San Salvario",
       "citta": "Torino",
       "telefono": "011/6502183",
-      "recensore": "",
-      "categoria": "da_fare",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
       "lat": 45.057397,
       "lon": 7.6828062,
       "approssimato": false,
@@ -2445,8 +2430,8 @@
       "zona": "Quadrilatero Romano",
       "citta": "Torino",
       "telefono": "331/1848136",
-      "recensore": "",
-      "categoria": "per_editori",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
       "lat": 45.0764493,
       "lon": 7.6787204,
       "approssimato": false,
@@ -2955,8 +2940,8 @@
       "zona": "San Salvario",
       "citta": "Torino",
       "telefono": "348/7784538",
-      "recensore": "",
-      "categoria": "da_fare",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
       "lat": 45.0578599,
       "lon": 7.6828805,
       "approssimato": false,
@@ -2970,8 +2955,8 @@
       "zona": "Cenisia",
       "citta": "Torino",
       "telefono": "348/6563080",
-      "recensore": "",
-      "categoria": "da_fare",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
       "lat": 45.0676619,
       "lon": 7.6552538,
       "approssimato": false,
@@ -3015,8 +3000,8 @@
       "zona": "Crocetta",
       "citta": "Torino",
       "telefono": "340/6414542",
-      "recensore": "",
-      "categoria": "da_fare",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
       "lat": 45.0613244,
       "lon": 7.675129,
       "approssimato": false,
@@ -3030,8 +3015,8 @@
       "zona": "Corso Casale",
       "citta": "Torino",
       "telefono": "320/1933303",
-      "recensore": "",
-      "categoria": "da_fare",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
       "lat": 45.0672819,
       "lon": 7.7102163,
       "approssimato": false,
@@ -3221,20 +3206,20 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 212,
-    "con_coordinate": 212,
+    "totale_letti": 211,
+    "con_coordinate": 211,
     "manuali": 7,
     "approssimati": 0,
-    "precisi": 205,
+    "precisi": 204,
     "falliti": 0,
-    "con_recensore": 128,
-    "con_telefono": 212,
+    "con_recensore": 137,
+    "con_telefono": 211,
     "per_categoria": {
-      "fatto": 102,
-      "per_editori": 6,
+      "fatto": 111,
       "non_recensibile": 3,
       "riservato": 25,
-      "da_fare": 76
+      "per_editori": 3,
+      "da_fare": 69
     },
     "colonne_rilevate": {
       "nome": 4,
