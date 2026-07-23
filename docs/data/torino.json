@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T04:21:23+00:00",
+  "generated_at": "2026-07-23T04:20:15+00:00",
   "source_file": "Torino_2027.xlsx",
   "citta_default": "Torino",
   "regione": "Piemonte",
@@ -396,7 +396,7 @@
       "lon": 7.682245039229181,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-22"
+      "geocoded_at": "2026-07-23"
     },
     {
       "nome": "Silos",
@@ -756,7 +756,7 @@
       "lon": 7.674135480627022,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-22"
+      "geocoded_at": "2026-07-23"
     },
     {
       "nome": "Trattoria Tarassaco",
@@ -1116,7 +1116,7 @@
       "lon": 7.690986168275447,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-22"
+      "geocoded_at": "2026-07-23"
     },
     {
       "nome": "El Beso",
@@ -1371,7 +1371,7 @@
       "lon": 7.682089683753758,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-22"
+      "geocoded_at": "2026-07-23"
     },
     {
       "nome": "Da Zero",
@@ -1521,7 +1521,7 @@
       "lon": 7.681117647008224,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-22"
+      "geocoded_at": "2026-07-23"
     },
     {
       "nome": "Caffè San Carlo",
@@ -1536,7 +1536,7 @@
       "lon": 7.682495521878584,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-22"
+      "geocoded_at": "2026-07-23"
     },
     {
       "nome": "Cibrario forno contemporaneo",
@@ -1890,8 +1890,8 @@
       "zona": "",
       "citta": "Torino",
       "telefono": "011/233012",
-      "recensore": "",
-      "categoria": "da_fare",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
       "lat": 45.075802,
       "lon": 7.698734,
       "approssimato": false,
@@ -1980,8 +1980,8 @@
       "zona": "Aurora",
       "citta": "Torino",
       "telefono": "011/7651876",
-      "recensore": "",
-      "categoria": "per_editori",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
       "lat": 45.0760712,
       "lon": 7.697279,
       "approssimato": false,
@@ -2046,7 +2046,7 @@
       "lon": 7.659341688955742,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-22"
+      "geocoded_at": "2026-07-23"
     },
     {
       "nome": "The Tea",
@@ -2604,21 +2604,6 @@
       "geocoded_at": "2026-05-19"
     },
     {
-      "nome": "Conogelato",
-      "tipologia": "gelateria",
-      "indirizzo": "Via Giuseppe Mazzini, 22",
-      "zona": "Centro",
-      "citta": "Torino",
-      "telefono": "011/884747",
-      "recensore": "",
-      "categoria": "da_fare",
-      "lat": 45.0624079,
-      "lon": 7.6853044,
-      "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-05-19"
-    },
-    {
       "nome": "Dolce Mania dei Fratelli Lepori",
       "tipologia": "gelateria",
       "indirizzo": "Via Guido Reni, 205",
@@ -2760,8 +2745,8 @@
       "zona": "Centro",
       "citta": "Torino",
       "telefono": "011/0767531",
-      "recensore": "",
-      "categoria": "da_fare",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
       "lat": 45.066924,
       "lon": 7.6898965,
       "approssimato": false,
@@ -3206,20 +3191,20 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 211,
-    "con_coordinate": 211,
+    "totale_letti": 210,
+    "con_coordinate": 210,
     "manuali": 7,
     "approssimati": 0,
-    "precisi": 204,
+    "precisi": 203,
     "falliti": 0,
-    "con_recensore": 137,
-    "con_telefono": 211,
+    "con_recensore": 140,
+    "con_telefono": 210,
     "per_categoria": {
-      "fatto": 111,
+      "fatto": 114,
       "non_recensibile": 3,
       "riservato": 25,
-      "per_editori": 3,
-      "da_fare": 69
+      "per_editori": 2,
+      "da_fare": 66
     },
     "colonne_rilevate": {
       "nome": 4,
