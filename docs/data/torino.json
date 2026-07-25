@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T04:16:03+00:00",
+  "generated_at": "2026-07-25T10:26:16+00:00",
   "source_file": "Torino_2027.xlsx",
   "citta_default": "Torino",
   "regione": "Piemonte",
@@ -300,8 +300,8 @@
       "zona": "Pozzo Strada",
       "citta": "Torino",
       "telefono": "011/7041887",
-      "recensore": "bloccato per Catia Gribaudo",
-      "categoria": "riservato",
+      "recensore": "Catia Gribaudo",
+      "categoria": "fatto",
       "lat": 45.0674861,
       "lon": 7.6233688,
       "approssimato": false,
@@ -3200,9 +3200,9 @@
     "con_recensore": 140,
     "con_telefono": 210,
     "per_categoria": {
-      "fatto": 114,
+      "fatto": 115,
       "non_recensibile": 3,
-      "riservato": 25,
+      "riservato": 24,
       "per_editori": 2,
       "da_fare": 66
     },
