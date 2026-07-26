@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T04:31:31+00:00",
+  "generated_at": "2026-07-26T07:15:16+00:00",
   "source_file": "Torino_2027.xlsx",
   "citta_default": "Torino",
   "regione": "Piemonte",
@@ -1470,8 +1470,8 @@
       "zona": "Lingotto",
       "citta": "Torino",
       "telefono": "011/5694315",
-      "recensore": "bloccato per Francesca Vasciaveo",
-      "categoria": "riservato",
+      "recensore": "Francesca Vasciaveo",
+      "categoria": "fatto",
       "lat": 45.0394728,
       "lon": 7.6707548,
       "approssimato": false,
@@ -3200,9 +3200,9 @@
     "con_recensore": 140,
     "con_telefono": 210,
     "per_categoria": {
-      "fatto": 115,
+      "fatto": 116,
       "non_recensibile": 3,
-      "riservato": 24,
+      "riservato": 23,
       "per_editori": 2,
       "da_fare": 66
     },
