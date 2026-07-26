@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T07:15:15+00:00",
+  "generated_at": "2026-07-26T12:06:35+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -2365,18 +2365,18 @@
     },
     {
       "nome": "Rito",
-      "tipologia": "Via Achille Maiocchi, 18",
-      "indirizzo": "Porta Venezia",
-      "zona": "",
+      "tipologia": "caffetteria specialty",
+      "indirizzo": "Via Achille Maiocchi, 18",
+      "zona": "Porta Venezia",
       "citta": "Milano",
       "telefono": "02/38241909",
       "recensore": "Fernanda D'Arienzo",
       "categoria": "fatto",
-      "lat": 45.4742942,
-      "lon": 9.2052385,
+      "lat": 45.47543999195287,
+      "lon": 9.21405778895491,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-05-19"
+      "manuale": true,
+      "geocoded_at": "2026-07-26"
     },
     {
       "nome": "Sandì",
@@ -2385,13 +2385,13 @@
       "zona": "Viale Abruzzi",
       "citta": "Milano",
       "telefono": "02/82046200",
-      "recensore": "bloccato per Ilaria Leone",
-      "categoria": "riservato",
-      "lat": 45.4753101,
-      "lon": 9.2161169,
+      "recensore": "Ilaria Leone",
+      "categoria": "fatto",
+      "lat": 45.47529435352009,
+      "lon": 9.216154882209004,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-05-19"
+      "manuale": true,
+      "geocoded_at": "2026-07-26"
     },
     {
       "nome": "Stadera - gastronomia contemporanea",
@@ -3493,15 +3493,15 @@
   "stats": {
     "totale_letti": 230,
     "con_coordinate": 230,
-    "manuali": 5,
+    "manuali": 7,
     "approssimati": 0,
-    "precisi": 225,
+    "precisi": 223,
     "falliti": 0,
     "con_recensore": 197,
     "con_telefono": 227,
     "per_categoria": {
-      "fatto": 137,
-      "riservato": 60,
+      "fatto": 138,
+      "riservato": 59,
       "da_fare": 28,
       "per_editori": 5
     },
