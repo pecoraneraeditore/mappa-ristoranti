@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T04:15:05+00:00",
+  "generated_at": "2026-07-29T04:17:43+00:00",
   "source_file": "Torino_2027.xlsx",
   "citta_default": "Torino",
   "regione": "Piemonte",
@@ -396,7 +396,7 @@
       "lon": 7.682245039229181,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-28"
+      "geocoded_at": "2026-07-29"
     },
     {
       "nome": "Silos",
@@ -645,8 +645,8 @@
       "zona": "Quadrilatero Romano",
       "citta": "Torino",
       "telefono": "011/7641623",
-      "recensore": "bloccato per Francesca Vasciaveo",
-      "categoria": "riservato",
+      "recensore": "Francesca Vasciaveo",
+      "categoria": "fatto",
       "lat": 45.0720714,
       "lon": 7.6780134,
       "approssimato": false,
@@ -756,7 +756,7 @@
       "lon": 7.674135480627022,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-28"
+      "geocoded_at": "2026-07-29"
     },
     {
       "nome": "Trattoria Tarassaco",
@@ -1116,7 +1116,7 @@
       "lon": 7.690986168275447,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-28"
+      "geocoded_at": "2026-07-29"
     },
     {
       "nome": "El Beso",
@@ -1371,7 +1371,7 @@
       "lon": 7.682089683753758,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-28"
+      "geocoded_at": "2026-07-29"
     },
     {
       "nome": "Da Zero",
@@ -1521,7 +1521,7 @@
       "lon": 7.681117647008224,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-28"
+      "geocoded_at": "2026-07-29"
     },
     {
       "nome": "Caffè San Carlo",
@@ -1536,7 +1536,7 @@
       "lon": 7.682495521878584,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-28"
+      "geocoded_at": "2026-07-29"
     },
     {
       "nome": "Cibrario forno contemporaneo",
@@ -2046,7 +2046,7 @@
       "lon": 7.659341688955742,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-28"
+      "geocoded_at": "2026-07-29"
     },
     {
       "nome": "The Tea",
@@ -3200,9 +3200,9 @@
     "con_recensore": 140,
     "con_telefono": 210,
     "per_categoria": {
-      "fatto": 116,
+      "fatto": 117,
       "non_recensibile": 3,
-      "riservato": 23,
+      "riservato": 22,
       "per_editori": 2,
       "da_fare": 66
     },
