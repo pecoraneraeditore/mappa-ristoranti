@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T04:10:51+00:00",
+  "generated_at": "2026-07-30T06:27:14+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -2437,6 +2437,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-18"
+    },
+    {
+      "nome": "Raimondo",
+      "tipologia": "tradizionale",
+      "indirizzo": "Via Rosa Raimondi Garibaldi, 4",
+      "zona": "Garbatella",
+      "citta": "Roma",
+      "telefono": "06/86673381",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 41.85970610279957,
+      "lon": 12.493624587269387,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-07-30"
     },
     {
       "nome": "Ristorante Belvedere dal 1933",
@@ -7376,19 +7391,19 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 489,
-    "con_coordinate": 489,
-    "manuali": 72,
+    "totale_letti": 490,
+    "con_coordinate": 490,
+    "manuali": 73,
     "approssimati": 0,
     "precisi": 417,
     "falliti": 0,
     "con_recensore": 422,
-    "con_telefono": 487,
+    "con_telefono": 488,
     "per_categoria": {
       "fatto": 288,
       "riservato": 125,
       "per_editori": 15,
-      "da_fare": 48,
+      "da_fare": 49,
       "non_recensibile": 4,
       "da_finire": 9
     },
