@@ -4127,6 +4127,12 @@
     "lat": 45.4723832,
     "lon": 9.2099651
   },
+  "retrobottega|via del velabro, 9|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-07-31",
+    "lat": 41.8893572,
+    "lon": 12.4829578
+  },
   "retrobottega|via d’ascanio, 26/a|roma": {
     "geocoded_at": "2026-05-18",
     "lat": 41.9019065,

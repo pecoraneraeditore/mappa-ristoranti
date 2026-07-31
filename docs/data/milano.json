@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T09:59:03+00:00",
+  "generated_at": "2026-07-31T04:28:13+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -390,8 +390,8 @@
       "zona": "Navigli",
       "citta": "Milano",
       "telefono": "02/82781557",
-      "recensore": "bloccato per Giulia Pietracaprina",
-      "categoria": "riservato",
+      "recensore": "Giulia Pietracaprina",
+      "categoria": "fatto",
       "lat": 45.4449358,
       "lon": 9.1776294,
       "approssimato": false,
@@ -1671,7 +1671,7 @@
       "lon": 9.188318879752167,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-30"
+      "geocoded_at": "2026-07-31"
     },
     {
       "nome": "Bar Affori",
@@ -2121,7 +2121,7 @@
       "lon": 9.157788011970972,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-30"
+      "geocoded_at": "2026-07-31"
     },
     {
       "nome": "Tre Chicchere",
@@ -2346,7 +2346,7 @@
       "lon": 9.187218264086697,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-30"
+      "geocoded_at": "2026-07-31"
     },
     {
       "nome": "Rito",
@@ -2361,7 +2361,7 @@
       "lon": 9.21405778895491,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-30"
+      "geocoded_at": "2026-07-31"
     },
     {
       "nome": "Sandì",
@@ -2376,7 +2376,7 @@
       "lon": 9.216154882209004,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-30"
+      "geocoded_at": "2026-07-31"
     },
     {
       "nome": "Stadera - gastronomia contemporanea",
@@ -2856,7 +2856,7 @@
       "lon": 9.220205980253644,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-30"
+      "geocoded_at": "2026-07-31"
     },
     {
       "nome": "Porcobrado",
@@ -3351,7 +3351,7 @@
       "lon": 9.212648146393095,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-07-30"
+      "geocoded_at": "2026-07-31"
     },
     {
       "nome": "Rigoletto",
@@ -3500,8 +3500,8 @@
     "con_recensore": 197,
     "con_telefono": 227,
     "per_categoria": {
-      "fatto": 142,
-      "riservato": 55,
+      "fatto": 143,
+      "riservato": 54,
       "da_fare": 28,
       "per_editori": 5
     },
