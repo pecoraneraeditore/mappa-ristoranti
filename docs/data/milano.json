@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T04:28:06+00:00",
+  "generated_at": "2026-08-02T07:53:45+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -675,8 +675,8 @@
       "zona": "Risorgimento",
       "citta": "Milano",
       "telefono": "02/49705612",
-      "recensore": "bloccato per Alice D'Adda",
-      "categoria": "riservato",
+      "recensore": "Alice D'Adda",
+      "categoria": "fatto",
       "lat": 45.4662072,
       "lon": 9.2119112,
       "approssimato": false,
@@ -3500,8 +3500,8 @@
     "con_recensore": 197,
     "con_telefono": 227,
     "per_categoria": {
-      "fatto": 143,
-      "riservato": 54,
+      "fatto": 144,
+      "riservato": 53,
       "da_fare": 28,
       "per_editori": 5
     },
