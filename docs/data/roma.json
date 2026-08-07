@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T12:49:10+00:00",
+  "generated_at": "2026-08-07T13:29:19+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -1125,8 +1125,8 @@
       "zona": "Garbatella",
       "citta": "Roma",
       "telefono": "334/3855945",
-      "recensore": "",
-      "categoria": "per_editori",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
       "lat": 41.8704805,
       "lon": 12.4844844,
       "approssimato": false,
@@ -7397,12 +7397,12 @@
     "approssimati": 0,
     "precisi": 416,
     "falliti": 0,
-    "con_recensore": 430,
+    "con_recensore": 431,
     "con_telefono": 487,
     "per_categoria": {
-      "fatto": 298,
+      "fatto": 299,
       "riservato": 123,
-      "per_editori": 13,
+      "per_editori": 12,
       "da_fare": 44,
       "non_recensibile": 3,
       "da_finire": 9
