@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T03:54:01+00:00",
+  "generated_at": "2026-08-07T07:20:29+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -1905,8 +1905,8 @@
       "zona": "Tor Carbone",
       "citta": "Roma",
       "telefono": "351/7590202",
-      "recensore": "bloccato per Anca Enache",
-      "categoria": "riservato",
+      "recensore": "Anca Enache",
+      "categoria": "fatto",
       "lat": 41.8311026,
       "lon": 12.5222979,
       "approssimato": false,
@@ -7400,8 +7400,8 @@
     "con_recensore": 429,
     "con_telefono": 487,
     "per_categoria": {
-      "fatto": 296,
-      "riservato": 124,
+      "fatto": 297,
+      "riservato": 123,
       "per_editori": 14,
       "da_fare": 44,
       "non_recensibile": 3,
