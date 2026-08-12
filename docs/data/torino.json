@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T03:25:21+00:00",
+  "generated_at": "2026-08-12T21:07:40+00:00",
   "source_file": "Torino_2027.xlsx",
   "citta_default": "Torino",
   "regione": "Piemonte",
@@ -2310,8 +2310,8 @@
       "zona": "Barriera di Milano",
       "citta": "Torino",
       "telefono": "375/7700654",
-      "recensore": "bloccato per Isabella Brandino",
-      "categoria": "riservato",
+      "recensore": "Isabella Brandino",
+      "categoria": "fatto",
       "lat": 45.0907467,
       "lon": 7.6845808,
       "approssimato": false,
@@ -3200,9 +3200,9 @@
     "con_recensore": 140,
     "con_telefono": 210,
     "per_categoria": {
-      "fatto": 118,
+      "fatto": 119,
       "non_recensibile": 4,
-      "riservato": 20,
+      "riservato": 19,
       "per_editori": 2,
       "da_fare": 66
     },
