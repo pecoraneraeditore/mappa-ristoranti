@@ -4076,6 +4076,12 @@
     "lat": 41.9085511,
     "lon": 12.4647506
   },
+  "pupillo pura pizza|via cesare battisti, 30|latina": {
+    "approssimato": false,
+    "geocoded_at": "2026-08-25",
+    "lat": 41.4691941,
+    "lon": 12.9025235
+  },
   "pupillo pura pizza|via giacomo matteotti, 29|priverno": {
     "geocoded_at": "2026-05-18",
     "lat": 41.4717073,
