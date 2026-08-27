@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T11:05:32+00:00",
+  "generated_at": "2026-08-27T13:17:14+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -2422,6 +2422,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-18"
+    },
+    {
+      "nome": "Pepe Nero",
+      "tipologia": "tradizionale con spunti creativi",
+      "indirizzo": "Viale Regina Margherita, snc",
+      "zona": "",
+      "citta": "Capodimonte",
+      "telefono": "0761/871909",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
+      "lat": 42.553602550849845,
+      "lon": 11.89465268098301,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-08-27"
     },
     {
       "nome": "Piazzetta del Sole",
@@ -7406,16 +7421,16 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 491,
-    "con_coordinate": 491,
-    "manuali": 78,
+    "totale_letti": 492,
+    "con_coordinate": 492,
+    "manuali": 79,
     "approssimati": 0,
     "precisi": 413,
     "falliti": 0,
-    "con_recensore": 434,
-    "con_telefono": 488,
+    "con_recensore": 435,
+    "con_telefono": 489,
     "per_categoria": {
-      "fatto": 310,
+      "fatto": 311,
       "riservato": 115,
       "per_editori": 13,
       "da_fare": 41,
