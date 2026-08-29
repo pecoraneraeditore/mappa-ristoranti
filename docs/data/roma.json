@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T07:46:45+00:00",
+  "generated_at": "2026-08-29T09:17:37+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -739,6 +739,21 @@
       "categoria": "fatto",
       "lat": 41.9043954992026,
       "lon": 12.47526483926433,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-08-29"
+    },
+    {
+      "nome": "Il Picchio",
+      "tipologia": "tradizionale",
+      "indirizzo": "Piazza Vittorio Emanuele, 33",
+      "zona": "",
+      "citta": "Torano",
+      "telefono": "348/2328300",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 42.1527981195671,
+      "lon": 13.25939272388225,
       "approssimato": false,
       "manuale": true,
       "geocoded_at": "2026-08-29"
@@ -7406,19 +7421,19 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 491,
-    "con_coordinate": 491,
-    "manuali": 81,
+    "totale_letti": 492,
+    "con_coordinate": 492,
+    "manuali": 82,
     "approssimati": 0,
     "precisi": 410,
     "falliti": 0,
     "con_recensore": 436,
-    "con_telefono": 488,
+    "con_telefono": 489,
     "per_categoria": {
       "fatto": 343,
       "riservato": 84,
       "per_editori": 12,
-      "da_fare": 40,
+      "da_fare": 41,
       "non_recensibile": 3,
       "da_finire": 9
     },
