@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T09:17:37+00:00",
+  "generated_at": "2026-08-29T17:26:10+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -4284,6 +4284,21 @@
       "geocoded_at": "2026-05-18"
     },
     {
+      "nome": "Vico Pizza & Wine",
+      "tipologia": "pizzeria",
+      "indirizzo": "Piazza Rondanini, 47",
+      "zona": "Pantheon",
+      "citta": "Roma",
+      "telefono": "06/87809501",
+      "recensore": "Luca Veglianti",
+      "categoria": "fatto",
+      "lat": 41.89979359752863,
+      "lon": 12.475981967920298,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-08-29"
+    },
+    {
       "nome": "Artigiano del Caffè",
       "tipologia": "caffetteria",
       "indirizzo": "Via Famagosta, 14",
@@ -7421,16 +7436,16 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 492,
-    "con_coordinate": 492,
-    "manuali": 82,
+    "totale_letti": 493,
+    "con_coordinate": 493,
+    "manuali": 83,
     "approssimati": 0,
     "precisi": 410,
     "falliti": 0,
-    "con_recensore": 436,
-    "con_telefono": 489,
+    "con_recensore": 437,
+    "con_telefono": 490,
     "per_categoria": {
-      "fatto": 343,
+      "fatto": 344,
       "riservato": 84,
       "per_editori": 12,
       "da_fare": 41,
