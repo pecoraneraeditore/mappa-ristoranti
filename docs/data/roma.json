@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T06:25:06+00:00",
+  "generated_at": "2026-08-30T08:33:26+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -225,8 +225,8 @@
       "zona": "",
       "citta": "Rivodutri",
       "telefono": "0746/685078",
-      "recensore": "",
-      "categoria": "per_editori",
+      "recensore": "Simone Cargiani",
+      "categoria": "fatto",
       "lat": 42.498441707211114,
       "lon": 12.849190594785567,
       "approssimato": false,
@@ -7442,12 +7442,12 @@
     "approssimati": 0,
     "precisi": 410,
     "falliti": 0,
-    "con_recensore": 437,
+    "con_recensore": 438,
     "con_telefono": 490,
     "per_categoria": {
-      "fatto": 344,
+      "fatto": 345,
       "riservato": 84,
-      "per_editori": 12,
+      "per_editori": 11,
       "da_fare": 41,
       "non_recensibile": 3,
       "da_finire": 9
