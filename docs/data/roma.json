@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T06:52:28+00:00",
+  "generated_at": "2026-08-31T15:17:35+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -5985,8 +5985,8 @@
       "zona": "Portonaccio",
       "citta": "Roma",
       "telefono": "06/45551271",
-      "recensore": "bloccato per Elisa Del Frate",
-      "categoria": "riservato",
+      "recensore": "Elisa Del Frate",
+      "categoria": "fatto",
       "lat": 41.9077765,
       "lon": 12.5364623,
       "approssimato": false,
@@ -7445,8 +7445,8 @@
     "con_recensore": 438,
     "con_telefono": 490,
     "per_categoria": {
-      "fatto": 346,
-      "riservato": 83,
+      "fatto": 347,
+      "riservato": 82,
       "per_editori": 11,
       "da_fare": 41,
       "non_recensibile": 3,
