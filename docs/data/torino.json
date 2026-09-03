@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T09:52:23+00:00",
+  "generated_at": "2026-09-03T12:12:27+00:00",
   "source_file": "Torino_2027.xlsx",
   "citta_default": "Torino",
   "regione": "Piemonte",
@@ -840,8 +840,8 @@
       "zona": "Cenisia",
       "citta": "Torino",
       "telefono": "011/3854347",
-      "recensore": "",
-      "categoria": "da_fare",
+      "recensore": "bloccato per Francesca Vasciaveo",
+      "categoria": "riservato",
       "lat": 45.0709255,
       "lon": 7.6428922,
       "approssimato": false,
@@ -3197,14 +3197,14 @@
     "approssimati": 0,
     "precisi": 202,
     "falliti": 0,
-    "con_recensore": 140,
+    "con_recensore": 141,
     "con_telefono": 210,
     "per_categoria": {
       "fatto": 126,
       "non_recensibile": 4,
-      "riservato": 12,
+      "riservato": 13,
       "per_editori": 2,
-      "da_fare": 66
+      "da_fare": 65
     },
     "colonne_rilevate": {
       "nome": 4,
