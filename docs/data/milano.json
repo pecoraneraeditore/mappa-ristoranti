@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T05:36:32+00:00",
+  "generated_at": "2026-09-03T07:40:04+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -2760,8 +2760,8 @@
       "zona": "Porta Venezia",
       "citta": "Milano",
       "telefono": "02/45942171",
-      "recensore": "bloccato per Maria Vittoria Ottaviano",
-      "categoria": "riservato",
+      "recensore": "Maria Vittoria Ottaviano",
+      "categoria": "fatto",
       "lat": 45.4733768,
       "lon": 9.2123335,
       "approssimato": false,
@@ -3500,8 +3500,8 @@
     "con_recensore": 197,
     "con_telefono": 227,
     "per_categoria": {
-      "fatto": 150,
-      "riservato": 47,
+      "fatto": 151,
+      "riservato": 46,
       "da_fare": 28,
       "per_editori": 5
     },
