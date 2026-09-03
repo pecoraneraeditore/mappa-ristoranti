@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T07:40:03+00:00",
+  "generated_at": "2026-09-03T09:52:21+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -6825,8 +6825,8 @@
       "zona": "Piazza Crati",
       "citta": "Roma",
       "telefono": "06/86200724",
-      "recensore": "bloccato per Vanessa Picena",
-      "categoria": "riservato",
+      "recensore": "Vanessa Picena",
+      "categoria": "fatto",
       "lat": 41.9319781,
       "lon": 12.5120402,
       "approssimato": false,
@@ -7445,8 +7445,8 @@
     "con_recensore": 438,
     "con_telefono": 490,
     "per_categoria": {
-      "fatto": 356,
-      "riservato": 73,
+      "fatto": 357,
+      "riservato": 72,
       "per_editori": 10,
       "da_fare": 42,
       "non_recensibile": 3,
