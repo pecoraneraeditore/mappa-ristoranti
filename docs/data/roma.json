@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T12:12:26+00:00",
+  "generated_at": "2026-09-03T13:35:45+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -180,8 +180,8 @@
       "zona": "",
       "citta": "Fiumicino",
       "telefono": "06/5522778",
-      "recensore": "bloccato per Valentino Affinita",
-      "categoria": "riservato",
+      "recensore": "Valentino Affinita",
+      "categoria": "fatto",
       "lat": 41.7504015,
       "lon": 12.2675406,
       "approssimato": false,
@@ -7445,8 +7445,8 @@
     "con_recensore": 438,
     "con_telefono": 490,
     "per_categoria": {
-      "fatto": 357,
-      "riservato": 72,
+      "fatto": 358,
+      "riservato": 71,
       "per_editori": 10,
       "da_fare": 42,
       "non_recensibile": 3,
