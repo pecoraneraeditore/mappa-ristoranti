@@ -4785,6 +4785,18 @@
     "lat": 45.0736066,
     "lon": 7.6812818
   },
+  "tiella|piazza regina margherita, 25/26|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-09-04",
+    "lat": 41.9138248,
+    "lon": 12.5055608
+  },
+  "tiella|via vito giuseppe galati, 52|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-09-04",
+    "lat": 41.9104824,
+    "lon": 12.5689929
+  },
   "tiemì|via tiziano, 13|milano": {
     "approssimato": false,
     "geocoded_at": "2026-05-19",
