@@ -787,6 +787,12 @@
     "lat": 45.0682992,
     "lon": 7.6823344
   },
+  "cafè conti & co.|via pellegrino rossi, 1|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-09-05",
+    "lat": 41.8956862,
+    "lon": 12.5015254
+  },
   "cafè merenda|via del gazometro, 5/a|roma": {
     "geocoded_at": "2026-05-18",
     "lat": 41.8711243,

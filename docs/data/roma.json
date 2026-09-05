@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T09:16:11+00:00",
+  "generated_at": "2026-09-05T16:28:15+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -4884,6 +4884,21 @@
       "geocoded_at": "2026-05-18"
     },
     {
+      "nome": "Cafè Conti & Co.",
+      "tipologia": "caffè specialty / brunch",
+      "indirizzo": "Via Pellegrino Rossi, 1",
+      "zona": "Esquilino",
+      "citta": "Roma",
+      "telefono": "n.d.",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
+      "lat": 41.8956862,
+      "lon": 12.5015254,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-09-05"
+    },
+    {
       "nome": "Cheebo",
       "tipologia": "hamburgheria",
       "indirizzo": "Via Aretusa, 6",
@@ -7466,16 +7481,16 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 495,
-    "con_coordinate": 495,
+    "totale_letti": 496,
+    "con_coordinate": 496,
     "manuali": 83,
     "approssimati": 0,
-    "precisi": 412,
+    "precisi": 413,
     "falliti": 0,
-    "con_recensore": 440,
-    "con_telefono": 492,
+    "con_recensore": 441,
+    "con_telefono": 493,
     "per_categoria": {
-      "fatto": 361,
+      "fatto": 362,
       "riservato": 70,
       "per_editori": 10,
       "da_fare": 42,
