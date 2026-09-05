@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T16:28:16+00:00",
+  "generated_at": "2026-09-05T17:01:35+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -2895,8 +2895,8 @@
       "zona": "Risorgimento",
       "citta": "Milano",
       "telefono": "347/2402269",
-      "recensore": "bloccato per Ilaria Leone",
-      "categoria": "riservato",
+      "recensore": "Ilaria Leone",
+      "categoria": "fatto",
       "lat": 45.4660552,
       "lon": 9.2108805,
       "approssimato": false,
@@ -3500,8 +3500,8 @@
     "con_recensore": 197,
     "con_telefono": 227,
     "per_categoria": {
-      "fatto": 152,
-      "riservato": 45,
+      "fatto": 153,
+      "riservato": 44,
       "da_fare": 28,
       "per_editori": 5
     },
