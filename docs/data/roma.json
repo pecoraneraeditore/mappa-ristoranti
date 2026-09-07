@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T05:54:03+00:00",
+  "generated_at": "2026-09-07T07:14:50+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -1747,6 +1747,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-18"
+    },
+    {
+      "nome": "La Clessidra",
+      "tipologia": "pesce",
+      "indirizzo": "Via Antonio Gramsci, 97",
+      "zona": "",
+      "citta": "Anzio",
+      "telefono": "375/7975609",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 41.45183832097367,
+      "lon": 12.633921659316934,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-09-07"
     },
     {
       "nome": "La Galleria di Sopra",
@@ -7481,19 +7496,19 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 496,
-    "con_coordinate": 496,
-    "manuali": 83,
+    "totale_letti": 497,
+    "con_coordinate": 497,
+    "manuali": 84,
     "approssimati": 0,
     "precisi": 413,
     "falliti": 0,
     "con_recensore": 441,
-    "con_telefono": 493,
+    "con_telefono": 494,
     "per_categoria": {
       "fatto": 362,
       "riservato": 70,
       "per_editori": 10,
-      "da_fare": 42,
+      "da_fare": 43,
       "non_recensibile": 3,
       "da_finire": 9
     },
