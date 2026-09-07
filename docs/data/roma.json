@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T07:14:50+00:00",
+  "generated_at": "2026-09-07T13:37:26+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -450,8 +450,8 @@
       "zona": "Piazza Re di Roma",
       "citta": "Roma",
       "telefono": "06/97273382",
-      "recensore": "bloccato per Matteo Damiani",
-      "categoria": "riservato",
+      "recensore": "Matteo Damiani",
+      "categoria": "fatto",
       "lat": 41.8835934,
       "lon": 12.5136174,
       "approssimato": false,
@@ -7505,8 +7505,8 @@
     "con_recensore": 441,
     "con_telefono": 494,
     "per_categoria": {
-      "fatto": 362,
-      "riservato": 70,
+      "fatto": 363,
+      "riservato": 69,
       "per_editori": 10,
       "da_fare": 43,
       "non_recensibile": 3,
