@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T05:46:58+00:00",
+  "generated_at": "2026-09-08T12:12:54+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -2925,8 +2925,8 @@
       "zona": "Crocetta",
       "citta": "Milano",
       "telefono": "02/ 545 5475",
-      "recensore": "bloccato per Maria Vittoria Ottaviano",
-      "categoria": "riservato",
+      "recensore": "Maria Vittoria Ottaviano",
+      "categoria": "fatto",
       "lat": 45.4548533,
       "lon": 9.1989742,
       "approssimato": false,
@@ -3500,8 +3500,8 @@
     "con_recensore": 197,
     "con_telefono": 227,
     "per_categoria": {
-      "fatto": 153,
-      "riservato": 44,
+      "fatto": 154,
+      "riservato": 43,
       "da_fare": 28,
       "per_editori": 5
     },
