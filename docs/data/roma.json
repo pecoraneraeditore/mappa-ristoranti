@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T05:45:30+00:00",
+  "generated_at": "2026-09-11T07:37:31+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -4755,8 +4755,8 @@
       "zona": "Piazza Mazzini",
       "citta": "Roma",
       "telefono": "06/86214524",
-      "recensore": "",
-      "categoria": "per_editori",
+      "recensore": "Simone Cargiani",
+      "categoria": "fatto",
       "lat": 41.9182779,
       "lon": 12.4643577,
       "approssimato": false,
@@ -7517,12 +7517,12 @@
     "approssimati": 0,
     "precisi": 414,
     "falliti": 0,
-    "con_recensore": 445,
+    "con_recensore": 446,
     "con_telefono": 495,
     "per_categoria": {
-      "fatto": 390,
+      "fatto": 391,
       "riservato": 55,
-      "per_editori": 7,
+      "per_editori": 6,
       "da_fare": 43,
       "non_recensibile": 3
     },
