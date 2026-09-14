@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T17:51:42+00:00",
+  "generated_at": "2026-09-14T05:59:36+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -75,8 +75,8 @@
       "zona": "Piazza del Popolo",
       "citta": "Roma",
       "telefono": "06/97996907",
-      "recensore": "bloccato per Matteo Damiani",
-      "categoria": "riservato",
+      "recensore": "",
+      "categoria": "da_fare",
       "lat": 41.914043,
       "lon": 12.4730678,
       "approssimato": false,
@@ -150,8 +150,8 @@
       "zona": "Piazza Navona",
       "citta": "Roma",
       "telefono": "06/6869432",
-      "recensore": "bloccato per Matteo Damiani",
-      "categoria": "riservato",
+      "recensore": "",
+      "categoria": "da_fare",
       "lat": 41.9015324,
       "lon": 12.4725158,
       "approssimato": false,
@@ -231,7 +231,7 @@
       "lon": 12.849190594785567,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "L'Osteria dell'Orologio",
@@ -317,11 +317,11 @@
       "telefono": "06/65029204",
       "recensore": "Simone Cargiani",
       "categoria": "fatto",
-      "lat": 41.7708257,
-      "lon": 12.2314523,
+      "lat": 41.77006211765232,
+      "lon": 12.22735940892787,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-05-18"
+      "manuale": true,
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Per Me",
@@ -351,7 +351,7 @@
       "lon": 12.468759116941461,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Pulejo",
@@ -396,7 +396,7 @@
       "lon": 12.741851017737611,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Zia Restaurant",
@@ -441,7 +441,7 @@
       "lon": 12.661723908109279,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Barred",
@@ -450,8 +450,8 @@
       "zona": "Piazza Re di Roma",
       "citta": "Roma",
       "telefono": "06/97273382",
-      "recensore": "Matteo Damiani",
-      "categoria": "fatto",
+      "recensore": "",
+      "categoria": "da_fare",
       "lat": 41.8835934,
       "lon": 12.5136174,
       "approssimato": false,
@@ -591,7 +591,7 @@
       "lon": 12.493778041993513,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Dogma",
@@ -675,8 +675,8 @@
       "zona": "",
       "citta": "Civitavecchia",
       "telefono": "0766/672647",
-      "recensore": "Matteo Damiani",
-      "categoria": "fatto",
+      "recensore": "",
+      "categoria": "da_fare",
       "lat": 42.0936173,
       "lon": 11.7914145,
       "approssimato": false,
@@ -711,7 +711,7 @@
       "lon": 12.465099700815312,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Hand Made",
@@ -741,7 +741,7 @@
       "lon": 12.47526483926433,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Il Picchio",
@@ -756,7 +756,7 @@
       "lon": 13.25939272388225,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Isotta - Trattoria Cortese",
@@ -771,7 +771,7 @@
       "lon": 12.420204632620242,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "La Ciambella bar à vin",
@@ -801,7 +801,7 @@
       "lon": 13.606285625808828,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "La Tana dei Carbonari",
@@ -816,7 +816,7 @@
       "lon": 13.154755650341361,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Locanda Altobelli",
@@ -861,7 +861,7 @@
       "lon": 12.229620634749661,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Metis",
@@ -966,7 +966,7 @@
       "lon": 12.482551076173982,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Riccioli d'Oro",
@@ -1011,7 +1011,7 @@
       "lon": 12.76587676294282,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Ristorante Moi",
@@ -1041,7 +1041,7 @@
       "lon": 12.473675090627594,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Scambio Cucina Condivisa",
@@ -1191,7 +1191,7 @@
       "lon": 12.967058864523024,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Ai Due Otri",
@@ -1236,7 +1236,7 @@
       "lon": 12.492143684658373,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Alla Magnatora",
@@ -1251,7 +1251,7 @@
       "lon": 13.166111144621077,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Angelino \"ai Fori\" dal 1947",
@@ -1320,8 +1320,8 @@
       "zona": "Aventino",
       "citta": "Roma",
       "telefono": "06/66594151",
-      "recensore": "bloccato per Matteo Damiani",
-      "categoria": "riservato",
+      "recensore": "",
+      "categoria": "da_fare",
       "lat": 41.8789508,
       "lon": 12.483181,
       "approssimato": false,
@@ -1356,7 +1356,7 @@
       "lon": 13.83952498668336,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Borgo San Giorgio",
@@ -1386,7 +1386,7 @@
       "lon": 12.978489249161939,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Buccia",
@@ -1416,7 +1416,7 @@
       "lon": 13.122920514770096,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Chalet del Lago",
@@ -1431,7 +1431,7 @@
       "lon": 12.262343120947389,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Chinappi",
@@ -1461,7 +1461,7 @@
       "lon": 13.607647265635304,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Contrada Rapello",
@@ -1515,8 +1515,8 @@
       "zona": "Ex Fiera",
       "citta": "Roma",
       "telefono": "06/5404352",
-      "recensore": "bloccato per Matteo Damiani",
-      "categoria": "riservato",
+      "recensore": "",
+      "categoria": "da_fare",
       "lat": 41.8512046,
       "lon": 12.483984,
       "approssimato": false,
@@ -1536,7 +1536,7 @@
       "lon": 12.914128534051267,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Divina Giulia",
@@ -1611,7 +1611,7 @@
       "lon": 12.726402166442702,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Il Calice e la Stella",
@@ -1656,7 +1656,7 @@
       "lon": 13.431396627622997,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Il Grecale",
@@ -1710,8 +1710,8 @@
       "zona": "Centocelle",
       "citta": "Roma",
       "telefono": "06/89619556",
-      "recensore": "Matteo Damiani",
-      "categoria": "fatto",
+      "recensore": "",
+      "categoria": "da_fare",
       "lat": 41.8781912,
       "lon": 12.5639629,
       "approssimato": false,
@@ -1731,7 +1731,7 @@
       "lon": 12.18767684194969,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "La Bottega delle tre Sorelle",
@@ -1761,7 +1761,7 @@
       "lon": 12.633921659316934,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "La Galleria di Sopra",
@@ -1821,7 +1821,7 @@
       "lon": 13.40640249472946,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "La Locanda della Chiocciola",
@@ -1836,7 +1836,7 @@
       "lon": 12.359566954675824,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "La Palazzina",
@@ -1851,7 +1851,7 @@
       "lon": 12.794924682160278,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "La Quercia",
@@ -1881,7 +1881,7 @@
       "lon": 12.985776634939107,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "La Taverna dei Corsari",
@@ -1896,7 +1896,7 @@
       "lon": 12.692992578950797,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "La Villetta",
@@ -1926,7 +1926,7 @@
       "lon": 12.682042775213542,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Le Murelle",
@@ -1941,7 +1941,7 @@
       "lon": 11.603388514188062,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Leon d'Oro",
@@ -1956,7 +1956,7 @@
       "lon": 12.963527058287966,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Li Somari",
@@ -1986,7 +1986,7 @@
       "lon": 13.520841403709602,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Locanda Dorica",
@@ -2205,8 +2205,8 @@
       "zona": "Ex Fiera",
       "citta": "Roma",
       "telefono": "06/59600651",
-      "recensore": "Matteo Damiani",
-      "categoria": "fatto",
+      "recensore": "",
+      "categoria": "da_fare",
       "lat": 41.8495679,
       "lon": 12.4884847,
       "approssimato": false,
@@ -2301,7 +2301,7 @@
       "lon": 13.09081426816814,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Orsola",
@@ -2316,7 +2316,7 @@
       "lon": 11.902343389858135,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Osteria “Il Bersagliere”",
@@ -2346,7 +2346,7 @@
       "lon": 13.737764537660487,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Osteria del Borgo",
@@ -2361,7 +2361,7 @@
       "lon": 12.34996953999624,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Osteria del Tempo Perso",
@@ -2376,7 +2376,7 @@
       "lon": 13.713537624096158,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Osteria di Maccarese",
@@ -2436,7 +2436,7 @@
       "lon": 12.962091128660296,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Osteria Santa Lucia",
@@ -2466,7 +2466,7 @@
       "lon": 11.832933159518674,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Pastorie",
@@ -2496,7 +2496,7 @@
       "lon": 11.89465268098301,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Piazzetta del Sole",
@@ -2511,7 +2511,7 @@
       "lon": 11.722242354291765,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Popina Trattoria",
@@ -2586,7 +2586,7 @@
       "lon": 12.495906231519927,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Santuccio ai Colli",
@@ -2751,7 +2751,7 @@
       "lon": 12.501959002216351,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Vineria Cesare dal 1963",
@@ -2826,7 +2826,7 @@
       "lon": 12.472263712577922,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Roscioli",
@@ -2901,7 +2901,7 @@
       "lon": 12.44651286331835,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Felice",
@@ -2976,7 +2976,7 @@
       "lon": 12.469286624826061,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Il Filo Rosso di Coralli",
@@ -2991,7 +2991,7 @@
       "lon": 12.772112791252264,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Il Vecchio Mulino",
@@ -3006,7 +3006,7 @@
       "lon": 12.10927651128648,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Iotto",
@@ -3111,7 +3111,7 @@
       "lon": 12.113497979928281,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Osteria Bonelli",
@@ -3120,8 +3120,8 @@
       "zona": "Torpignattara",
       "citta": "Roma",
       "telefono": "329/8633077",
-      "recensore": "bloccato per Matteo Damiani",
-      "categoria": "riservato",
+      "recensore": "",
+      "categoria": "da_fare",
       "lat": 41.8765276,
       "lon": 12.5463148,
       "approssimato": false,
@@ -3156,7 +3156,7 @@
       "lon": 13.143353525815082,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Osteria Fratelli Mori",
@@ -3321,7 +3321,7 @@
       "lon": 12.469034833268445,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Dar Basha",
@@ -3576,7 +3576,7 @@
       "lon": 12.455706103885415,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Nomisan",
@@ -3870,13 +3870,13 @@
       "zona": "",
       "citta": "Fiumicino",
       "telefono": "328/8181651",
-      "recensore": "Matteo Damiani",
-      "categoria": "fatto",
+      "recensore": "",
+      "categoria": "da_fare",
       "lat": 41.77138755806573,
       "lon": 12.228188973513207,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Crunch!",
@@ -4326,7 +4326,7 @@
       "lon": 12.475981967920298,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Artigiano del Caffè",
@@ -4401,7 +4401,7 @@
       "lon": 12.430385400824383,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Caffè Conti",
@@ -4416,7 +4416,7 @@
       "lon": 12.647856071662343,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Caffè Fleming",
@@ -4431,7 +4431,7 @@
       "lon": 12.473496611504828,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Casa Manfredi",
@@ -4485,8 +4485,8 @@
       "zona": "Monteverde Nuovo",
       "citta": "Roma",
       "telefono": "06/58230323",
-      "recensore": "bloccato per Matteo Damiani",
-      "categoria": "riservato",
+      "recensore": "",
+      "categoria": "da_fare",
       "lat": 41.8693631,
       "lon": 12.446614,
       "approssimato": false,
@@ -4530,8 +4530,8 @@
       "zona": "Pigneto",
       "citta": "Roma",
       "telefono": "06/69301043",
-      "recensore": "bloccato per Matteo Damiani",
-      "categoria": "riservato",
+      "recensore": "",
+      "categoria": "da_fare",
       "lat": 41.8911972,
       "lon": 12.5327448,
       "approssimato": false,
@@ -4701,7 +4701,7 @@
       "lon": 12.47504955492014,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Nero Vaniglia",
@@ -4710,8 +4710,8 @@
       "zona": "Garbatella",
       "citta": "Roma",
       "telefono": "06/5780306",
-      "recensore": "Matteo Damiani",
-      "categoria": "fatto",
+      "recensore": "",
+      "categoria": "da_fare",
       "lat": 41.8674507,
       "lon": 12.4899351,
       "approssimato": false,
@@ -4821,7 +4821,7 @@
       "lon": 12.474733789090989,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Slow",
@@ -4836,7 +4836,7 @@
       "lon": 12.476047171258973,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Sordoni",
@@ -4860,8 +4860,8 @@
       "zona": "Castel Sant'Angelo",
       "citta": "Roma",
       "telefono": "375/7051217",
-      "recensore": "bloccato per Matteo Damiani",
-      "categoria": "riservato",
+      "recensore": "",
+      "categoria": "da_fare",
       "lat": 41.9053062,
       "lon": 12.4633687,
       "approssimato": false,
@@ -5166,7 +5166,7 @@
       "lon": 12.52730874517291,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Sicché - Roba toscana",
@@ -5466,7 +5466,7 @@
       "lon": 12.472919696984244,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Mostò",
@@ -5526,7 +5526,7 @@
       "lon": 12.504400880125283,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Sottobanco",
@@ -5535,8 +5535,8 @@
       "zona": "Parioli",
       "citta": "Roma",
       "telefono": "06/85857447",
-      "recensore": "bloccato per Matteo Damiani",
-      "categoria": "riservato",
+      "recensore": "",
+      "categoria": "da_fare",
       "lat": 41.92772,
       "lon": 12.4834806,
       "approssimato": false,
@@ -5616,7 +5616,7 @@
       "lon": 12.469444484857682,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Aromaticus",
@@ -5751,7 +5751,7 @@
       "lon": 12.5381366209542,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Koû Koû",
@@ -5841,7 +5841,7 @@
       "lon": 12.493624587269387,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Santí - tradizione contadina",
@@ -5880,8 +5880,8 @@
       "zona": "Quadraro",
       "citta": "Roma",
       "telefono": "370/1411858",
-      "recensore": "bloccato per Matteo Damiani",
-      "categoria": "riservato",
+      "recensore": "",
+      "categoria": "da_fare",
       "lat": 41.8661537,
       "lon": 12.5505976,
       "approssimato": false,
@@ -5901,7 +5901,7 @@
       "lon": 12.45991023163961,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Vineria Risorgimento",
@@ -5946,7 +5946,7 @@
       "lon": 12.46968372581943,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Drink Kong",
@@ -5991,7 +5991,7 @@
       "lon": 12.53551711972588,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Metropolita",
@@ -6126,7 +6126,7 @@
       "lon": 12.474274381610769,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Arte Bianca di Gabriele",
@@ -6261,7 +6261,7 @@
       "lon": 12.468609293963063,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Crema Alta Gelateria",
@@ -6276,7 +6276,7 @@
       "lon": 12.454795365832444,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Cremeria Alpi",
@@ -6396,7 +6396,7 @@
       "lon": 12.473223499943083,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "El maiz",
@@ -6486,7 +6486,7 @@
       "lon": 12.474234812461015,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Fatamorgana",
@@ -6675,8 +6675,8 @@
       "zona": "Montagnola",
       "citta": "Roma",
       "telefono": "349/8360994",
-      "recensore": "",
-      "categoria": "da_fare",
+      "recensore": "Fabrizio Sbicca",
+      "categoria": "fatto",
       "lat": 41.8479553,
       "lon": 12.48651,
       "approssimato": false,
@@ -6690,8 +6690,8 @@
       "zona": "Montagnola",
       "citta": "Roma",
       "telefono": "06/5410448",
-      "recensore": "",
-      "categoria": "da_fare",
+      "recensore": "Fabrizio Sbicca",
+      "categoria": "fatto",
       "lat": 41.8390621,
       "lon": 12.5060201,
       "approssimato": false,
@@ -6711,7 +6711,7 @@
       "lon": 12.54287904662492,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Gelato d'Essai",
@@ -6921,7 +6921,7 @@
       "lon": 12.584924888955737,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Lievito Pizza Pane",
@@ -6996,7 +6996,7 @@
       "lon": 12.47060841676495,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Neve di Latte",
@@ -7035,8 +7035,8 @@
       "zona": "Garbatella",
       "citta": "Roma",
       "telefono": "328/5367252",
-      "recensore": "Matteo Damiani",
-      "categoria": "fatto",
+      "recensore": "",
+      "categoria": "da_fare",
       "lat": 41.8647605,
       "lon": 12.4850008,
       "approssimato": false,
@@ -7251,7 +7251,7 @@
       "lon": 12.476063715583715,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "San Biagio pizza e bolle",
@@ -7311,7 +7311,7 @@
       "lon": 12.229144156450465,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Sancho",
@@ -7401,7 +7401,7 @@
       "lon": 12.499504573152592,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-13"
+      "geocoded_at": "2026-09-14"
     },
     {
       "nome": "Tiella",
@@ -7528,17 +7528,17 @@
   "stats": {
     "totale_letti": 499,
     "con_coordinate": 499,
-    "manuali": 85,
+    "manuali": 86,
     "approssimati": 0,
-    "precisi": 414,
+    "precisi": 413,
     "falliti": 0,
-    "con_recensore": 450,
+    "con_recensore": 435,
     "con_telefono": 496,
     "per_categoria": {
-      "fatto": 395,
-      "riservato": 55,
+      "fatto": 390,
+      "da_fare": 56,
+      "riservato": 45,
       "per_editori": 5,
-      "da_fare": 41,
       "non_recensibile": 3
     },
     "colonne_rilevate": {
