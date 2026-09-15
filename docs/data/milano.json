@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T05:59:58+00:00",
+  "generated_at": "2026-09-15T11:20:09+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -945,8 +945,8 @@
       "zona": "Porta Romana",
       "citta": "Milano",
       "telefono": "327/6687908",
-      "recensore": "bloccato per Domiziana Caliari",
-      "categoria": "riservato",
+      "recensore": "Domiziana Caliari",
+      "categoria": "fatto",
       "lat": 45.4522019,
       "lon": 9.2055171,
       "approssimato": false,
@@ -3500,8 +3500,8 @@
     "con_recensore": 198,
     "con_telefono": 227,
     "per_categoria": {
-      "fatto": 159,
-      "riservato": 39,
+      "fatto": 160,
+      "riservato": 38,
       "da_fare": 27,
       "per_editori": 5
     },
