@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T05:50:49+00:00",
+  "generated_at": "2026-09-16T08:07:07+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -609,6 +609,21 @@
       "geocoded_at": "2026-05-18"
     },
     {
+      "nome": "Donkey's Bar",
+      "tipologia": "tradizionale con spunti creativi",
+      "indirizzo": "Lungotevere Arnaldo da Brescia, 2",
+      "zona": "Piazza del Popolo",
+      "citta": "Roma",
+      "telefono": "327/4852960",
+      "recensore": "",
+      "categoria": "per_editori",
+      "lat": 41.91037576013152,
+      "lon": 12.47341002086633,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-09-16"
+    },
+    {
       "nome": "Dopo Lavoro Ricreativo",
       "tipologia": "tradizionale con spunti creativi",
       "indirizzo": "Via Nino Bixio, 1",
@@ -922,6 +937,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-18"
+    },
+    {
+      "nome": "N'uovo Vino e Cucina",
+      "tipologia": "tradizionale con spunti creativi",
+      "indirizzo": "SS Cassia km 46, 700",
+      "zona": "",
+      "citta": "Sutri",
+      "telefono": "0761/586988",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 42.23075667813577,
+      "lon": 12.258508349882923,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-09-16"
     },
     {
       "nome": "Osteria Landi",
@@ -7541,19 +7571,19 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 500,
-    "con_coordinate": 500,
-    "manuali": 87,
+    "totale_letti": 502,
+    "con_coordinate": 502,
+    "manuali": 89,
     "approssimati": 0,
     "precisi": 413,
     "falliti": 0,
     "con_recensore": 442,
-    "con_telefono": 497,
+    "con_telefono": 499,
     "per_categoria": {
       "fatto": 394,
       "riservato": 48,
-      "per_editori": 6,
-      "da_fare": 49,
+      "per_editori": 7,
+      "da_fare": 50,
       "non_recensibile": 3
     },
     "colonne_rilevate": {
