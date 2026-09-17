@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T05:58:19+00:00",
+  "generated_at": "2026-09-17T07:35:33+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -5490,8 +5490,8 @@
       "zona": "Piazza Trilussa",
       "citta": "Roma",
       "telefono": "342/3006808",
-      "recensore": "bloccato per Elisa Del Frate",
-      "categoria": "riservato",
+      "recensore": "Elisa Del Frate",
+      "categoria": "fatto",
       "lat": 41.8909999,
       "lon": 12.4688555,
       "approssimato": false,
@@ -7595,8 +7595,8 @@
     "con_recensore": 444,
     "con_telefono": 500,
     "per_categoria": {
-      "fatto": 405,
-      "riservato": 38,
+      "fatto": 406,
+      "riservato": 37,
       "per_editori": 6,
       "da_fare": 51,
       "non_recensibile": 3
