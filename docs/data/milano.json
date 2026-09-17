@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T07:35:34+00:00",
+  "generated_at": "2026-09-17T12:42:55+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -600,8 +600,8 @@
       "zona": "Navigli",
       "citta": "Milano",
       "telefono": "02/8372917",
-      "recensore": "bloccato per Maria Vittoria Ottaviano",
-      "categoria": "riservato",
+      "recensore": "Maria Vittoria Ottaviano",
+      "categoria": "fatto",
       "lat": 45.446628,
       "lon": 9.1786936,
       "approssimato": false,
@@ -3500,8 +3500,8 @@
     "con_recensore": 198,
     "con_telefono": 227,
     "per_categoria": {
-      "fatto": 161,
-      "riservato": 37,
+      "fatto": 162,
+      "riservato": 36,
       "da_fare": 27,
       "per_editori": 5
     },
