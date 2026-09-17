@@ -676,6 +676,12 @@
     "lat": 41.9008477,
     "lon": 12.4760601
   },
+  "brucio - la romana|via settembrini, 21/25|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-09-17",
+    "lat": 41.915163,
+    "lon": 12.4662978
+  },
   "brylla|via giovanni rasori, 12|milano": {
     "approssimato": false,
     "geocoded_at": "2026-05-19",
@@ -1277,6 +1283,12 @@
     "lat": 41.8512046,
     "lon": 12.483984
   },
+  "da santuccio|via santi sebastiano e rocco, 95|sezze": {
+    "approssimato": false,
+    "geocoded_at": "2026-09-17",
+    "lat": 41.5005439,
+    "lon": 13.093641
+  },
   "da tullio|via della balduina, 211|roma": {
     "geocoded_at": "2026-05-18",
     "lat": 41.9225105,
@@ -1363,6 +1375,18 @@
     "geocoded_at": "2026-05-19",
     "lat": 45.4770872,
     "lon": 9.1853313
+  },
+  "der biondo|via tornimparte, 3a|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-09-17",
+    "lat": 41.9043227,
+    "lon": 12.6933611
+  },
+  "der biondo|via tuscolana, 1472|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-09-17",
+    "lat": 41.8541303,
+    "lon": 12.5667585
   },
   "dieci|via tortolini, 3/a|nepi": {
     "geocoded_at": "2026-05-18",
@@ -2142,6 +2166,12 @@
     "lat": 41.9140499,
     "lon": 12.4568725
   },
+  "ie koji|via marcantonio bragadin, 13|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-09-17",
+    "lat": 41.9068379,
+    "lon": 12.4449617
+  },
   "il barbabuc|via principe tommaso, 16/a|torino": {
     "approssimato": false,
     "geocoded_at": "2026-05-19",
@@ -2416,6 +2446,12 @@
     "geocoded_at": "2026-05-19",
     "lat": 45.0394728,
     "lon": 7.6707548
+  },
+  "l'elementare|piazza santa maria consolatrice, 15/16|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-09-17",
+    "lat": 41.8980092,
+    "lon": 12.5355468
   },
   "l'elementare|via benedetta, 23|roma": {
     "geocoded_at": "2026-05-18",
@@ -2915,6 +2951,12 @@
     "geocoded_at": "2026-05-19",
     "lat": 45.4640328,
     "lon": 9.221356
+  },
+  "locanda dorica|via guido nati, 15|velletri": {
+    "approssimato": false,
+    "geocoded_at": "2026-09-17",
+    "lat": 41.6880188,
+    "lon": 12.7797803
   },
   "locanda dorica|vicolo giorgi, 15|velletri": {
     "geocoded_at": "2026-05-18",
