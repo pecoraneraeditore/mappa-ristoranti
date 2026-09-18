@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T05:44:23+00:00",
+  "generated_at": "2026-09-18T10:25:36+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -3075,8 +3075,8 @@
       "zona": "",
       "citta": "Grottaferrata",
       "telefono": "06/9459338",
-      "recensore": "bloccato per Anca Enache",
-      "categoria": "riservato",
+      "recensore": "Anca Enache",
+      "categoria": "fatto",
       "lat": 41.7874014,
       "lon": 12.6671162,
       "approssimato": false,
@@ -7595,8 +7595,8 @@
     "con_recensore": 445,
     "con_telefono": 500,
     "per_categoria": {
-      "fatto": 407,
-      "riservato": 37,
+      "fatto": 408,
+      "riservato": 36,
       "per_editori": 5,
       "da_fare": 51,
       "non_recensibile": 3
