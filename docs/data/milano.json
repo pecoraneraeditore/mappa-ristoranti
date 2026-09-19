@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T09:48:41+00:00",
+  "generated_at": "2026-09-19T12:56:04+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -1575,8 +1575,8 @@
       "zona": "Duomo",
       "citta": "Milano",
       "telefono": "02/49714985",
-      "recensore": "bloccato per Raffaella Fasano",
-      "categoria": "riservato",
+      "recensore": "Raffaella Fasano",
+      "categoria": "fatto",
       "lat": 45.4603202,
       "lon": 9.1806027,
       "approssimato": false,
@@ -3500,8 +3500,8 @@
     "con_recensore": 198,
     "con_telefono": 227,
     "per_categoria": {
-      "fatto": 163,
-      "riservato": 35,
+      "fatto": 164,
+      "riservato": 34,
       "da_fare": 27,
       "per_editori": 5
     },
