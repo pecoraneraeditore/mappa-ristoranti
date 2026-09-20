@@ -1785,6 +1785,12 @@
     "lat": 41.8915901,
     "lon": 12.5096849
   },
+  "gandhi|via pellegrino matteucci, 124|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-09-20",
+    "lat": 41.8715519,
+    "lon": 12.4843169
+  },
   "garage forno|via paolo ii, 14|roma": {
     "geocoded_at": "2026-05-18",
     "lat": 41.8984333,
