@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T12:17:09+00:00",
+  "generated_at": "2026-09-20T12:45:51+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -6699,6 +6699,21 @@
       "geocoded_at": "2026-05-18"
     },
     {
+      "nome": "Gelabakery",
+      "tipologia": "gelateria / pasticceria",
+      "indirizzo": "Via dei Colombi, 59 B/C",
+      "zona": "Torre Maura",
+      "citta": "Roma",
+      "telefono": "351/9236312",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 41.86962392680513,
+      "lon": 12.593240551998313,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-09-20"
+    },
+    {
       "nome": "Gelasio",
       "tipologia": "gelateria",
       "indirizzo": "Via Portuense, 727 F/G",
@@ -7586,19 +7601,19 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 503,
-    "con_coordinate": 503,
-    "manuali": 89,
+    "totale_letti": 504,
+    "con_coordinate": 504,
+    "manuali": 90,
     "approssimati": 0,
     "precisi": 414,
     "falliti": 0,
     "con_recensore": 447,
-    "con_telefono": 500,
+    "con_telefono": 501,
     "per_categoria": {
       "fatto": 417,
       "riservato": 29,
       "per_editori": 4,
-      "da_fare": 50,
+      "da_fare": 51,
       "non_recensibile": 3
     },
     "colonne_rilevate": {
