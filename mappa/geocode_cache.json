@@ -324,6 +324,12 @@
     "lat": 42.1444015,
     "lon": 12.3762328
   },
+  "aria|via principi d'acaja, 47|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-09-21",
+    "lat": 45.0730662,
+    "lon": 7.6623188
+  },
   "aria|via santa giulia, 32/f|torino": {
     "approssimato": false,
     "geocoded_at": "2026-05-19",
@@ -1403,6 +1409,12 @@
     "geocoded_at": "2026-05-19",
     "lat": 45.4658515,
     "lon": 9.1759581
+  },
+  "ditta artigianale|via vincenzo cappelli, 2|milano": {
+    "approssimato": true,
+    "geocoded_at": "2026-09-21",
+    "lat": 45.4641943,
+    "lon": 9.1896346
   },
   "divina giulia|via giovanni amendola 1/b|fondi": {
     "geocoded_at": "2026-05-18",
@@ -2582,6 +2594,12 @@
     "lat": 45.4605891,
     "lon": 9.2259721
   },
+  "la cucina del mìbabbo|corso lodi, 19, ang. via lazzaro papi|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-09-21",
+    "lat": 45.4500152,
+    "lon": 9.2063476
+  },
   "la cucina di lido|corso novara, 35|torino": {
     "approssimato": false,
     "geocoded_at": "2026-05-19",
@@ -2984,6 +3002,12 @@
     "geocoded_at": "2026-05-19",
     "lat": 45.4670146,
     "lon": 9.2088411
+  },
+  "loste cafè|via giovanni battista pirelli, 36|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-09-21",
+    "lat": 45.4839607,
+    "lon": 9.1971939
   },
   "loste cafè|via varesina, 204|milano": {
     "approssimato": false,
@@ -3651,6 +3675,12 @@
     "lat": 45.4777784,
     "lon": 9.2112234
   },
+  "orsonero coffee|via paolo lomazzo, 20|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-09-21",
+    "lat": 45.4823305,
+    "lon": 9.1720171
+  },
   "orto gelato|via salvatore pianell, 45|milano": {
     "approssimato": false,
     "geocoded_at": "2026-05-19",
@@ -3721,6 +3751,12 @@
     "lat": 41.8308503,
     "lon": 13.146399
   },
+  "osteria della stazione l'originale|via popoli uniti, 26|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-09-21",
+    "lat": 45.4959282,
+    "lon": 9.2164108
+  },
   "osteria della stazione|via popoli uniti, 26|milano": {
     "approssimato": false,
     "geocoded_at": "2026-05-19",
@@ -3783,6 +3819,18 @@
     "geocoded_at": "2026-05-18",
     "lat": 41.8830326,
     "lon": 12.4585238
+  },
+  "ottimo! buono non basta|corso stati uniti, 6/c|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-09-21",
+    "lat": 45.0613244,
+    "lon": 7.675129
+  },
+  "ottimo! buono non basta|piazza francesco borromini, 89|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-09-21",
+    "lat": 45.0672819,
+    "lon": 7.7102163
   },
   "ottimo!|corso stati uniti, 6/c|torino": {
     "approssimato": false,
@@ -4810,6 +4858,12 @@
     "geocoded_at": "2026-05-19",
     "lat": 45.4660552,
     "lon": 9.2108805
+  },
+  "terra gelato|corso san gottargo, 1|milano": {
+    "approssimato": true,
+    "geocoded_at": "2026-09-21",
+    "lat": 45.4641943,
+    "lon": 9.1896346
   },
   "terra gelato|piazza santa maria maggiore, 9|roma": {
     "geocoded_at": "2026-05-18",

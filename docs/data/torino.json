@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T06:04:21+00:00",
+  "generated_at": "2026-09-21T14:27:03+00:00",
   "source_file": "Torino_2027.xlsx",
   "citta_default": "Torino",
   "regione": "Piemonte",
@@ -164,7 +164,7 @@
       "indirizzo": "Via Principe Amedeo, 22",
       "zona": "Centro",
       "citta": "Torino",
-      "telefono": "011/1964 0771",
+      "telefono": "011/19640771",
       "recensore": "",
       "categoria": "da_fare",
       "lat": 45.0674812,
@@ -2549,7 +2549,7 @@
       "indirizzo": "Via Tripoli, 33/B",
       "zona": "Santa Rita",
       "citta": "Torino",
-      "telefono": "n.d.",
+      "telefono": "011/0641062",
       "recensore": "Andrea Magnani",
       "categoria": "fatto",
       "lat": 45.0494202,
@@ -2557,6 +2557,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-19"
+    },
+    {
+      "nome": "Aria",
+      "tipologia": "gelateria",
+      "indirizzo": "Via Principi d'Acaja, 47",
+      "zona": "Cit Turin",
+      "citta": "Torino",
+      "telefono": "011/0562941",
+      "recensore": "Andrea Magnani",
+      "categoria": "fatto",
+      "lat": 45.0730662,
+      "lon": 7.6623188,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-09-21"
     },
     {
       "nome": "Casa Clara",
@@ -2979,7 +2994,7 @@
       "geocoded_at": "2026-05-19"
     },
     {
-      "nome": "Ottimo!",
+      "nome": "OTTIMO! buono non basta",
       "tipologia": "gelateria",
       "indirizzo": "Corso Stati Uniti, 6/C",
       "zona": "Crocetta",
@@ -2991,10 +3006,10 @@
       "lon": 7.675129,
       "approssimato": false,
       "manuale": false,
-      "geocoded_at": "2026-05-19"
+      "geocoded_at": "2026-09-21"
     },
     {
-      "nome": "Ottimo!",
+      "nome": "OTTIMO! buono non basta",
       "tipologia": "gelateria",
       "indirizzo": "Piazza Francesco Borromini, 89",
       "zona": "Corso Casale",
@@ -3006,7 +3021,7 @@
       "lon": 7.7102163,
       "approssimato": false,
       "manuale": false,
-      "geocoded_at": "2026-05-19"
+      "geocoded_at": "2026-09-21"
     },
     {
       "nome": "Papalele",
@@ -3191,16 +3206,16 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 210,
-    "con_coordinate": 210,
+    "totale_letti": 211,
+    "con_coordinate": 211,
     "manuali": 8,
     "approssimati": 0,
-    "precisi": 202,
+    "precisi": 203,
     "falliti": 0,
-    "con_recensore": 141,
-    "con_telefono": 210,
+    "con_recensore": 142,
+    "con_telefono": 211,
     "per_categoria": {
-      "fatto": 133,
+      "fatto": 134,
       "non_recensibile": 4,
       "riservato": 6,
       "per_editori": 2,

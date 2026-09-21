@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T06:04:21+00:00",
+  "generated_at": "2026-09-21T14:26:58+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -256,7 +256,7 @@
       "citta": "Milano",
       "telefono": "328/6641670",
       "recensore": "bloccato per Alice D'Adda",
-      "categoria": "fatto",
+      "categoria": "riservato",
       "lat": 45.4407301,
       "lon": 9.1561142,
       "approssimato": false,
@@ -549,6 +549,21 @@
       "geocoded_at": "2026-05-19"
     },
     {
+      "nome": "La Cucina del Mìbabbo",
+      "tipologia": "toscana",
+      "indirizzo": "Corso Lodi, 19, ang. Via Lazzaro Papi",
+      "zona": "Porta Romana",
+      "citta": "Milano",
+      "telefono": "02/45488997",
+      "recensore": "William Gray",
+      "categoria": "fatto",
+      "lat": 45.4500152,
+      "lon": 9.2063476,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-09-21"
+    },
+    {
       "nome": "Locanda del Menarost",
       "tipologia": "tradizionale",
       "indirizzo": "Via Giuseppe Compagnoni, 24",
@@ -574,21 +589,6 @@
       "categoria": "riservato",
       "lat": 45.5307391,
       "lon": 9.0434634,
-      "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-05-19"
-    },
-    {
-      "nome": "Mìbabbo",
-      "tipologia": "toscana",
-      "indirizzo": "Corso Lodi, 19, ang. Via Lazzaro Papi",
-      "zona": "Porta Romana",
-      "citta": "Milano",
-      "telefono": "02/45488997",
-      "recensore": "William Gray",
-      "categoria": "fatto",
-      "lat": 45.4500152,
-      "lon": 9.2063476,
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-19"
@@ -864,7 +864,7 @@
       "geocoded_at": "2026-05-19"
     },
     {
-      "nome": "Osteria della Stazione",
+      "nome": "Osteria della Stazione l'Originale",
       "tipologia": "friulana",
       "indirizzo": "Via Popoli Uniti, 26",
       "zona": "Turro",
@@ -876,7 +876,7 @@
       "lon": 9.2164108,
       "approssimato": false,
       "manuale": false,
-      "geocoded_at": "2026-05-19"
+      "geocoded_at": "2026-09-21"
     },
     {
       "nome": "Trattoria Masuelli San Marco",
@@ -1659,7 +1659,7 @@
       "geocoded_at": "2026-05-19"
     },
     {
-      "nome": "Alberto Magrì",
+      "nome": "Alberto Magri",
       "tipologia": "pasticceria",
       "indirizzo": "Corso Italia, 3",
       "zona": "Missori",
@@ -1822,6 +1822,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-19"
+    },
+    {
+      "nome": "Ditta Artigianale",
+      "tipologia": "caffetteria specialty",
+      "indirizzo": "Via Vincenzo Cappelli, 2",
+      "zona": "Corso Como",
+      "citta": "Milano",
+      "telefono": "389/2337666",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
+      "lat": 45.4641943,
+      "lon": 9.1896346,
+      "approssimato": true,
+      "manuale": false,
+      "geocoded_at": "2026-09-21"
     },
     {
       "nome": "Égalité",
@@ -2004,6 +2019,21 @@
       "geocoded_at": "2026-05-19"
     },
     {
+      "nome": "Loste Cafè",
+      "tipologia": "caffetteria specialty",
+      "indirizzo": "Via Giovanni Battista Pirelli, 36",
+      "zona": "Stazione Centrale",
+      "citta": "Milano",
+      "telefono": "n.d.",
+      "recensore": "Domiziana Caliari",
+      "categoria": "fatto",
+      "lat": 45.4839607,
+      "lon": 9.1971939,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-09-21"
+    },
+    {
       "nome": "Marlà",
       "tipologia": "pasticceria / caffetteria",
       "indirizzo": "Corso Lodi, 15",
@@ -2047,6 +2077,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-19"
+    },
+    {
+      "nome": "Orsonero Coffee",
+      "tipologia": "caffetteria specialty",
+      "indirizzo": "Via Paolo Lomazzo, 20",
+      "zona": "China Town",
+      "citta": "Milano",
+      "telefono": "n.d.",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
+      "lat": 45.4823305,
+      "lon": 9.1720171,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-09-21"
     },
     {
       "nome": "Pavè",
@@ -3429,6 +3474,21 @@
       "geocoded_at": "2026-05-19"
     },
     {
+      "nome": "Terra Gelato",
+      "tipologia": "gelateria",
+      "indirizzo": "Corso San Gottargo, 1",
+      "zona": "Navigli",
+      "citta": "Milano",
+      "telefono": "n.d.",
+      "recensore": "Giulia Maria Bellucci",
+      "categoria": "fatto",
+      "lat": 45.4641943,
+      "lon": 9.1896346,
+      "approssimato": true,
+      "manuale": false,
+      "geocoded_at": "2026-09-21"
+    },
+    {
       "nome": "Tra le righe Gelato & Friends",
       "tipologia": "gelateria",
       "indirizzo": "Via Teodosio, 44",
@@ -3491,17 +3551,17 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 230,
-    "con_coordinate": 230,
+    "totale_letti": 234,
+    "con_coordinate": 234,
     "manuali": 7,
-    "approssimati": 0,
-    "precisi": 223,
+    "approssimati": 2,
+    "precisi": 225,
     "falliti": 0,
-    "con_recensore": 198,
-    "con_telefono": 227,
+    "con_recensore": 202,
+    "con_telefono": 231,
     "per_categoria": {
-      "fatto": 165,
-      "riservato": 33,
+      "fatto": 168,
+      "riservato": 34,
       "da_fare": 27,
       "per_editori": 5
     },
