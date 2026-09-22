@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T05:58:50+00:00",
+  "generated_at": "2026-09-22T11:48:39+00:00",
   "source_file": "Torino_2027.xlsx",
   "citta_default": "Torino",
   "regione": "Piemonte",
@@ -2355,8 +2355,8 @@
       "zona": "San Salvario",
       "citta": "Torino",
       "telefono": "011/0240162",
-      "recensore": "",
-      "categoria": "da_fare",
+      "recensore": "bloccato per Andrea Magnani",
+      "categoria": "riservato",
       "lat": 45.0582429,
       "lon": 7.6799216,
       "approssimato": false,
@@ -3212,14 +3212,14 @@
     "approssimati": 0,
     "precisi": 203,
     "falliti": 0,
-    "con_recensore": 142,
+    "con_recensore": 143,
     "con_telefono": 211,
     "per_categoria": {
       "fatto": 134,
       "non_recensibile": 4,
-      "riservato": 6,
+      "riservato": 7,
       "per_editori": 2,
-      "da_fare": 65
+      "da_fare": 64
     },
     "colonne_rilevate": {
       "nome": 4,

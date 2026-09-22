@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T05:58:49+00:00",
+  "generated_at": "2026-09-22T11:48:37+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -1650,8 +1650,8 @@
       "zona": "",
       "citta": "Monte Porzio Catone",
       "telefono": "06/94341163",
-      "recensore": "",
-      "categoria": "da_fare",
+      "recensore": "bloccato per Vanessa Picena",
+      "categoria": "riservato",
       "lat": 41.809800593317306,
       "lon": 12.726402166442702,
       "approssimato": false,
@@ -7622,13 +7622,13 @@
     "approssimati": 0,
     "precisi": 414,
     "falliti": 0,
-    "con_recensore": 448,
+    "con_recensore": 449,
     "con_telefono": 502,
     "per_categoria": {
       "fatto": 419,
-      "riservato": 28,
+      "riservato": 29,
       "per_editori": 4,
-      "da_fare": 51,
+      "da_fare": 50,
       "non_recensibile": 3
     },
     "colonne_rilevate": {
