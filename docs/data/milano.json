@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T11:48:38+00:00",
+  "generated_at": "2026-09-23T05:45:35+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -1671,7 +1671,7 @@
       "lon": 9.188318879752167,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-22"
+      "geocoded_at": "2026-09-23"
     },
     {
       "nome": "Bar Affori",
@@ -2166,7 +2166,7 @@
       "lon": 9.157788011970972,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-22"
+      "geocoded_at": "2026-09-23"
     },
     {
       "nome": "Tre Chicchere",
@@ -2391,7 +2391,7 @@
       "lon": 9.187218264086697,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-22"
+      "geocoded_at": "2026-09-23"
     },
     {
       "nome": "Rito",
@@ -2406,7 +2406,7 @@
       "lon": 9.21405778895491,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-22"
+      "geocoded_at": "2026-09-23"
     },
     {
       "nome": "Sandì",
@@ -2421,7 +2421,7 @@
       "lon": 9.216154882209004,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-22"
+      "geocoded_at": "2026-09-23"
     },
     {
       "nome": "Stadera - gastronomia contemporanea",
@@ -2760,8 +2760,8 @@
       "zona": "Stazione Centrale",
       "citta": "Milano",
       "telefono": "02/91571797",
-      "recensore": "bloccato per Antonio Landi",
-      "categoria": "riservato",
+      "recensore": "Antonio Landi",
+      "categoria": "fatto",
       "lat": 45.4903659,
       "lon": 9.2037822,
       "approssimato": false,
@@ -2901,7 +2901,7 @@
       "lon": 9.220205980253644,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-22"
+      "geocoded_at": "2026-09-23"
     },
     {
       "nome": "Porcobrado",
@@ -3396,7 +3396,7 @@
       "lon": 9.212648146393095,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-22"
+      "geocoded_at": "2026-09-23"
     },
     {
       "nome": "Rigoletto",
@@ -3560,8 +3560,8 @@
     "con_recensore": 202,
     "con_telefono": 231,
     "per_categoria": {
-      "fatto": 168,
-      "riservato": 34,
+      "fatto": 169,
+      "riservato": 33,
       "da_fare": 27,
       "per_editori": 5
     },
