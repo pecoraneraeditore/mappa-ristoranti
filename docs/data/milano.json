@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T06:00:19+00:00",
+  "generated_at": "2026-09-26T08:03:15+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -90,8 +90,8 @@
       "zona": "Navigli",
       "citta": "Milano",
       "telefono": "02/49536597",
-      "recensore": "bloccato per Ilaria Leone",
-      "categoria": "riservato",
+      "recensore": "Ilaria Leone",
+      "categoria": "fatto",
       "lat": 45.4461129,
       "lon": 9.1793016,
       "approssimato": false,
@@ -3545,8 +3545,8 @@
     "con_recensore": 204,
     "con_telefono": 230,
     "per_categoria": {
-      "fatto": 174,
-      "riservato": 30,
+      "fatto": 175,
+      "riservato": 29,
       "da_fare": 27,
       "per_editori": 2
     },
