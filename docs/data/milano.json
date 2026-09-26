@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T06:01:42+00:00",
+  "generated_at": "2026-09-26T06:00:19+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -240,8 +240,8 @@
       "zona": "Porta Genova",
       "citta": "Milano",
       "telefono": "02/8392377",
-      "recensore": "bloccato per Antonio Landi",
-      "categoria": "riservato",
+      "recensore": "Antonio Landi",
+      "categoria": "fatto",
       "lat": 45.4528963,
       "lon": 9.1732728,
       "approssimato": false,
@@ -262,6 +262,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-19"
+    },
+    {
+      "nome": "Burbero",
+      "tipologia": "wine bar con cucina",
+      "indirizzo": "Via Pioppette, 3",
+      "zona": "Colonne di San Lorenzo",
+      "citta": "Milano",
+      "telefono": "n.d.",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
+      "lat": 45.457673495022625,
+      "lon": 9.181482874531815,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-09-26"
     },
     {
       "nome": "Erba Brusca",
@@ -660,8 +675,8 @@
       "zona": "Isola",
       "citta": "Milano",
       "telefono": "02/87128855",
-      "recensore": "",
-      "categoria": "per_editori",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
       "lat": 45.4857844,
       "lon": 9.192789,
       "approssimato": false,
@@ -1200,8 +1215,8 @@
       "zona": "Stazione Centrale",
       "citta": "Milano",
       "telefono": "338/3582658",
-      "recensore": "",
-      "categoria": "per_editori",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
       "lat": 45.4827314,
       "lon": 9.1999861,
       "approssimato": false,
@@ -1671,7 +1686,7 @@
       "lon": 9.188318879752167,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-25"
+      "geocoded_at": "2026-09-26"
     },
     {
       "nome": "Bar Affori",
@@ -2166,7 +2181,7 @@
       "lon": 9.157788011970972,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-25"
+      "geocoded_at": "2026-09-26"
     },
     {
       "nome": "Tre Chicchere",
@@ -2391,7 +2406,7 @@
       "lon": 9.187218264086697,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-25"
+      "geocoded_at": "2026-09-26"
     },
     {
       "nome": "Rito",
@@ -2406,7 +2421,7 @@
       "lon": 9.21405778895491,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-25"
+      "geocoded_at": "2026-09-26"
     },
     {
       "nome": "Sandì",
@@ -2421,7 +2436,7 @@
       "lon": 9.216154882209004,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-25"
+      "geocoded_at": "2026-09-26"
     },
     {
       "nome": "Stadera - gastronomia contemporanea",
@@ -2475,8 +2490,8 @@
       "zona": "Sant'Ambrogio",
       "citta": "Milano",
       "telefono": "02/35999463",
-      "recensore": "",
-      "categoria": "per_editori",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
       "lat": 45.4601701,
       "lon": 9.1765438,
       "approssimato": false,
@@ -2871,7 +2886,7 @@
       "lon": 9.220205980253644,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-25"
+      "geocoded_at": "2026-09-26"
     },
     {
       "nome": "Porcobrado",
@@ -3366,7 +3381,7 @@
       "lon": 9.212648146393095,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-25"
+      "geocoded_at": "2026-09-26"
     },
     {
       "nome": "Rigoletto",
@@ -3521,19 +3536,19 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 232,
-    "con_coordinate": 232,
-    "manuali": 7,
+    "totale_letti": 233,
+    "con_coordinate": 233,
+    "manuali": 8,
     "approssimati": 2,
     "precisi": 223,
     "falliti": 0,
-    "con_recensore": 200,
-    "con_telefono": 229,
+    "con_recensore": 204,
+    "con_telefono": 230,
     "per_categoria": {
-      "fatto": 169,
-      "riservato": 31,
+      "fatto": 174,
+      "riservato": 30,
       "da_fare": 27,
-      "per_editori": 5
+      "per_editori": 2
     },
     "colonne_rilevate": {
       "nome": 4,
