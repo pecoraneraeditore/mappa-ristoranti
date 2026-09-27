@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T11:24:55+00:00",
+  "generated_at": "2026-09-27T11:25:56+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -262,21 +262,6 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-19"
-    },
-    {
-      "nome": "Burbero",
-      "tipologia": "wine bar con cucina",
-      "indirizzo": "Via Pioppette, 3",
-      "zona": "Colonne di San Lorenzo",
-      "citta": "Milano",
-      "telefono": "n.d.",
-      "recensore": "Fernanda D'Arienzo",
-      "categoria": "fatto",
-      "lat": 45.457673495022625,
-      "lon": 9.181482874531815,
-      "approssimato": false,
-      "manuale": true,
-      "geocoded_at": "2026-09-27"
     },
     {
       "nome": "Erba Brusca",
@@ -2617,6 +2602,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-19"
+    },
+    {
+      "nome": "Burbero",
+      "tipologia": "wine bar con cucina",
+      "indirizzo": "Via Pioppette, 3",
+      "zona": "Colonne di San Lorenzo",
+      "citta": "Milano",
+      "telefono": "n.d.",
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
+      "lat": 45.457673495022625,
+      "lon": 9.181482874531815,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-09-27"
     },
     {
       "nome": "Cantine Isola",
