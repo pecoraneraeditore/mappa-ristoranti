@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:27:48+00:00",
+  "generated_at": "2026-09-27T07:57:31+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -120,8 +120,8 @@
       "zona": "Primaticcio",
       "citta": "Milano",
       "telefono": "02/416886",
-      "recensore": "bloccato per Domiziana Caliari",
-      "categoria": "riservato",
+      "recensore": "Domiziana Caliari",
+      "categoria": "fatto",
       "lat": 45.4584681,
       "lon": 9.1311149,
       "approssimato": false,
@@ -3545,9 +3545,9 @@
     "con_recensore": 204,
     "con_telefono": 230,
     "per_categoria": {
-      "fatto": 177,
-      "riservato": 27,
+      "fatto": 178,
       "da_fare": 27,
+      "riservato": 26,
       "per_editori": 2
     },
     "colonne_rilevate": {
