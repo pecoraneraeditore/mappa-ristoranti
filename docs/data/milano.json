@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T08:03:15+00:00",
+  "generated_at": "2026-09-27T06:27:48+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -150,8 +150,8 @@
       "zona": "Monumentale",
       "citta": "Milano",
       "telefono": "02/80010918",
-      "recensore": "bloccato per Alice D'Adda",
-      "categoria": "riservato",
+      "recensore": "Alice D'Adda",
+      "categoria": "fatto",
       "lat": 45.483097,
       "lon": 9.1776145,
       "approssimato": false,
@@ -276,7 +276,7 @@
       "lon": 9.181482874531815,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-26"
+      "geocoded_at": "2026-09-27"
     },
     {
       "nome": "Erba Brusca",
@@ -375,8 +375,8 @@
       "zona": "Stazione Centrale",
       "citta": "Milano",
       "telefono": "02/36643680",
-      "recensore": "bloccato per William Gray",
-      "categoria": "riservato",
+      "recensore": "William Gray",
+      "categoria": "fatto",
       "lat": 45.48186,
       "lon": 9.2017748,
       "approssimato": false,
@@ -1686,7 +1686,7 @@
       "lon": 9.188318879752167,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-26"
+      "geocoded_at": "2026-09-27"
     },
     {
       "nome": "Bar Affori",
@@ -2181,7 +2181,7 @@
       "lon": 9.157788011970972,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-26"
+      "geocoded_at": "2026-09-27"
     },
     {
       "nome": "Tre Chicchere",
@@ -2406,7 +2406,7 @@
       "lon": 9.187218264086697,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-26"
+      "geocoded_at": "2026-09-27"
     },
     {
       "nome": "Rito",
@@ -2421,7 +2421,7 @@
       "lon": 9.21405778895491,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-26"
+      "geocoded_at": "2026-09-27"
     },
     {
       "nome": "Sandì",
@@ -2436,7 +2436,7 @@
       "lon": 9.216154882209004,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-26"
+      "geocoded_at": "2026-09-27"
     },
     {
       "nome": "Stadera - gastronomia contemporanea",
@@ -2886,7 +2886,7 @@
       "lon": 9.220205980253644,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-26"
+      "geocoded_at": "2026-09-27"
     },
     {
       "nome": "Porcobrado",
@@ -3381,7 +3381,7 @@
       "lon": 9.212648146393095,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-09-26"
+      "geocoded_at": "2026-09-27"
     },
     {
       "nome": "Rigoletto",
@@ -3545,8 +3545,8 @@
     "con_recensore": 204,
     "con_telefono": 230,
     "per_categoria": {
-      "fatto": 175,
-      "riservato": 29,
+      "fatto": 177,
+      "riservato": 27,
       "da_fare": 27,
       "per_editori": 2
     },
