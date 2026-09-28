@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:32:33+00:00",
+  "generated_at": "2026-09-28T15:46:26+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -1515,8 +1515,8 @@
       "zona": "Brera",
       "citta": "Milano",
       "telefono": "02/63793414",
-      "recensore": "bloccato per Antonio Landi",
-      "categoria": "riservato",
+      "recensore": "Antonio Landi",
+      "categoria": "fatto",
       "lat": 45.479061,
       "lon": 9.1884259,
       "approssimato": false,
@@ -1530,8 +1530,8 @@
       "zona": "Repubblica",
       "citta": "Milano",
       "telefono": "02/63471564",
-      "recensore": "bloccato per Antonio Landi",
-      "categoria": "riservato",
+      "recensore": "Antonio Landi",
+      "categoria": "fatto",
       "lat": 45.4776169,
       "lon": 9.199098,
       "approssimato": false,
@@ -3545,9 +3545,9 @@
     "con_recensore": 205,
     "con_telefono": 230,
     "per_categoria": {
-      "fatto": 181,
+      "fatto": 183,
       "da_fare": 27,
-      "riservato": 24,
+      "riservato": 22,
       "per_editori": 1
     },
     "colonne_rilevate": {
