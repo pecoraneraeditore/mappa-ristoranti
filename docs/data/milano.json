@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:11:58+00:00",
+  "generated_at": "2026-09-29T19:48:41+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -3255,8 +3255,8 @@
       "zona": "Loreto",
       "citta": "Milano",
       "telefono": "02/2940 0076",
-      "recensore": "bloccato per Antonio Landi",
-      "categoria": "riservato",
+      "recensore": "Antonio Landi",
+      "categoria": "fatto",
       "lat": 45.4834476,
       "lon": 9.2131734,
       "approssimato": false,
@@ -3545,9 +3545,9 @@
     "con_recensore": 205,
     "con_telefono": 230,
     "per_categoria": {
-      "fatto": 183,
+      "fatto": 184,
       "da_fare": 27,
-      "riservato": 22,
+      "riservato": 21,
       "per_editori": 1
     },
     "colonne_rilevate": {

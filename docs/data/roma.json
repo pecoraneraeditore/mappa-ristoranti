@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:11:57+00:00",
+  "generated_at": "2026-09-29T19:48:40+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -2509,6 +2509,21 @@
       "categoria": "da_fare",
       "lat": 42.54204862838347,
       "lon": 11.832933159518674,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-09-29"
+    },
+    {
+      "nome": "Pasqualina",
+      "tipologia": "tradizionale",
+      "indirizzo": "Via Santi Filippo e Giacomo, 12/14",
+      "zona": "",
+      "citta": "Frascati",
+      "telefono": "06/88929413",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 41.80685427608568,
+      "lon": 12.681206946039827,
       "approssimato": false,
       "manuale": true,
       "geocoded_at": "2026-09-29"
@@ -7616,18 +7631,18 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 505,
-    "con_coordinate": 505,
-    "manuali": 91,
+    "totale_letti": 506,
+    "con_coordinate": 506,
+    "manuali": 92,
     "approssimati": 0,
     "precisi": 414,
     "falliti": 0,
     "con_recensore": 455,
-    "con_telefono": 502,
+    "con_telefono": 503,
     "per_categoria": {
       "fatto": 438,
       "riservato": 16,
-      "da_fare": 45,
+      "da_fare": 46,
       "per_editori": 3,
       "non_recensibile": 3
     },
