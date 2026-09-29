@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T19:48:40+00:00",
+  "generated_at": "2026-09-29T19:52:11+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -450,8 +450,8 @@
       "zona": "Piazza Re di Roma",
       "citta": "Roma",
       "telefono": "06/97273382",
-      "recensore": "bloccato per Giorgio Sorbino",
-      "categoria": "riservato",
+      "recensore": "",
+      "categoria": "non_recensibile",
       "lat": 41.8835934,
       "lon": 12.5136174,
       "approssimato": false,
@@ -525,8 +525,8 @@
       "zona": "Prati",
       "citta": "Roma",
       "telefono": "06/39728547",
-      "recensore": "bloccato per Vanessa Picena",
-      "categoria": "riservato",
+      "recensore": "Vanessa Picena",
+      "categoria": "fatto",
       "lat": 41.906771,
       "lon": 12.4695253,
       "approssimato": false,
@@ -7637,14 +7637,14 @@
     "approssimati": 0,
     "precisi": 414,
     "falliti": 0,
-    "con_recensore": 455,
+    "con_recensore": 454,
     "con_telefono": 503,
     "per_categoria": {
-      "fatto": 438,
-      "riservato": 16,
+      "fatto": 439,
+      "riservato": 14,
+      "non_recensibile": 4,
       "da_fare": 46,
-      "per_editori": 3,
-      "non_recensibile": 3
+      "per_editori": 3
     },
     "colonne_rilevate": {
       "nome": 4,
