@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T06:32:13+00:00",
+  "generated_at": "2026-09-30T09:27:55+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -1560,8 +1560,8 @@
       "zona": "Isola",
       "citta": "Milano",
       "telefono": "342/1405728",
-      "recensore": "bloccato per Maria Vittoria Ottaviano",
-      "categoria": "riservato",
+      "recensore": "Maria Vittoria Ottaviano",
+      "categoria": "fatto",
       "lat": 45.4888438,
       "lon": 9.1892082,
       "approssimato": false,
@@ -3545,9 +3545,9 @@
     "con_recensore": 205,
     "con_telefono": 230,
     "per_categoria": {
-      "fatto": 184,
+      "fatto": 185,
       "da_fare": 27,
-      "riservato": 21,
+      "riservato": 20,
       "per_editori": 1
     },
     "colonne_rilevate": {
