@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T07:05:19+00:00",
+  "generated_at": "2026-10-01T14:40:37+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -4380,8 +4380,8 @@
       "zona": "Mostacciano",
       "citta": "Roma",
       "telefono": "06/45652738",
-      "recensore": "",
-      "categoria": "da_fare",
+      "recensore": "Giorgio Sorbino",
+      "categoria": "fatto",
       "lat": 41.8092593,
       "lon": 12.4366542,
       "approssimato": false,
@@ -7652,13 +7652,13 @@
     "approssimati": 0,
     "precisi": 414,
     "falliti": 0,
-    "con_recensore": 456,
+    "con_recensore": 457,
     "con_telefono": 504,
     "per_categoria": {
-      "fatto": 439,
+      "fatto": 440,
       "riservato": 15,
       "non_recensibile": 4,
-      "da_fare": 45,
+      "da_fare": 44,
       "per_editori": 4
     },
     "colonne_rilevate": {

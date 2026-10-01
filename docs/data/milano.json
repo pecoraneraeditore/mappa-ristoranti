@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T07:05:20+00:00",
+  "generated_at": "2026-10-01T14:40:38+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -585,8 +585,8 @@
       "zona": "",
       "citta": "Rho",
       "telefono": "02/91327868",
-      "recensore": "bloccato per Giulia Pietracaprina",
-      "categoria": "riservato",
+      "recensore": "Giulia Pietracaprina",
+      "categoria": "fatto",
       "lat": 45.5307391,
       "lon": 9.0434634,
       "approssimato": false,
@@ -3545,9 +3545,9 @@
     "con_recensore": 205,
     "con_telefono": 230,
     "per_categoria": {
-      "fatto": 185,
+      "fatto": 186,
       "da_fare": 27,
-      "riservato": 20,
+      "riservato": 19,
       "per_editori": 1
     },
     "colonne_rilevate": {
