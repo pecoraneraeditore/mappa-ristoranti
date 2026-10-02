@@ -741,6 +741,12 @@
     "lat": 45.4660707,
     "lon": 9.1663539
   },
+  "cafezal specialty coffee|piazza ventiquattro maggio|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-10-02",
+    "lat": 45.4521391,
+    "lon": 9.1790363
+  },
   "cafezal specialty coffee|via san gregorio, 29|milano": {
     "approssimato": false,
     "geocoded_at": "2026-05-19",
@@ -752,6 +758,12 @@
     "geocoded_at": "2026-05-19",
     "lat": 45.4785435,
     "lon": 9.188245
+  },
+  "cafezal specialty coffee|via vincenzo cappelli, 3|milano": {
+    "approssimato": true,
+    "geocoded_at": "2026-10-02",
+    "lat": 45.4641943,
+    "lon": 9.1896346
   },
   "cafezal specialty coffee|viale piero e alberto pirelli, 10|milano": {
     "approssimato": false,
@@ -1701,6 +1713,12 @@
     "geocoded_at": "2026-05-18",
     "lat": 41.8518128,
     "lon": 12.5591865
+  },
+  "fiammetta brace bar|via maria vittoria, 33|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-10-02",
+    "lat": 45.0657009,
+    "lon": 7.6906958
   },
   "fior di luna|via della lungaretta, 96|roma": {
     "geocoded_at": "2026-05-18",

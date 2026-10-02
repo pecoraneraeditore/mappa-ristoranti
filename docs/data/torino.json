@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T09:34:19+00:00",
+  "generated_at": "2026-10-02T14:35:35+00:00",
   "source_file": "Torino_2027.xlsx",
   "citta_default": "Torino",
   "regione": "Piemonte",
@@ -94,6 +94,21 @@
       "categoria": "fatto",
       "lat": 45.0804194,
       "lon": 7.6908032,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-05-19"
+    },
+    {
+      "nome": "La Limonaia",
+      "tipologia": "creativa",
+      "indirizzo": "Via Mario Ponzio, 10",
+      "zona": "Pozzo Strada",
+      "citta": "Torino",
+      "telefono": "011/7041887",
+      "recensore": "Catia Gribaudo",
+      "categoria": "fatto",
+      "lat": 45.0674861,
+      "lon": 7.6233688,
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-19"
@@ -249,6 +264,21 @@
       "geocoded_at": "2026-05-19"
     },
     {
+      "nome": "Fiammetta Brace Bar",
+      "tipologia": "",
+      "indirizzo": "Via Maria Vittoria, 33",
+      "zona": "",
+      "citta": "Torino",
+      "telefono": "011/19501516",
+      "recensore": "Francesca Vasciaveo",
+      "categoria": "fatto",
+      "lat": 45.0657009,
+      "lon": 7.6906958,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-10-02"
+    },
+    {
       "nome": "Gaudenzio Vino e Cucina",
       "tipologia": "tradizionale con spunti creativi",
       "indirizzo": "Via Gaudenzio Ferrari, 2/H",
@@ -289,21 +319,6 @@
       "categoria": "fatto",
       "lat": 45.0624741,
       "lon": 7.6886772,
-      "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-05-19"
-    },
-    {
-      "nome": "La Limonaia",
-      "tipologia": "creativa",
-      "indirizzo": "Via Mario Ponzio, 10",
-      "zona": "Pozzo Strada",
-      "citta": "Torino",
-      "telefono": "011/7041887",
-      "recensore": "Catia Gribaudo",
-      "categoria": "fatto",
-      "lat": 45.0674861,
-      "lon": 7.6233688,
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-19"
@@ -457,21 +472,6 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-19"
-    },
-    {
-      "nome": "Antica Trattoria Cirio",
-      "tipologia": "tradizionale",
-      "indirizzo": "Corso Moncalieri, 216/F",
-      "zona": "Borgo Pilonetto",
-      "citta": "Torino",
-      "telefono": "011/2764475",
-      "recensore": "Catia Gribaudo",
-      "categoria": "fatto",
-      "lat": 45.04071572844442,
-      "lon": 7.682866526427916,
-      "approssimato": false,
-      "manuale": true,
-      "geocoded_at": "2026-10-02"
     },
     {
       "nome": "Aroma",
@@ -834,6 +834,21 @@
       "geocoded_at": "2026-05-19"
     },
     {
+      "nome": "Antica Trattoria Cirio",
+      "tipologia": "tradizionale",
+      "indirizzo": "Corso Moncalieri, 216/F",
+      "zona": "Borgo Pilonetto",
+      "citta": "Torino",
+      "telefono": "011/2764475",
+      "recensore": "Catia Gribaudo",
+      "categoria": "fatto",
+      "lat": 45.04071572844442,
+      "lon": 7.682866526427916,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-10-02"
+    },
+    {
       "nome": "Antiche Sere",
       "tipologia": "piemontese",
       "indirizzo": "Via Cenischia, 9",
@@ -1029,21 +1044,6 @@
       "geocoded_at": "2026-05-19"
     },
     {
-      "nome": "Senza Pretese",
-      "tipologia": "romana",
-      "indirizzo": "Via Stampatori, 10",
-      "zona": "Quadrilatero Romano",
-      "citta": "Torino",
-      "telefono": "011/18972834",
-      "recensore": "Catia Gribaudo",
-      "categoria": "fatto",
-      "lat": 45.0723914,
-      "lon": 7.6782509,
-      "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-05-19"
-    },
-    {
       "nome": "Trattoria Bon Bon",
       "tipologia": "piola",
       "indirizzo": "Via Renato Martorelli, 43",
@@ -1174,6 +1174,21 @@
       "categoria": "fatto",
       "lat": 45.0559831,
       "lon": 7.6559646,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-05-19"
+    },
+    {
+      "nome": "Koi Restaurant",
+      "tipologia": "giapponese",
+      "indirizzo": "Via Secondo Frola 4/B",
+      "zona": "Piazza San Carlo",
+      "citta": "Torino",
+      "telefono": "011/543957",
+      "recensore": "Andrea Magnani",
+      "categoria": "fatto",
+      "lat": 45.0668685,
+      "lon": 7.6808421,
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-19"
@@ -1779,21 +1794,6 @@
       "geocoded_at": "2026-05-19"
     },
     {
-      "nome": "Koi Restaurant",
-      "tipologia": "giapponese",
-      "indirizzo": "Via Secondo Frola 4/B",
-      "zona": "Piazza San Carlo",
-      "citta": "Torino",
-      "telefono": "011/543957",
-      "recensore": "Andrea Magnani",
-      "categoria": "fatto",
-      "lat": 45.0668685,
-      "lon": 7.6808421,
-      "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-05-19"
-    },
-    {
       "nome": "La Terrasanta",
       "tipologia": "cucina palestinese",
       "indirizzo": "Via Vincenzo Monti, 11/bis-E",
@@ -2085,8 +2085,8 @@
       "zona": "Quadrilatero Romano",
       "citta": "Torino",
       "telefono": "011/4361573",
-      "recensore": "",
-      "categoria": "per_editori",
+      "recensore": "bloccato per Andrea Bernardi",
+      "categoria": "riservato",
       "lat": 45.0736776,
       "lon": 7.6792511,
       "approssimato": false,
@@ -3212,14 +3212,14 @@
     "approssimati": 0,
     "precisi": 203,
     "falliti": 0,
-    "con_recensore": 143,
+    "con_recensore": 144,
     "con_telefono": 211,
     "per_categoria": {
       "fatto": 137,
       "non_recensibile": 4,
-      "per_editori": 2,
+      "per_editori": 1,
       "da_fare": 64,
-      "riservato": 4
+      "riservato": 5
     },
     "colonne_rilevate": {
       "nome": 4,
