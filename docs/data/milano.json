@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T07:51:54+00:00",
+  "generated_at": "2026-10-03T09:09:39+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -1230,8 +1230,8 @@
       "zona": "Ponte Nuovo",
       "citta": "Milano",
       "telefono": "344/4236436",
-      "recensore": "bloccato per Giulia Pietracaprina",
-      "categoria": "riservato",
+      "recensore": "Giulia Pietracaprina",
+      "categoria": "fatto",
       "lat": 45.5088095,
       "lon": 9.242495,
       "approssimato": false,
@@ -2940,8 +2940,8 @@
       "zona": "NoLo",
       "citta": "Milano",
       "telefono": "02/72193827",
-      "recensore": "bloccato per Giulia Pietracaprina",
-      "categoria": "riservato",
+      "recensore": "Giulia Pietracaprina",
+      "categoria": "fatto",
       "lat": 45.4928161,
       "lon": 9.2165775,
       "approssimato": false,
@@ -3575,9 +3575,9 @@
     "con_recensore": 200,
     "con_telefono": 232,
     "per_categoria": {
-      "fatto": 192,
+      "fatto": 194,
       "da_fare": 34,
-      "riservato": 8,
+      "riservato": 6,
       "per_editori": 1
     },
     "colonne_rilevate": {
