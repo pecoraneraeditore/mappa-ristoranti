@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T09:09:39+00:00",
+  "generated_at": "2026-10-03T13:07:33+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -2490,8 +2490,8 @@
       "zona": "Missori",
       "citta": "Milano",
       "telefono": "02/30554088",
-      "recensore": "bloccato per Raffaella Fasano",
-      "categoria": "riservato",
+      "recensore": "Raffaella Fasano",
+      "categoria": "fatto",
       "lat": 45.4599585,
       "lon": 9.1829311,
       "approssimato": false,
@@ -3575,9 +3575,9 @@
     "con_recensore": 200,
     "con_telefono": 232,
     "per_categoria": {
-      "fatto": 194,
+      "fatto": 195,
       "da_fare": 34,
-      "riservato": 6,
+      "riservato": 5,
       "per_editori": 1
     },
     "colonne_rilevate": {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T09:09:38+00:00",
+  "generated_at": "2026-10-03T13:07:32+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -5340,8 +5340,8 @@
       "zona": "Trionfale",
       "citta": "Roma",
       "telefono": "06/3972 5514",
-      "recensore": "bloccato per Anca Enache",
-      "categoria": "riservato",
+      "recensore": "Anca Enache",
+      "categoria": "fatto",
       "lat": 41.9105177,
       "lon": 12.4515874,
       "approssimato": false,
@@ -7625,8 +7625,8 @@
     "con_recensore": 458,
     "con_telefono": 502,
     "per_categoria": {
-      "fatto": 447,
-      "riservato": 9,
+      "fatto": 448,
+      "riservato": 8,
       "non_recensibile": 4,
       "da_fare": 41,
       "per_editori": 4
