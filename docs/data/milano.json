@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T06:42:51+00:00",
+  "generated_at": "2026-10-04T07:59:51+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -615,8 +615,8 @@
       "zona": "Crescenzago",
       "citta": "Milano",
       "telefono": "342/5593532",
-      "recensore": "bloccato per Domiziana Caliari",
-      "categoria": "riservato",
+      "recensore": "Domiziana Caliari",
+      "categoria": "fatto",
       "lat": 45.5066987,
       "lon": 9.2369643,
       "approssimato": false,
@@ -3575,9 +3575,9 @@
     "con_recensore": 200,
     "con_telefono": 232,
     "per_categoria": {
-      "fatto": 196,
+      "fatto": 197,
       "da_fare": 34,
-      "riservato": 4,
+      "riservato": 3,
       "per_editori": 1
     },
     "colonne_rilevate": {
