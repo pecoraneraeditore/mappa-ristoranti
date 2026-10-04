@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T13:07:33+00:00",
+  "generated_at": "2026-10-04T06:42:51+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -1671,7 +1671,7 @@
       "lon": 9.188318879752167,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-10-03"
+      "geocoded_at": "2026-10-04"
     },
     {
       "nome": "Bar Affori",
@@ -2196,7 +2196,7 @@
       "lon": 9.157788011970972,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-10-03"
+      "geocoded_at": "2026-10-04"
     },
     {
       "nome": "Tre Chicchere",
@@ -2421,7 +2421,7 @@
       "lon": 9.187218264086697,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-10-03"
+      "geocoded_at": "2026-10-04"
     },
     {
       "nome": "Rito",
@@ -2436,7 +2436,7 @@
       "lon": 9.21405778895491,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-10-03"
+      "geocoded_at": "2026-10-04"
     },
     {
       "nome": "Sandì",
@@ -2451,7 +2451,7 @@
       "lon": 9.216154882209004,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-10-03"
+      "geocoded_at": "2026-10-04"
     },
     {
       "nome": "Stadera - gastronomia contemporanea",
@@ -2646,7 +2646,7 @@
       "lon": 9.181482874531815,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-10-03"
+      "geocoded_at": "2026-10-04"
     },
     {
       "nome": "Cantine Isola",
@@ -2916,7 +2916,7 @@
       "lon": 9.220205980253644,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-10-03"
+      "geocoded_at": "2026-10-04"
     },
     {
       "nome": "Porcobrado",
@@ -3045,8 +3045,8 @@
       "zona": "Risorgimento",
       "citta": "Milano",
       "telefono": "02/00244399",
-      "recensore": "bloccato per Ilaria Leone",
-      "categoria": "riservato",
+      "recensore": "Ilaria Leone",
+      "categoria": "fatto",
       "lat": 45.4635486,
       "lon": 9.2069192,
       "approssimato": false,
@@ -3411,7 +3411,7 @@
       "lon": 9.212648146393095,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-10-03"
+      "geocoded_at": "2026-10-04"
     },
     {
       "nome": "Rigoletto",
@@ -3575,9 +3575,9 @@
     "con_recensore": 200,
     "con_telefono": 232,
     "per_categoria": {
-      "fatto": 195,
+      "fatto": 196,
       "da_fare": 34,
-      "riservato": 5,
+      "riservato": 4,
       "per_editori": 1
     },
     "colonne_rilevate": {
