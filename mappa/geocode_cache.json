@@ -1275,6 +1275,12 @@
     "lat": 41.8768509,
     "lon": 12.4407734
   },
+  "da cesare|via del pellegrino, 117|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-10-05",
+    "lat": 41.8972697,
+    "lon": 12.4685956
+  },
   "da danilo|via petrarca, 13|roma": {
     "geocoded_at": "2026-05-18",
     "lat": 41.8920456,
@@ -3982,6 +3988,12 @@
     "geocoded_at": "2026-05-18",
     "lat": 41.8789156,
     "lon": 12.4787522
+  },
+  "pasticceria charlotte|via vercelli, 12/14|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-10-05",
+    "lat": 41.8818119,
+    "lon": 12.5167172
   },
   "pasticceria passerini dal 1919|via victor hugo, 4|milano": {
     "approssimato": false,

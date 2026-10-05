@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T06:54:35+00:00",
+  "generated_at": "2026-10-05T16:18:05+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -735,8 +735,8 @@
       "zona": "",
       "citta": "Fregene",
       "telefono": "06/66562063",
-      "recensore": "bloccato per Anca Enache",
-      "categoria": "riservato",
+      "recensore": "",
+      "categoria": "non_recensibile",
       "lat": 41.859739,
       "lon": 12.2053237,
       "approssimato": false,
@@ -829,6 +829,21 @@
       "categoria": "per_editori",
       "lat": 41.52541475846666,
       "lon": 13.154755650341361,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-10-05"
+    },
+    {
+      "nome": "L'Acqua Bulle",
+      "tipologia": "tradizionale",
+      "indirizzo": "Viale Vittorio Veneto, 133",
+      "zona": "",
+      "citta": "Grottaferrata",
+      "telefono": "06/68975537",
+      "recensore": "Fabrizio Sbicca",
+      "categoria": "fatto",
+      "lat": 41.77738105113258,
+      "lon": 12.682042775213542,
       "approssimato": false,
       "manuale": true,
       "geocoded_at": "2026-10-05"
@@ -1974,21 +1989,6 @@
       "geocoded_at": "2026-05-18"
     },
     {
-      "nome": "L'Acqua Bulle",
-      "tipologia": "tradizionale",
-      "indirizzo": "Viale Vittorio Veneto, 133",
-      "zona": "",
-      "citta": "Grottaferrata",
-      "telefono": "06/68975537",
-      "recensore": "Fabrizio Sbicca",
-      "categoria": "fatto",
-      "lat": 41.77738105113258,
-      "lon": 12.682042775213542,
-      "approssimato": false,
-      "manuale": true,
-      "geocoded_at": "2026-10-05"
-    },
-    {
       "nome": "Le Murelle",
       "tipologia": "pesce / pizzeria",
       "indirizzo": "Strada delle Murelle",
@@ -2947,6 +2947,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-18"
+    },
+    {
+      "nome": "Da Cesare",
+      "tipologia": "romana",
+      "indirizzo": "Via del Pellegrino, 117",
+      "zona": "Campo de' Fiori",
+      "citta": "Roma",
+      "telefono": "06/68801978",
+      "recensore": "Fabrizio Sbicca",
+      "categoria": "fatto",
+      "lat": 41.8972697,
+      "lon": 12.4685956,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-10-05"
     },
     {
       "nome": "Da Danilo",
@@ -5364,21 +5379,6 @@
       "geocoded_at": "2026-05-18"
     },
     {
-      "nome": "Charlotte",
-      "tipologia": "pasticceria / caffetteria",
-      "indirizzo": "Via Vercelli, 12/14",
-      "zona": "Piazza Re di Roma",
-      "citta": "Roma",
-      "telefono": "06/25399727",
-      "recensore": "Vanessa Picena",
-      "categoria": "fatto",
-      "lat": 41.8818119,
-      "lon": 12.5167172,
-      "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-05-18"
-    },
-    {
       "nome": "Fabrica",
       "tipologia": "bistrot / sala da tè",
       "indirizzo": "Via Girolamo Savonarola, 8",
@@ -5452,6 +5452,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-18"
+    },
+    {
+      "nome": "Pasticceria Charlotte",
+      "tipologia": "pasticceria / caffetteria",
+      "indirizzo": "Via Vercelli, 12/14",
+      "zona": "Piazza Re di Roma",
+      "citta": "Roma",
+      "telefono": "06/25399727",
+      "recensore": "Vanessa Picena",
+      "categoria": "fatto",
+      "lat": 41.8818119,
+      "lon": 12.5167172,
+      "approssimato": false,
+      "manuale": false,
+      "geocoded_at": "2026-10-05"
     },
     {
       "nome": "Said dal 1923",
@@ -6240,8 +6255,8 @@
       "zona": "Campo de' Fiori",
       "citta": "Roma",
       "telefono": "06/45495604",
-      "recensore": "bloccato per Fabrizio Sbicca",
-      "categoria": "riservato",
+      "recensore": "Fabrizio Sbicca",
+      "categoria": "fatto",
       "lat": 41.8947794,
       "lon": 12.4736377,
       "approssimato": false,
@@ -7661,20 +7676,20 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 508,
-    "con_coordinate": 508,
+    "totale_letti": 509,
+    "con_coordinate": 509,
     "manuali": 95,
     "approssimati": 0,
-    "precisi": 413,
+    "precisi": 414,
     "falliti": 0,
     "con_recensore": 461,
-    "con_telefono": 505,
+    "con_telefono": 506,
     "per_categoria": {
-      "fatto": 456,
-      "non_recensibile": 4,
+      "fatto": 458,
+      "non_recensibile": 5,
       "da_fare": 41,
-      "riservato": 3,
-      "per_editori": 4
+      "per_editori": 4,
+      "riservato": 1
     },
     "colonne_rilevate": {
       "nome": 4,
