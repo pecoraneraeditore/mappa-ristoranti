@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T06:46:27+00:00",
+  "generated_at": "2026-10-05T06:54:36+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -960,8 +960,8 @@
       "zona": "Corso Lodi",
       "citta": "Milano",
       "telefono": "02/45487032",
-      "recensore": "",
-      "categoria": "da_fare",
+      "recensore": "Domiziana Caliari",
+      "categoria": "fatto",
       "lat": 45.4491507,
       "lon": 9.2170643,
       "approssimato": false,
@@ -3572,11 +3572,11 @@
     "approssimati": 3,
     "precisi": 224,
     "falliti": 0,
-    "con_recensore": 200,
+    "con_recensore": 201,
     "con_telefono": 232,
     "per_categoria": {
-      "fatto": 197,
-      "da_fare": 34,
+      "fatto": 198,
+      "da_fare": 33,
       "riservato": 3,
       "per_editori": 1
     },

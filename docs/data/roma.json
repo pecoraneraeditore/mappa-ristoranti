@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T06:46:26+00:00",
+  "generated_at": "2026-10-05T06:54:35+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -1732,6 +1732,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-18"
+    },
+    {
+      "nome": "Il Tempo Ritrovato",
+      "tipologia": "principalmente pesce",
+      "indirizzo": "Largo S. Anna",
+      "zona": "",
+      "citta": "Formia",
+      "telefono": "333/2602123",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 41.25586773100765,
+      "lon": 13.601183808241768,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-10-05"
     },
     {
       "nome": "Il Torchio",
@@ -3975,8 +3990,8 @@
       "zona": "",
       "citta": "Fiumicino",
       "telefono": "328/8181651",
-      "recensore": "bloccato per Vanessa Picena",
-      "categoria": "riservato",
+      "recensore": "Vanessa Picena",
+      "categoria": "fatto",
       "lat": 41.77138755806573,
       "lon": 12.228188973513207,
       "approssimato": false,
@@ -7646,19 +7661,19 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 507,
-    "con_coordinate": 507,
-    "manuali": 94,
+    "totale_letti": 508,
+    "con_coordinate": 508,
+    "manuali": 95,
     "approssimati": 0,
     "precisi": 413,
     "falliti": 0,
     "con_recensore": 461,
-    "con_telefono": 504,
+    "con_telefono": 505,
     "per_categoria": {
-      "fatto": 455,
+      "fatto": 456,
       "non_recensibile": 4,
-      "da_fare": 40,
-      "riservato": 4,
+      "da_fare": 41,
+      "riservato": 3,
       "per_editori": 4
     },
     "colonne_rilevate": {
