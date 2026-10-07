@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T07:04:08+00:00",
+  "generated_at": "2026-10-07T08:10:56+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -825,8 +825,8 @@
       "zona": "",
       "citta": "Roccagorga",
       "telefono": "351/7434838",
-      "recensore": "",
-      "categoria": "per_editori",
+      "recensore": "Simone Cargiani",
+      "categoria": "fatto",
       "lat": 41.52541475846666,
       "lon": 13.154755650341361,
       "approssimato": false,
@@ -7682,13 +7682,13 @@
     "approssimati": 0,
     "precisi": 414,
     "falliti": 0,
-    "con_recensore": 461,
+    "con_recensore": 462,
     "con_telefono": 506,
     "per_categoria": {
-      "fatto": 458,
+      "fatto": 459,
       "non_recensibile": 5,
       "da_fare": 41,
-      "per_editori": 4,
+      "per_editori": 3,
       "riservato": 1
     },
     "colonne_rilevate": {
