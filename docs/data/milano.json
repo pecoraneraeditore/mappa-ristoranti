@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T06:53:42+00:00",
+  "generated_at": "2026-10-11T06:58:06+00:00",
   "source_file": "Milano_2027.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -285,8 +285,8 @@
       "zona": "Repubblica",
       "citta": "Milano",
       "telefono": "02/96844851",
-      "recensore": "bloccato per Giulia Pietracaprina",
-      "categoria": "riservato",
+      "recensore": "Giulia Pietracaprina",
+      "categoria": "fatto",
       "lat": 45.4783412,
       "lon": 9.1992967,
       "approssimato": false,
@@ -1671,7 +1671,7 @@
       "lon": 9.188318879752167,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-10-10"
+      "geocoded_at": "2026-10-11"
     },
     {
       "nome": "Bar Affori",
@@ -2196,7 +2196,7 @@
       "lon": 9.157788011970972,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-10-10"
+      "geocoded_at": "2026-10-11"
     },
     {
       "nome": "Tre Chicchere",
@@ -2421,7 +2421,7 @@
       "lon": 9.187218264086697,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-10-10"
+      "geocoded_at": "2026-10-11"
     },
     {
       "nome": "Rito",
@@ -2436,7 +2436,7 @@
       "lon": 9.21405778895491,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-10-10"
+      "geocoded_at": "2026-10-11"
     },
     {
       "nome": "Sandì",
@@ -2451,7 +2451,7 @@
       "lon": 9.216154882209004,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-10-10"
+      "geocoded_at": "2026-10-11"
     },
     {
       "nome": "Stadera - gastronomia contemporanea",
@@ -2646,7 +2646,7 @@
       "lon": 9.181482874531815,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-10-10"
+      "geocoded_at": "2026-10-11"
     },
     {
       "nome": "Cantine Isola",
@@ -2916,7 +2916,7 @@
       "lon": 9.220205980253644,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-10-10"
+      "geocoded_at": "2026-10-11"
     },
     {
       "nome": "Porcobrado",
@@ -3411,7 +3411,7 @@
       "lon": 9.212648146393095,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-10-10"
+      "geocoded_at": "2026-10-11"
     },
     {
       "nome": "Rigoletto",
@@ -3575,10 +3575,10 @@
     "con_recensore": 201,
     "con_telefono": 232,
     "per_categoria": {
-      "fatto": 199,
+      "fatto": 200,
       "da_fare": 33,
-      "riservato": 2,
-      "per_editori": 1
+      "per_editori": 1,
+      "riservato": 1
     },
     "colonne_rilevate": {
       "nome": 4,
