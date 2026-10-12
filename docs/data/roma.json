@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T07:11:00+00:00",
+  "generated_at": "2026-10-12T16:54:19+00:00",
   "source_file": "Roma_2027.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -1156,7 +1156,7 @@
       "citta": "Roma",
       "telefono": "06/5126917",
       "recensore": "Marco Silleni",
-      "categoria": "fatto",
+      "categoria": "da_fare",
       "lat": 41.9115836,
       "lon": 12.5197138,
       "approssimato": false,
@@ -2904,6 +2904,21 @@
       "geocoded_at": "2026-05-18"
     },
     {
+      "nome": "Rimessa F.A.B.",
+      "tipologia": "enoteca con cucina",
+      "indirizzo": "Via delle Zoccolette, 28",
+      "zona": "Campo de' Fiori",
+      "citta": "Roma",
+      "telefono": "06/95550234",
+      "recensore": "Simone Cargiani",
+      "categoria": "fatto",
+      "lat": 41.89282296914112,
+      "lon": 12.472263712577922,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-10-12"
+    },
+    {
       "nome": "Roscioli",
       "tipologia": "gastronomia con cucina",
       "indirizzo": "Via dei Giubbonari, 21/22",
@@ -2917,21 +2932,6 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-05-18"
-    },
-    {
-      "nome": "Roscioli F.A.B.",
-      "tipologia": "enoteca con cucina",
-      "indirizzo": "Via delle Zoccolette, 28",
-      "zona": "Campo de' Fiori",
-      "citta": "Roma",
-      "telefono": "06/95550234",
-      "recensore": "Simone Cargiani",
-      "categoria": "fatto",
-      "lat": 41.89282296914112,
-      "lon": 12.472263712577922,
-      "approssimato": false,
-      "manuale": true,
-      "geocoded_at": "2026-10-12"
     },
     {
       "nome": "Da Cesare",
@@ -4289,7 +4289,7 @@
       "indirizzo": "Via Pier Paolo Pasolini, snc",
       "zona": "",
       "citta": "Fiano Romano",
-      "telefono": "0765/ 480785 - 331/1650624",
+      "telefono": "0765/480785 - 331/1650624",
       "recensore": "Fabrizio Sbicca",
       "categoria": "fatto",
       "lat": 42.1587808,
@@ -4974,21 +4974,6 @@
       "geocoded_at": "2026-10-12"
     },
     {
-      "nome": "Slow",
-      "tipologia": "caffetteria specilty / bakery",
-      "indirizzo": "Corso Vittorio Emanuele II, 73",
-      "zona": "Largo di Torre Argentina",
-      "citta": "Roma",
-      "telefono": "",
-      "recensore": "Fabrizio Sbicca",
-      "categoria": "fatto",
-      "lat": 41.89638993454456,
-      "lon": 12.476047171258973,
-      "approssimato": false,
-      "manuale": true,
-      "geocoded_at": "2026-10-12"
-    },
-    {
       "nome": "Sordoni",
       "tipologia": "bar / pasticceria / bistrot",
       "indirizzo": "Via Cassia, 1839",
@@ -5334,6 +5319,21 @@
       "geocoded_at": "2026-05-18"
     },
     {
+      "nome": "Slow",
+      "tipologia": "caffetteria specialty / bakery",
+      "indirizzo": "Corso Vittorio Emanuele II, 73",
+      "zona": "Largo di Torre Argentina",
+      "citta": "Roma",
+      "telefono": "",
+      "recensore": "Fabrizio Sbicca",
+      "categoria": "fatto",
+      "lat": 41.89638993454456,
+      "lon": 12.476047171258973,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-10-12"
+    },
+    {
       "nome": "Tulipane",
       "tipologia": "forno / bistrot",
       "indirizzo": "Via del Pavone, 28",
@@ -5467,21 +5467,6 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-10-05"
-    },
-    {
-      "nome": "Said dal 1923",
-      "tipologia": "cioccolateria / bistrot",
-      "indirizzo": "Via Tiburtina, 135",
-      "zona": "San Lorenzo",
-      "citta": "Roma",
-      "telefono": "06/4469204",
-      "recensore": "bloccato per Anca Enache",
-      "categoria": "riservato",
-      "lat": 41.8991019,
-      "lon": 12.5151633,
-      "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-05-18"
     },
     {
       "nome": "Shell",
@@ -7676,20 +7661,19 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 509,
-    "con_coordinate": 509,
+    "totale_letti": 508,
+    "con_coordinate": 508,
     "manuali": 95,
     "approssimati": 0,
-    "precisi": 414,
+    "precisi": 413,
     "falliti": 0,
-    "con_recensore": 462,
-    "con_telefono": 506,
+    "con_recensore": 461,
+    "con_telefono": 505,
     "per_categoria": {
-      "fatto": 459,
+      "fatto": 458,
       "non_recensibile": 5,
-      "da_fare": 41,
-      "per_editori": 3,
-      "riservato": 1
+      "da_fare": 42,
+      "per_editori": 3
     },
     "colonne_rilevate": {
       "nome": 4,
