@@ -1,1 +1,818 @@
-{}
+{
+  "19.2 winebar enoteca|largo benito jacovitti, 16|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.7994074,
+    "lon": 12.4226887
+  },
+  "51 manifattura alimentare|lungo dora firenze, 51/a|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.078553,
+    "lon": 7.690312
+  },
+  "aalis bakery|via nirone, 19|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4640296,
+    "lon": 9.1784813
+  },
+  "acqua e farina|via cesana, 51|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0675089,
+    "lon": 7.6500915
+  },
+  "al garghet|via selvanesco, 36|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4199144,
+    "lon": 9.1931486
+  },
+  "al setaccio|via di mezzocammino, 193|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.7894595,
+    "lon": 12.4371481
+  },
+  "alma latina|via giuseppe baretti, 8 bis|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0579529,
+    "lon": 7.6800479
+  },
+  "al|via valprato, 68|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0935986,
+    "lon": 7.6829552
+  },
+  "antica trattoria del gallo|via privata gerli, 3|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.3799128,
+    "lon": 9.024453
+  },
+  "aventina|viale della piramide cestia, 9|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.8789508,
+    "lon": 12.483181
+  },
+  "ballatoio - bistrot di ringhiera|via principe amedeo, 22|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0674812,
+    "lon": 7.6881142
+  },
+  "bar affori|via alessandro astesani, 15|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.5160827,
+    "lon": 9.172131
+  },
+  "bar cavour|piazza carignano, 2|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0694692,
+    "lon": 7.6848651
+  },
+  "barba|via san gregorio, 40|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4809163,
+    "lon": 9.2018167
+  },
+  "barred|via ostiense, 60/b-c|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.8713421,
+    "lon": 12.4797185
+  },
+  "barz8|corso moncalieri, 5/a|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0380717,
+    "lon": 7.6825819
+  },
+  "ber enoteca|via giambattista gropello, 21|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0737852,
+    "lon": 7.6637299
+  },
+  "brolo milano - orto con cucina|via melzo, 19|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4750599,
+    "lon": 9.2078775
+  },
+  "cantinone san paolo|via vigone, 24|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.066524,
+    "lon": 7.6524385
+  },
+  "casa armenia|via giovanni francesco napione, 33|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0683415,
+    "lon": 7.7021784
+  },
+  "casa clara|via stradella, 187/d|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.1008877,
+    "lon": 7.6673029
+  },
+  "ciacci|corso belgio, 176|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0749245,
+    "lon": 7.7256526
+  },
+  "ciacci|strada di s. mauro, 182|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.1019346,
+    "lon": 7.7450063
+  },
+  "come a casa|via crevacuore, 60|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0812746,
+    "lon": 7.632074
+  },
+  "connubio|corso rosselli, 54|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0521114,
+    "lon": 7.6608429
+  },
+  "cous-cous|via adige, 9|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4484269,
+    "lon": 9.2055505
+  },
+  "cristalli di zucchero|via di val tellina, 114|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.8693631,
+    "lon": 12.446614
+  },
+  "cru|piazza emanuele filiberto, 2/d|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0762541,
+    "lon": 7.6818001
+  },
+  "cubique|via saluzzo 86/b|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0509559,
+    "lon": 7.6758258
+  },
+  "da franz|via ascanio sforza, 47|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.447108,
+    "lon": 9.1771134
+  },
+  "de amicis art bistrot|corso casale, 134|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0684192,
+    "lon": 7.7166228
+  },
+  "dolce mania dei fratelli lepori|via guido reni, 205|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0408247,
+    "lon": 7.62911
+  },
+  "donburi house|via stampatori, 12|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0723425,
+    "lon": 7.6781982
+  },
+  "duke's - fine casual bar & restaurant|viale parioli, 200|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.9296039,
+    "lon": 12.4859274
+  },
+  "dù cesari|corso regina margherita,252/b|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0842736,
+    "lon": 7.6615129
+  },
+  "dù cesari|via giovanni spano, 16|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0395562,
+    "lon": 7.6562187
+  },
+  "enoteca naturale|via santa croce, 19/a|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4549609,
+    "lon": 9.1829815
+  },
+  "er macellaio|viale aurelio galleppini, 60/66|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.79994,
+    "lon": 12.4248671
+  },
+  "forma|via trieste, 9|civitavecchia": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 42.0936173,
+    "lon": 11.7914145
+  },
+  "gelateria artigianale antonietta cecere|via del lavatore, 84/85|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.901006,
+    "lon": 12.4841473
+  },
+  "gelati miretti|corso giacomo matteotti, 5|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0653688,
+    "lon": 7.6771195
+  },
+  "gelato dok dell'agnese|corso unione sovietica, 415|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0232296,
+    "lon": 7.6364777
+  },
+  "gerla 1927|corso alcide de gasperi, 19/c|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0573207,
+    "lon": 7.6618843
+  },
+  "gerla 1927|corso vittorio emanuele ii, 88|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0663201,
+    "lon": 7.6697408
+  },
+  "gerla 1927|via giuseppe luigi lagrange, 34/h|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0640272,
+    "lon": 7.6813087
+  },
+  "giulio pane e ojo|via lodovico muratori, 10|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4519104,
+    "lon": 9.2048726
+  },
+  "gramigna resistenza culinaria|via flaminia, 60|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.9137258,
+    "lon": 12.4752179
+  },
+  "hygge|via giuseppe sapeto, 3|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.458524,
+    "lon": 9.176572
+  },
+  "il barbabuc|via principe tommaso, 16/a|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0584655,
+    "lon": 7.682003
+  },
+  "il gelato amico|via principi d'acaja, 47|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0730662,
+    "lon": 7.6623188
+  },
+  "il tempo ritrovato|largo sant'anna,snc|formia": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.2557864,
+    "lon": 13.6010052
+  },
+  "il tuo fornaio|via francesco sapori, 35|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.8107947,
+    "lon": 12.483755
+  },
+  "impasto|corso moncalieri, 322/e|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0304108,
+    "lon": 7.6781574
+  },
+  "insieme|via giovanni rasori, 12|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4678228,
+    "lon": 9.162426
+  },
+  "kuxkatan pizzeria e pupuseria|via latina, 134/136|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.8615139,
+    "lon": 12.5359105
+  },
+  "l'osteria di ianus|via amiterno, 70|antrodoco": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 42.4160906,
+    "lon": 13.0790018
+  },
+  "l'ostu del feramiù|via baretti, 20|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0573151,
+    "lon": 7.6817999
+  },
+  "la cucina di lido|corso novara, 35|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0861175,
+    "lon": 7.6944543
+  },
+  "la ferramenta del gusto emiliano|via giuseppe giacosa, 10/a|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0558227,
+    "lon": 7.6784552
+  },
+  "la locanda del bere|via foro appio, 64 - loc. borgo faiti|latina": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.4685836,
+    "lon": 12.9947702
+  },
+  "la locanda del bollito|corso palermo, 22|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0793593,
+    "lon": 7.6928212
+  },
+  "la medina|via tolentino, 1|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4883512,
+    "lon": 9.1604445
+  },
+  "la terrasanta|via vincenzo monti, 11/bis-e|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0487077,
+    "lon": 7.676079
+  },
+  "la villetta|via del porticciolo romano, snc|formia": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.252307,
+    "lon": 13.6754676
+  },
+  "lanificio san salvatore|via sant'anselmo, 30|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0576686,
+    "lon": 7.6804207
+  },
+  "locanda altobelli|via annunziata, 121|terracina": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.2905595,
+    "lon": 13.2504122
+  },
+  "locanda bucarelli|via di san giovanni in laterano, 270|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.8882188,
+    "lon": 12.5004058
+  },
+  "lucky ducky|via dario niccodemi, 112|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.9564538,
+    "lon": 12.5492376
+  },
+  "lumeria|via reggio, 6/c|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0748991,
+    "lon": 7.6951169
+  },
+  "m**bun|corso galileo ferraris, 290|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0405643,
+    "lon": 7.6531122
+  },
+  "m**bun|corso giuseppe siccardi, 8/a|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0716031,
+    "lon": 7.6746755
+  },
+  "m**bun|via urbano rattazzi, 4|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0632719,
+    "lon": 7.6814537
+  },
+  "magazzini oz|via giovanni giolitti, 19/a|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0653537,
+    "lon": 7.6870288
+  },
+  "marchese|via massena, 5|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0631023,
+    "lon": 7.6744518
+  },
+  "marilù fa il gelato|corso cincinnato, 164/a|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0997432,
+    "lon": 7.644308
+  },
+  "marilù fa il gelato|via monferrato, 7/b|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0631533,
+    "lon": 7.7000618
+  },
+  "marilù fa il gelato|via nizza, 92|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0452978,
+    "lon": 7.6721355
+  },
+  "mario l'ostricaro|via appia, km 102|terracina": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.2875146,
+    "lon": 13.2593771
+  },
+  "mater bistrot|via pasquale sottocorno, 1|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4654833,
+    "lon": 9.2077937
+  },
+  "mei shi mei ke|corso francia, 263|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0747317,
+    "lon": 7.6291817
+  },
+  "mei shi mei ke|via luigi cibrario, 9|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0773568,
+    "lon": 7.6673025
+  },
+  "mesté - vino e fornelli|via corrado ii il salico, 12|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.441228,
+    "lon": 9.1903118
+  },
+  "michele chinappi|via abate tosti, 101|formia": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.2586717,
+    "lon": 13.6130068
+  },
+  "mido|via pietro custodi, 4|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4513905,
+    "lon": 9.1819537
+  },
+  "millésime 1990 - sorsi di francia|via raffaello sanzio, 4|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4694574,
+    "lon": 9.1536927
+  },
+  "molo 29|via mario musco, 29/31|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.8495738,
+    "lon": 12.4884921
+  },
+  "mrgda ristorante|via prenestina, 182|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.8921219,
+    "lon": 12.5345071
+  },
+  "nativa|via umberto moricca, 100|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.902393,
+    "lon": 12.4359344
+  },
+  "origine|via corinto, 66|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.8537312,
+    "lon": 12.4753582
+  },
+  "osteria santa lucia|corso della repubblica, 26|frosinone": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.6403468,
+    "lon": 13.3501411
+  },
+  "ovosodo|piazza ottavilla, 8|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.8834705,
+    "lon": 12.4554872
+  },
+  "o|nest|via gerolamo turroni, 2|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4668833,
+    "lon": 9.2224427
+  },
+  "pasticceria passerini dal 1919|via victor hugo, 4|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4638127,
+    "lon": 9.1870487
+  },
+  "pasticceria sabauda|corso casale, 2/c|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0631242,
+    "lon": 7.6992156
+  },
+  "pastificio baretti|via giuseppe baretti,18/e|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.057357,
+    "lon": 7.6816829
+  },
+  "pescheria gallina|piazza della repubblica, 14/b|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0770875,
+    "lon": 7.6851561
+  },
+  "pescheria gallina|via baretti, 25|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0573466,
+    "lon": 7.6820525
+  },
+  "porcobrado|via jacopo dal verme, 17|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4874858,
+    "lon": 9.1881608
+  },
+  "procaccini milano|via giulio cesare procaccini, 33|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4833647,
+    "lon": 9.1704417
+  },
+  "pupillo pura pizza|via cesare battisti, 30|latina": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.4693229,
+    "lon": 12.9042114
+  },
+  "rifugio romano|via volturno, 39/41|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.9048004,
+    "lon": 12.4992866
+  },
+  "ristorante belvedere dal 1933|via regina margherita, 29|frascati": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.8098182,
+    "lon": 12.6807803
+  },
+  "ristorante berton|via mike bongiorno, 13|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4816883,
+    "lon": 9.1947573
+  },
+  "sakelleria|piazza albania, 1|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.879156,
+    "lon": 12.4832979
+  },
+  "sakeya|via cesare da sesto, 1|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4568678,
+    "lon": 9.1736399
+  },
+  "san giors|via borgo dora, 3/a|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0785455,
+    "lon": 7.6844529
+  },
+  "sasà martucci|via romolo gessi, 12|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4591459,
+    "lon": 9.1530422
+  },
+  "siculo|via s. quintino, 31|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0668854,
+    "lon": 7.6705767
+  },
+  "silvano gelato d'altri tempi|via nizza, 142|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0407642,
+    "lon": 7.6703824
+  },
+  "snodo|corso castelfidardo, 22|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0666858,
+    "lon": 7.659651
+  },
+  "sodo|via giambattista bodoni, 5|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0632736,
+    "lon": 7.6846678
+  },
+  "sveglia - pizza in teglia|via taranto, 20|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.8846084,
+    "lon": 12.5144795
+  },
+  "taps|via gaio melisso, 32|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.8661537,
+    "lon": 12.5505976
+  },
+  "te caffè|via sforza pallavicini, 19/25|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.9053069,
+    "lon": 12.4633687
+  },
+  "trattoria a casa di rita|via delle ciliegie, 145|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.8828478,
+    "lon": 12.5753304
+  },
+  "trattoria bon bon|via renato martorelli, 43|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0958987,
+    "lon": 7.6937261
+  },
+  "trattoria coriolano dal 1935|via ancona, 14|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.910328,
+    "lon": 12.5018639
+  },
+  "trattoria enoteca assunta|via pontina km 74,000|latina": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.285121,
+    "lon": 13.1912278
+  },
+  "trattoria sincera|via antonio porpora, 154|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4860193,
+    "lon": 9.2317966
+  },
+  "tratto|via andrea doria, 12|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0638333,
+    "lon": 7.6850959
+  },
+  "tratto|viale dell’aeronautica 67/69|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.8261984,
+    "lon": 12.4769972
+  },
+  "tre galli|via sant'agostino, 25|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0760537,
+    "lon": 7.680766
+  },
+  "tsukiji market|via amerigo vespucci, 7|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4811841,
+    "lon": 9.1927786
+  },
+  "tuorlo - vino e cucina|via sant'agostino, 15/b|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0750995,
+    "lon": 7.6801751
+  },
+  "tut vin|via borgo dora, 12/b|torino": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.0792055,
+    "lon": 7.6832934
+  },
+  "un posto a milano|via cuccagna, 2|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4510544,
+    "lon": 9.2114833
+  },
+  "unica|via emilio morosini, 25|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4588946,
+    "lon": 9.2110091
+  },
+  "urbano pescheria bistrot|piazza buenos aires, 19|roma": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 41.9183959,
+    "lon": 12.5002565
+  },
+  "vasiliki kouzina|via clusone, 5|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4579118,
+    "lon": 9.206671
+  },
+  "velavevodetto|largo bellintani, 1|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4773561,
+    "lon": 9.204312
+  },
+  "velavevodetto|via festa del perdono, 1|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4615339,
+    "lon": 9.1949447
+  },
+  "verso - capitaneo|piazza duomo, 21|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4639102,
+    "lon": 9.1906398
+  },
+  "wau|via cardinale ascanio sforza, 65|milano": {
+    "approssimato": true,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4641943,
+    "lon": 9.1896346
+  },
+  "wineria|piazza carlo caneva, 4|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4882219,
+    "lon": 9.1616662
+  },
+  "yajiri maison|via carlo goldoni 36|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.4692507,
+    "lon": 9.2140239
+  },
+  "zazà ramen|via solferino, 48|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-04",
+    "lat": 45.478949,
+    "lon": 9.1885683
+  }
+}
