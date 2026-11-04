@@ -9,8 +9,8 @@ Uso:
     python mappa/fetch_masters.py
 
 Per aggiungere/cambiare i link:
-1. Su dropbox.com → cartella PNE Simone/Guide → click destro sul file
-   → Condividi → Crea link → Copia link
+1. Su dropbox.com -> cartella PNE Simone/Guide -> click destro sul file
+   -> Condividi -> Crea link -> Copia link
 2. Nel link sostituisci  ?dl=0  con  ?dl=1   (forza il download diretto)
 3. Aggiorna il dict MASTERS qui sotto
 
@@ -22,26 +22,20 @@ import sys
 import urllib.request
 from pathlib import Path
 
-# Mapping nome_file → URL Dropbox (con ?dl=1 a fine URL).
+# Mapping nome_file -> URL Dropbox (con ?dl=1 a fine URL).
 MASTERS = {
-    'Roma_2027.xlsx':   'https://www.dropbox.com/scl/fi/5fr87dee50uha5c19x9ip/Roma_2027.xlsx?rlkey=w1hmltt5hk2in3q5lcquyy36l&st=kr775oxj&dl=1',
-    'Milano_2027.xlsx': 'https://www.dropbox.com/scl/fi/d8tf4nb1m1j1y9eb8201g/Milano_2027.xlsx?rlkey=5m6cy2ugfew8a2y1iostw28ws&st=tpk6x66k&dl=1',
-    'Torino_2027.xlsx': 'https://www.dropbox.com/scl/fi/fhmuui8eiy3jl5r9g1rnd/Torino_2027.xlsx?rlkey=u8tvs9baq7e6ubpzbu5ch8qpd&st=bvzcresn&dl=1',
-
-    # Opzionali: i file "dati 2026 per 2027" che usa la verifica.
-    # Decommentane e configurali se vuoi auto-sync anche per quelli.
-    # 'Roma_dati_2026_per_2027.xlsx':   'TODO_link?dl=1',
-    # 'Milano_dati_2026_per_2027.xlsx': 'TODO_link?dl=1',
-    # 'Torino_dati_2026_per_2027.xlsx': 'TODO_link?dl=1',
+    'Roma_2028.xlsx':   'https://www.dropbox.com/scl/fi/qjc214jsrc16qg0splxby/Roma_2028.xlsx?rlkey=qxmy4cz41lgdax3uvyd8omdy1&dl=1',
+    'Milano_2028.xlsx': 'https://www.dropbox.com/scl/fi/ylgl7jutj1og2rb4abq9u/Milano_2028.xlsx?rlkey=ym8pfrmo9eqef2xtr3tsrk85s&dl=1',
+    'Torino_2028.xlsx': 'https://www.dropbox.com/scl/fi/2ed10dmbejs2cruw2hud2/Torino_2028.xlsx?rlkey=qxqdiyaj5u1awp3tpbtp4nj7b&dl=1',
 }
 
-# Timeout download (Dropbox può essere lento la prima volta)
+# Timeout download (Dropbox puo' essere lento la prima volta)
 TIMEOUT = 60
 
 
 def scarica(nome: str, url: str, dest: Path) -> bool:
     """Scarica un singolo file. Ritorna True se ok, False se errore."""
-    print(f"  {nome} …", end=' ', flush=True)
+    print(f"  {nome} ...", end=' ', flush=True)
     try:
         req = urllib.request.Request(url, headers={
             'User-Agent': 'PNE-fetch-masters/1.0',
@@ -53,9 +47,9 @@ def scarica(nome: str, url: str, dest: Path) -> bool:
         return False
 
     # Sanity check: Dropbox a volte restituisce una pagina HTML invece del file
-    # se il link non è valido. I file xlsx iniziano con la signature ZIP (PK).
+    # se il link non e' valido. I file xlsx iniziano con la signature ZIP (PK).
     if not data[:2] == b'PK':
-        print(f"NON è un file xlsx (forse il link è scaduto o errato)")
+        print(f"NON e' un file xlsx (forse il link e' scaduto o errato)")
         return False
 
     dest.write_bytes(data)
@@ -70,7 +64,7 @@ def main() -> int:
     n_ok, n_skip, n_err = 0, 0, 0
     for nome, url in MASTERS.items():
         if url.startswith('TODO'):
-            print(f"  {nome} … SALTATO (link non configurato)")
+            print(f"  {nome} ... SALTATO (link non configurato)")
             n_skip += 1
             continue
         if scarica(nome, url, base / nome):
@@ -80,8 +74,6 @@ def main() -> int:
 
     print(f"\nRisultato: {n_ok} scaricati, {n_skip} saltati, {n_err} errori")
 
-    # Esce con errore se qualche download è fallito (ma non per i 'saltati'
-    # configurati con TODO, che sono volontari).
     return 1 if n_err else 0
 
 
