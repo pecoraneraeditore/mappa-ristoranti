@@ -31,21 +31,21 @@ jobs:
         run: python mappa/fetch_masters.py
 
       - name: Rigenera dati mappa Roma
-        run: python mappa/genera_mappa.py Roma_2027.xlsx --out docs/data/roma.json --cache mappa/geocode_cache.json --citta-default Roma --regione Lazio
+        run: python mappa/genera_mappa.py Roma_2028.xlsx --out docs/data/roma.json --cache mappa/geocode_cache.json --citta-default Roma --regione Lazio
 
       - name: Rigenera dati mappa Milano
-        if: hashFiles('Milano_2027.xlsx') != ''
-        run: python mappa/genera_mappa.py Milano_2027.xlsx --out docs/data/milano.json --cache mappa/geocode_cache.json --citta-default Milano --regione Lombardia
+        if: hashFiles('Milano_2028.xlsx') != ''
+        run: python mappa/genera_mappa.py Milano_2028.xlsx --out docs/data/milano.json --cache mappa/geocode_cache.json --citta-default Milano --regione Lombardia
 
       - name: Rigenera dati mappa Torino
-        if: hashFiles('Torino_2027.xlsx') != ''
-        run: python mappa/genera_mappa.py Torino_2027.xlsx --out docs/data/torino.json --cache mappa/geocode_cache.json --citta-default Torino --regione Piemonte
+        if: hashFiles('Torino_2028.xlsx') != ''
+        run: python mappa/genera_mappa.py Torino_2028.xlsx --out docs/data/torino.json --cache mappa/geocode_cache.json --citta-default Torino --regione Piemonte
 
       - name: Commit & push aggiornamenti mappa
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add Roma_2027.xlsx Milano_2027.xlsx Torino_2027.xlsx docs/data/*.json mappa/geocode_cache.json 2>/dev/null || true
+          git add Roma_2028.xlsx Milano_2028.xlsx Torino_2028.xlsx docs/data/*.json mappa/geocode_cache.json 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "Nessun cambiamento."
           else
