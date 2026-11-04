@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T22:22:23+00:00",
+  "generated_at": "2026-11-04T22:27:12+00:00",
   "source_file": "Milano_2028.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -311,16 +311,16 @@
     {
       "nome": "Wau",
       "tipologia": "malese",
-      "indirizzo": "Via Cardinale Ascanio Sforza, 65",
+      "indirizzo": "Via Ascanio Sforza, 65",
       "zona": "Navigli",
       "citta": "Milano",
       "telefono": "331/2794987",
       "recensore": "",
       "categoria": "da_fare",
-      "lat": 45.4641943,
-      "lon": 9.1896346,
-      "approssimato": true,
-      "manuale": false,
+      "lat": 45.4449920618344,
+      "lon": 9.17661806665832,
+      "approssimato": false,
+      "manuale": true,
       "geocoded_at": "2026-11-04"
     },
     {
@@ -583,8 +583,8 @@
   "stats": {
     "totale_letti": 36,
     "con_coordinate": 36,
-    "manuali": 0,
-    "approssimati": 1,
+    "manuali": 1,
+    "approssimati": 0,
     "precisi": 35,
     "falliti": 0,
     "con_recensore": 0,
