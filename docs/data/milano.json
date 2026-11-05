@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T22:27:12+00:00",
+  "generated_at": "2026-11-05T07:49:46+00:00",
   "source_file": "Milano_2028.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -321,7 +321,7 @@
       "lon": 9.17661806665832,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-04"
+      "geocoded_at": "2026-11-05"
     },
     {
       "nome": "Yajiri Maison",

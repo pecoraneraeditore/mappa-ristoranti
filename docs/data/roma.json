@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T22:27:12+00:00",
+  "generated_at": "2026-11-05T07:49:46+00:00",
   "source_file": "Roma_2028.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -81,7 +81,7 @@
       "lon": 13.25939272388225,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-04"
+      "geocoded_at": "2026-11-05"
     },
     {
       "nome": "La Perla",
@@ -96,7 +96,7 @@
       "lon": 13.606285625808828,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-04"
+      "geocoded_at": "2026-11-05"
     },
     {
       "nome": "Locanda Altobelli",
@@ -126,7 +126,7 @@
       "lon": 13.166111144621077,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-04"
+      "geocoded_at": "2026-11-05"
     },
     {
       "nome": "Aventina",
@@ -156,7 +156,7 @@
       "lon": 13.83952498668336,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-04"
+      "geocoded_at": "2026-11-05"
     },
     {
       "nome": "De Novo e D'Antico",
@@ -171,7 +171,7 @@
       "lon": 12.914128534051267,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-04"
+      "geocoded_at": "2026-11-05"
     },
     {
       "nome": "Il Giardino",
@@ -186,7 +186,7 @@
       "lon": 13.431396627622997,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-04"
+      "geocoded_at": "2026-11-05"
     },
     {
       "nome": "Il Tempo Ritrovato",
@@ -201,7 +201,7 @@
       "lon": 13.601183808241768,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-04"
+      "geocoded_at": "2026-11-05"
     },
     {
       "nome": "Il Tempo Ritrovato",
@@ -231,7 +231,7 @@
       "lon": 12.633921659316934,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-04"
+      "geocoded_at": "2026-11-05"
     },
     {
       "nome": "La Locanda del Bere",
@@ -261,7 +261,7 @@
       "lon": 13.40640249472946,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-04"
+      "geocoded_at": "2026-11-05"
     },
     {
       "nome": "La Villetta",
@@ -291,7 +291,7 @@
       "lon": 11.603388514188062,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-04"
+      "geocoded_at": "2026-11-05"
     },
     {
       "nome": "Leon d'Oro",
@@ -306,7 +306,7 @@
       "lon": 12.963527058287966,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-04"
+      "geocoded_at": "2026-11-05"
     },
     {
       "nome": "Locanda Bucarelli",
@@ -411,7 +411,7 @@
       "lon": 11.902343389858135,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-04"
+      "geocoded_at": "2026-11-05"
     },
     {
       "nome": "Osteria del Tempo Perso",
@@ -426,7 +426,7 @@
       "lon": 13.713537624096158,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-04"
+      "geocoded_at": "2026-11-05"
     },
     {
       "nome": "Osteria Santa Lucia",
@@ -456,7 +456,7 @@
       "lon": 11.832933159518674,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-04"
+      "geocoded_at": "2026-11-05"
     },
     {
       "nome": "Rifugio Romano",
@@ -561,7 +561,7 @@
       "lon": 12.772112791252264,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-04"
+      "geocoded_at": "2026-11-05"
     },
     {
       "nome": "Osteria al Forno di Agnese",
@@ -576,7 +576,7 @@
       "lon": 12.113497979928281,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-04"
+      "geocoded_at": "2026-11-05"
     },
     {
       "nome": "Trattoria A Casa Di Rita",
@@ -681,7 +681,7 @@
       "lon": 12.51991,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-04"
+      "geocoded_at": "2026-11-05"
     },
     {
       "nome": "Caffè Conti",
@@ -696,7 +696,7 @@
       "lon": 12.647856071662343,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-04"
+      "geocoded_at": "2026-11-05"
     },
     {
       "nome": "Cristalli di Zucchero",
@@ -831,7 +831,7 @@
       "lon": 12.489860861650634,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-04"
+      "geocoded_at": "2026-11-05"
     },
     {
       "nome": "Er Macellaio",
