@@ -665,6 +665,12 @@
     "lat": 45.0632736,
     "lon": 7.6846678
   },
+  "sorelle poma|via antonio porpora, 154|milano": {
+    "approssimato": false,
+    "geocoded_at": "2026-11-06",
+    "lat": 45.4860193,
+    "lon": 9.2317966
+  },
   "sveglia - pizza in teglia|via taranto, 20|roma": {
     "approssimato": false,
     "geocoded_at": "2026-11-04",

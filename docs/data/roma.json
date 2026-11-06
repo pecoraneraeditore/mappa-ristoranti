@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T07:49:46+00:00",
+  "generated_at": "2026-11-06T07:50:10+00:00",
   "source_file": "Roma_2028.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -45,8 +45,8 @@
       "zona": "",
       "citta": "Roma",
       "telefono": "06/66739105",
-      "recensore": "",
-      "categoria": "da_fare",
+      "recensore": "Anca Enache",
+      "categoria": "fatto",
       "lat": 41.8713421,
       "lon": 12.4797185,
       "approssimato": false,
@@ -81,7 +81,7 @@
       "lon": 13.25939272388225,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-05"
+      "geocoded_at": "2026-11-06"
     },
     {
       "nome": "La Perla",
@@ -96,7 +96,7 @@
       "lon": 13.606285625808828,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-05"
+      "geocoded_at": "2026-11-06"
     },
     {
       "nome": "Locanda Altobelli",
@@ -126,7 +126,7 @@
       "lon": 13.166111144621077,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-05"
+      "geocoded_at": "2026-11-06"
     },
     {
       "nome": "Aventina",
@@ -156,7 +156,7 @@
       "lon": 13.83952498668336,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-05"
+      "geocoded_at": "2026-11-06"
     },
     {
       "nome": "De Novo e D'Antico",
@@ -171,7 +171,7 @@
       "lon": 12.914128534051267,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-05"
+      "geocoded_at": "2026-11-06"
     },
     {
       "nome": "Il Giardino",
@@ -186,12 +186,12 @@
       "lon": 13.431396627622997,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-05"
+      "geocoded_at": "2026-11-06"
     },
     {
       "nome": "Il Tempo Ritrovato",
       "tipologia": "principalmente pesce",
-      "indirizzo": "Largo S. Anna",
+      "indirizzo": "Largo S. Anna, snc",
       "zona": "",
       "citta": "Formia",
       "telefono": "333/2602123",
@@ -201,22 +201,7 @@
       "lon": 13.601183808241768,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-05"
-    },
-    {
-      "nome": "Il Tempo Ritrovato",
-      "tipologia": "pesce",
-      "indirizzo": "Largo Sant'Anna,snc",
-      "zona": "",
-      "citta": "Formia",
-      "telefono": "333/2602123",
-      "recensore": "",
-      "categoria": "da_fare",
-      "lat": 41.2557864,
-      "lon": 13.6010052,
-      "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "geocoded_at": "2026-11-06"
     },
     {
       "nome": "La Clessidra",
@@ -231,7 +216,7 @@
       "lon": 12.633921659316934,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-05"
+      "geocoded_at": "2026-11-06"
     },
     {
       "nome": "La Locanda del Bere",
@@ -261,7 +246,7 @@
       "lon": 13.40640249472946,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-05"
+      "geocoded_at": "2026-11-06"
     },
     {
       "nome": "La Villetta",
@@ -291,7 +276,7 @@
       "lon": 11.603388514188062,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-05"
+      "geocoded_at": "2026-11-06"
     },
     {
       "nome": "Leon d'Oro",
@@ -306,7 +291,7 @@
       "lon": 12.963527058287966,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-05"
+      "geocoded_at": "2026-11-06"
     },
     {
       "nome": "Locanda Bucarelli",
@@ -315,8 +300,8 @@
       "zona": "",
       "citta": "Roma",
       "telefono": "06/97087449",
-      "recensore": "",
-      "categoria": "da_fare",
+      "recensore": "Fabrizio Sbicca",
+      "categoria": "da_finire",
       "lat": 41.8882188,
       "lon": 12.5004058,
       "approssimato": false,
@@ -411,7 +396,7 @@
       "lon": 11.902343389858135,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-05"
+      "geocoded_at": "2026-11-06"
     },
     {
       "nome": "Osteria del Tempo Perso",
@@ -426,7 +411,7 @@
       "lon": 13.713537624096158,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-05"
+      "geocoded_at": "2026-11-06"
     },
     {
       "nome": "Osteria Santa Lucia",
@@ -456,7 +441,7 @@
       "lon": 11.832933159518674,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-05"
+      "geocoded_at": "2026-11-06"
     },
     {
       "nome": "Rifugio Romano",
@@ -561,7 +546,7 @@
       "lon": 12.772112791252264,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-05"
+      "geocoded_at": "2026-11-06"
     },
     {
       "nome": "Osteria al Forno di Agnese",
@@ -570,13 +555,13 @@
       "zona": "",
       "citta": "Civita di Bagnoregio",
       "telefono": "0761/792571",
-      "recensore": "",
-      "categoria": "da_fare",
+      "recensore": "Luca Veglianti",
+      "categoria": "fatto",
       "lat": 42.62801832889736,
       "lon": 12.113497979928281,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-05"
+      "geocoded_at": "2026-11-06"
     },
     {
       "nome": "Trattoria A Casa Di Rita",
@@ -681,7 +666,7 @@
       "lon": 12.51991,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-05"
+      "geocoded_at": "2026-11-06"
     },
     {
       "nome": "Caffè Conti",
@@ -696,7 +681,7 @@
       "lon": 12.647856071662343,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-05"
+      "geocoded_at": "2026-11-06"
     },
     {
       "nome": "Cristalli di Zucchero",
@@ -831,7 +816,7 @@
       "lon": 12.489860861650634,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-05"
+      "geocoded_at": "2026-11-06"
     },
     {
       "nome": "Er Macellaio",
@@ -911,18 +896,19 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 58,
-    "con_coordinate": 58,
+    "totale_letti": 57,
+    "con_coordinate": 57,
     "manuali": 19,
     "approssimati": 0,
-    "precisi": 39,
+    "precisi": 38,
     "falliti": 0,
-    "con_recensore": 2,
-    "con_telefono": 58,
+    "con_recensore": 5,
+    "con_telefono": 57,
     "per_categoria": {
-      "da_fare": 48,
+      "fatto": 4,
+      "da_fare": 44,
+      "da_finire": 1,
       "per_editori": 7,
-      "fatto": 2,
       "non_recensibile": 1
     },
     "colonne_rilevate": {

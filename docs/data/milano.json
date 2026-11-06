@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T07:49:46+00:00",
+  "generated_at": "2026-11-06T07:50:12+00:00",
   "source_file": "Milano_2028.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -204,8 +204,8 @@
       "geocoded_at": "2026-11-04"
     },
     {
-      "nome": "Trattoria Sincera",
-      "tipologia": "osteria",
+      "nome": "Sorelle Poma",
+      "tipologia": "trattoria",
       "indirizzo": "Via Antonio Porpora, 154",
       "zona": "Lambrate",
       "citta": "Milano",
@@ -216,7 +216,7 @@
       "lon": 9.2317966,
       "approssimato": false,
       "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "geocoded_at": "2026-11-06"
     },
     {
       "nome": "Velavevodetto",
@@ -321,7 +321,7 @@
       "lon": 9.17661806665832,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-05"
+      "geocoded_at": "2026-11-06"
     },
     {
       "nome": "Yajiri Maison",
