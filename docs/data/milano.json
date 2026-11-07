@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T06:57:59+00:00",
+  "generated_at": "2026-11-07T12:24:46+00:00",
   "source_file": "Milano_2028.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -577,20 +577,35 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-11-04"
+    },
+    {
+      "nome": "Renen Wine",
+      "tipologia": "enoteca con cucina",
+      "indirizzo": "Largo Frà Paolo Bellintani, 2",
+      "zona": "Porta Venezia",
+      "citta": "Milano",
+      "telefono": "02/36532179",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 45.477111353158485,
+      "lon": 9.204819633279937,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-11-07"
     }
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 36,
-    "con_coordinate": 36,
-    "manuali": 1,
+    "totale_letti": 37,
+    "con_coordinate": 37,
+    "manuali": 2,
     "approssimati": 0,
     "precisi": 35,
     "falliti": 0,
     "con_recensore": 0,
-    "con_telefono": 34,
+    "con_telefono": 35,
     "per_categoria": {
-      "da_fare": 31,
+      "da_fare": 32,
       "per_editori": 5
     },
     "colonne_rilevate": {
