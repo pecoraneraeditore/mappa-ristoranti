@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T08:10:46+00:00",
+  "generated_at": "2026-11-10T11:08:54+00:00",
   "source_file": "Torino_2028.xlsx",
   "citta_default": "Torino",
   "regione": "Piemonte",
@@ -154,21 +154,6 @@
       "categoria": "da_fare",
       "lat": 45.0684192,
       "lon": 7.7166228,
-      "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
-    },
-    {
-      "nome": "Il Barbabuc",
-      "tipologia": "tradizionale",
-      "indirizzo": "Via Principe Tommaso, 16/A",
-      "zona": "San Salvario",
-      "citta": "Torino",
-      "telefono": "011/2762804",
-      "recensore": "",
-      "categoria": "da_fare",
-      "lat": 45.0584655,
-      "lon": 7.682003,
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-11-04"
@@ -971,17 +956,17 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 62,
-    "con_coordinate": 62,
+    "totale_letti": 61,
+    "con_coordinate": 61,
     "manuali": 1,
     "approssimati": 0,
-    "precisi": 61,
+    "precisi": 60,
     "falliti": 0,
     "con_recensore": 0,
-    "con_telefono": 62,
+    "con_telefono": 61,
     "per_categoria": {
       "per_editori": 1,
-      "da_fare": 61
+      "da_fare": 60
     },
     "colonne_rilevate": {
       "nome": 4,

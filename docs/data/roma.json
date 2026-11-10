@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T08:10:46+00:00",
+  "generated_at": "2026-11-10T11:08:53+00:00",
   "source_file": "Roma_2028.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -510,8 +510,8 @@
       "zona": "Piazza Fiume",
       "citta": "Roma",
       "telefono": "06/44240959",
-      "recensore": "",
-      "categoria": "da_fare",
+      "recensore": "Fabrizio Sbicca",
+      "categoria": "fatto",
       "lat": 41.910328,
       "lon": 12.5018639,
       "approssimato": false,
@@ -947,11 +947,11 @@
     "approssimati": 0,
     "precisi": 38,
     "falliti": 0,
-    "con_recensore": 9,
+    "con_recensore": 10,
     "con_telefono": 60,
     "per_categoria": {
-      "fatto": 7,
-      "da_fare": 44,
+      "fatto": 8,
+      "da_fare": 43,
       "da_finire": 2,
       "per_editori": 6,
       "non_recensibile": 1
