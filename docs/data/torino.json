@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T08:08:07+00:00",
+  "generated_at": "2026-11-13T07:43:47+00:00",
   "source_file": "Torino_2028.xlsx",
   "citta_default": "Torino",
   "regione": "Piemonte",
@@ -112,6 +112,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-11-04"
+    },
+    {
+      "nome": "Ristorante Massena",
+      "tipologia": "tradizionale con spunti creativi",
+      "indirizzo": "Via Massena, 82/D",
+      "zona": "Porta Nuova",
+      "citta": "Torino",
+      "telefono": "011/5684016",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 45.05434011918822,
+      "lon": 7.668020612244959,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-11-13"
     },
     {
       "nome": "Tratto",
@@ -381,7 +396,7 @@
       "lon": 7.690986168275447,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-12"
+      "geocoded_at": "2026-11-13"
     },
     {
       "nome": "Acqua e Farina",
@@ -667,6 +682,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-11-04"
+    },
+    {
+      "nome": "Quattro",
+      "tipologia": "wine bar con cucina",
+      "indirizzo": "Via delle Tre Galline, 1/N",
+      "zona": "Quadrilatero Romano",
+      "citta": "Torino",
+      "telefono": "350/0137429",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 45.0759321481915,
+      "lon": 7.6819465851395385,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-11-13"
     },
     {
       "nome": "Bar Cavour",
@@ -956,17 +986,17 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 61,
-    "con_coordinate": 61,
-    "manuali": 1,
+    "totale_letti": 63,
+    "con_coordinate": 63,
+    "manuali": 3,
     "approssimati": 0,
     "precisi": 60,
     "falliti": 0,
     "con_recensore": 0,
-    "con_telefono": 61,
+    "con_telefono": 63,
     "per_categoria": {
       "per_editori": 1,
-      "da_fare": 60
+      "da_fare": 62
     },
     "colonne_rilevate": {
       "nome": 4,
