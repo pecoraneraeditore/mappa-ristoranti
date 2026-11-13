@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T07:43:46+00:00",
+  "generated_at": "2026-11-13T07:49:44+00:00",
   "source_file": "Roma_2028.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -136,7 +136,7 @@
       "citta": "Roma",
       "telefono": "06/66594151",
       "recensore": "Fabrizio Sbicca",
-      "categoria": "fatto",
+      "categoria": "da_finire",
       "lat": 41.8789508,
       "lon": 12.483181,
       "approssimato": false,
@@ -950,9 +950,9 @@
     "con_recensore": 11,
     "con_telefono": 60,
     "per_categoria": {
-      "fatto": 9,
+      "fatto": 8,
       "da_fare": 42,
-      "da_finire": 2,
+      "da_finire": 3,
       "per_editori": 6,
       "non_recensibile": 1
     },
