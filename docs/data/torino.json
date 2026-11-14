@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T07:49:44+00:00",
+  "generated_at": "2026-11-14T07:29:42+00:00",
   "source_file": "Torino_2028.xlsx",
   "citta_default": "Torino",
   "regione": "Piemonte",
@@ -126,7 +126,7 @@
       "lon": 7.668020612244959,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-13"
+      "geocoded_at": "2026-11-14"
     },
     {
       "nome": "Tratto",
@@ -396,7 +396,7 @@
       "lon": 7.690986168275447,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-13"
+      "geocoded_at": "2026-11-14"
     },
     {
       "nome": "Acqua e Farina",
@@ -696,7 +696,7 @@
       "lon": 7.6819465851395385,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-13"
+      "geocoded_at": "2026-11-14"
     },
     {
       "nome": "Bar Cavour",
