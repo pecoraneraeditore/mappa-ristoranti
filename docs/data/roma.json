@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T08:30:28+00:00",
+  "generated_at": "2026-11-20T20:03:00+00:00",
   "source_file": "Roma_2028.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -684,6 +684,21 @@
       "geocoded_at": "2026-11-20"
     },
     {
+      "nome": "Diretto Pizza",
+      "tipologia": "pizzeria",
+      "indirizzo": "Via Tarquinio Prisco, 40",
+      "zona": "Appio Latino",
+      "citta": "Roma",
+      "telefono": "06/98875755",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 41.8771432140171,
+      "lon": 12.524187964969805,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
+    },
+    {
       "nome": "Lucky Ducky",
       "tipologia": "pizzeria",
       "indirizzo": "Via Dario Niccodemi, 112",
@@ -784,6 +799,21 @@
       "categoria": "fatto",
       "lat": 41.98504184466939,
       "lon": 12.658494521260268,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
+    },
+    {
+      "nome": "Manis bistrot",
+      "tipologia": "pasticceria / ristorante",
+      "indirizzo": "Via dei Due Ponti, 192 a",
+      "zona": "Tomba di Nerone",
+      "citta": "Roma",
+      "telefono": "379/2995918",
+      "recensore": "",
+      "categoria": "per_editori",
+      "lat": 41.96551795602702,
+      "lon": 12.4526481316904,
       "approssimato": false,
       "manuale": true,
       "geocoded_at": "2026-11-20"
@@ -971,19 +1001,19 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 62,
-    "con_coordinate": 62,
-    "manuali": 25,
+    "totale_letti": 64,
+    "con_coordinate": 64,
+    "manuali": 27,
     "approssimati": 0,
     "precisi": 37,
     "falliti": 0,
     "con_recensore": 15,
-    "con_telefono": 62,
+    "con_telefono": 64,
     "per_categoria": {
       "fatto": 11,
-      "da_fare": 41,
+      "da_fare": 42,
       "da_finire": 4,
-      "per_editori": 5,
+      "per_editori": 6,
       "non_recensibile": 1
     },
     "colonne_rilevate": {
