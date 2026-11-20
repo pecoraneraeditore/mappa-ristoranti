@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T08:17:37+00:00",
+  "generated_at": "2026-11-20T08:30:29+00:00",
   "source_file": "Torino_2028.xlsx",
   "citta_default": "Torino",
   "regione": "Piemonte",
@@ -307,6 +307,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-11-04"
+    },
+    {
+      "nome": "La Piola di Reaglie",
+      "tipologia": "piemontese",
+      "indirizzo": "Corso Chieri, 124",
+      "zona": "Reaglie",
+      "citta": "Torino",
+      "telefono": "379/1448202",
+      "recensore": "",
+      "categoria": "per_editori",
+      "lat": 45.06089863598428,
+      "lon": 7.7395808412875855,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "L'Ostu del Feramiù",
@@ -986,16 +1001,16 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 63,
-    "con_coordinate": 63,
-    "manuali": 3,
+    "totale_letti": 64,
+    "con_coordinate": 64,
+    "manuali": 4,
     "approssimati": 0,
     "precisi": 60,
     "falliti": 0,
     "con_recensore": 0,
-    "con_telefono": 63,
+    "con_telefono": 64,
     "per_categoria": {
-      "per_editori": 1,
+      "per_editori": 2,
       "da_fare": 62
     },
     "colonne_rilevate": {
