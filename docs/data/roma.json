@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T20:03:00+00:00",
+  "generated_at": "2026-11-20T20:50:54+00:00",
   "source_file": "Roma_2028.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -47,11 +47,11 @@
       "telefono": "06/66739105",
       "recensore": "Anca Enache",
       "categoria": "fatto",
-      "lat": 41.8713421,
-      "lon": 12.4797185,
+      "lat": 41.8712180481708,
+      "lon": 12.47970340194892,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Forma",
@@ -62,11 +62,11 @@
       "telefono": "0766/672647",
       "recensore": "",
       "categoria": "da_fare",
-      "lat": 42.0936173,
-      "lon": 11.7914145,
+      "lat": 42.093179512779614,
+      "lon": 11.791671505096023,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Il Picchio",
@@ -107,11 +107,11 @@
       "telefono": "346/8256622",
       "recensore": "",
       "categoria": "da_fare",
-      "lat": 41.2905595,
-      "lon": 13.2504122,
+      "lat": 41.28997753055673,
+      "lon": 13.25126488439471,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Alla Magnatora",
@@ -137,11 +137,11 @@
       "telefono": "06/66594151",
       "recensore": "Fabrizio Sbicca",
       "categoria": "da_finire",
-      "lat": 41.8789508,
-      "lon": 12.483181,
+      "lat": 41.878916116074834,
+      "lon": 12.483140226361677,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Bacchettone e Zazzà",
@@ -242,11 +242,11 @@
       "telefono": "0773/258620",
       "recensore": "",
       "categoria": "da_fare",
-      "lat": 41.4685836,
-      "lon": 12.9947702,
+      "lat": 41.46748534504441,
+      "lon": 12.996106920836409,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "La Locanda del Ditirambo",
@@ -272,11 +272,11 @@
       "telefono": "0771/723113",
       "recensore": "",
       "categoria": "da_fare",
-      "lat": 41.252307,
-      "lon": 13.6754676,
+      "lat": 41.25262814283076,
+      "lon": 13.674452990450922,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Le Murelle",
@@ -317,11 +317,11 @@
       "telefono": "06/97087449",
       "recensore": "Fabrizio Sbicca",
       "categoria": "da_finire",
-      "lat": 41.8882188,
-      "lon": 12.5004058,
+      "lat": 41.88755160514132,
+      "lon": 12.502379428658243,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Locanda del Certosino",
@@ -347,11 +347,11 @@
       "telefono": "335/6151823",
       "recensore": "",
       "categoria": "da_fare",
-      "lat": 42.4160906,
-      "lon": 13.0790018,
+      "lat": 42.4167683247954,
+      "lon": 13.080092449249499,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Mario L'Ostricaro",
@@ -362,11 +362,11 @@
       "telefono": "0773/702461",
       "recensore": "",
       "categoria": "da_fare",
-      "lat": 41.2875146,
-      "lon": 13.2593771,
+      "lat": 41.28803677223509,
+      "lon": 13.260863270865306,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Michele Chinappi",
@@ -377,11 +377,11 @@
       "telefono": "0771/279917",
       "recensore": "Simone Cargiani",
       "categoria": "da_finire",
-      "lat": 41.2586717,
-      "lon": 13.6130068,
+      "lat": 41.25828257100682,
+      "lon": 13.612482607618237,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Molo 29",
@@ -392,11 +392,11 @@
       "telefono": "06/59600651",
       "recensore": "",
       "categoria": "da_fare",
-      "lat": 41.8495738,
-      "lon": 12.4884921,
+      "lat": 41.84887867745113,
+      "lon": 12.487241246055437,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Nativa",
@@ -407,11 +407,11 @@
       "telefono": "06/64008399",
       "recensore": "",
       "categoria": "per_editori",
-      "lat": 41.902393,
-      "lon": 12.4359344,
+      "lat": 41.90245880721128,
+      "lon": 12.435936947604876,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Orsola",
@@ -452,11 +452,11 @@
       "telefono": "0775/211863",
       "recensore": "",
       "categoria": "da_fare",
-      "lat": 41.6403468,
-      "lon": 13.3501411,
+      "lat": 41.64040070487856,
+      "lon": 13.350171522051257,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Parco delle Querce",
@@ -482,11 +482,11 @@
       "telefono": "674880945",
       "recensore": "",
       "categoria": "per_editori",
-      "lat": 41.9048004,
-      "lon": 12.4992866,
+      "lat": 41.90444076750435,
+      "lon": 12.499613428164835,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Ristorante Belvedere dal 1933",
@@ -497,11 +497,11 @@
       "telefono": "06/9419004",
       "recensore": "",
       "categoria": "da_fare",
-      "lat": 41.8098182,
-      "lon": 12.6807803,
+      "lat": 41.8098437385716,
+      "lon": 12.680824017496183,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Tratto",
@@ -512,11 +512,11 @@
       "telefono": "06/5921244",
       "recensore": "",
       "categoria": "da_fare",
-      "lat": 41.8261984,
-      "lon": 12.4769972,
+      "lat": 41.82630764605068,
+      "lon": 12.476376197614385,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Trattoria Coriolano dal 1935",
@@ -527,11 +527,11 @@
       "telefono": "06/44240959",
       "recensore": "Fabrizio Sbicca",
       "categoria": "da_finire",
-      "lat": 41.910328,
-      "lon": 12.5018639,
+      "lat": 41.91030877516577,
+      "lon": 12.501653190235846,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Trattoria Enoteca Assunta",
@@ -542,11 +542,11 @@
       "telefono": "0773/241940",
       "recensore": "",
       "categoria": "da_fare",
-      "lat": 41.285121,
-      "lon": 13.1912278,
+      "lat": 41.438778278951645,
+      "lon": 12.919084950292538,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Urbano Pescheria Bistrot",
@@ -557,11 +557,11 @@
       "telefono": "376/0178634",
       "recensore": "Fabrizio Sbicca",
       "categoria": "fatto",
-      "lat": 41.9183959,
-      "lon": 12.5002565,
+      "lat": 41.91843068638939,
+      "lon": 12.500112487751867,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Il Filo Rosso di Coralli",
@@ -617,11 +617,11 @@
       "telefono": "338/9860960",
       "recensore": "",
       "categoria": "da_fare",
-      "lat": 41.8828478,
-      "lon": 12.5753304,
+      "lat": 41.883829802335185,
+      "lon": 12.574820245413388,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Mrgda Ristorante",
@@ -632,11 +632,11 @@
       "telefono": "329/933355",
       "recensore": "",
       "categoria": "per_editori",
-      "lat": 41.8921219,
-      "lon": 12.5345071,
+      "lat": 41.892148107182514,
+      "lon": 12.534503425708023,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Sakelleria",
@@ -647,11 +647,11 @@
       "telefono": "06/45556974",
       "recensore": "",
       "categoria": "per_editori",
-      "lat": 41.879156,
-      "lon": 12.4832979,
+      "lat": 41.88032295175059,
+      "lon": 12.484362958918965,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Al Setaccio",
@@ -662,11 +662,11 @@
       "telefono": "06/52372056",
       "recensore": "",
       "categoria": "da_fare",
-      "lat": 41.7894595,
-      "lon": 12.4371481,
+      "lat": 41.785794560454626,
+      "lon": 12.432010863834714,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Dica33",
@@ -722,11 +722,11 @@
       "telefono": "352/0640619",
       "recensore": "",
       "categoria": "da_fare",
-      "lat": 41.4693229,
-      "lon": 12.9042114,
+      "lat": 41.469492042153895,
+      "lon": 12.904008685585021,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Santini",
@@ -767,14 +767,14 @@
       "telefono": "06/58230323",
       "recensore": "",
       "categoria": "da_fare",
-      "lat": 41.8693631,
-      "lon": 12.446614,
+      "lat": 41.86932503856137,
+      "lon": 12.446674948086399,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
-      "nome": "Il tuo fornaio",
+      "nome": "Il Tuo Fornaio",
       "tipologia": "bar / pasticceria",
       "indirizzo": "Via Francesco Sapori, 35",
       "zona": "Laurentino",
@@ -782,11 +782,11 @@
       "telefono": "06/5017873",
       "recensore": "",
       "categoria": "da_fare",
-      "lat": 41.8107947,
-      "lon": 12.483755,
+      "lat": 41.811091738882446,
+      "lon": 12.484565620856928,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "La Brocca Bakery",
@@ -827,11 +827,11 @@
       "telefono": "375/7051217",
       "recensore": "Fabrizio Sbicca",
       "categoria": "fatto",
-      "lat": 41.9053069,
-      "lon": 12.4633687,
+      "lat": 41.90546077185238,
+      "lon": 12.463278381262604,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Gramigna Resistenza Culinaria",
@@ -842,11 +842,11 @@
       "telefono": "393/9693795 -333/3918128",
       "recensore": "Andrea Angiolino",
       "categoria": "fatto",
-      "lat": 41.9137258,
-      "lon": 12.4752179,
+      "lat": 41.91387368545939,
+      "lon": 12.475508246414972,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Origine",
@@ -857,26 +857,11 @@
       "telefono": "06/83405656",
       "recensore": "",
       "categoria": "per_editori",
-      "lat": 41.8537312,
-      "lon": 12.4753582,
+      "lat": 41.85374490507954,
+      "lon": 12.475364777341564,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
-    },
-    {
-      "nome": "19.2 Winebar Enoteca",
-      "tipologia": "winebar / caffetteria",
-      "indirizzo": "Largo Benito Jacovitti, 16",
-      "zona": "Torrino",
-      "citta": "Roma",
-      "telefono": "347/4387426",
-      "recensore": "",
-      "categoria": "da_fare",
-      "lat": 41.7994074,
-      "lon": 12.4226887,
-      "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Duke's - Fine Casual Bar & Restaurant",
@@ -887,11 +872,11 @@
       "telefono": "06/80662455",
       "recensore": "",
       "categoria": "da_fare",
-      "lat": 41.9296039,
-      "lon": 12.4859274,
+      "lat": 41.92960592954067,
+      "lon": 12.48583822949093,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Ovosodo",
@@ -902,11 +887,11 @@
       "telefono": "377/8128631",
       "recensore": "",
       "categoria": "da_fare",
-      "lat": 41.8834705,
-      "lon": 12.4554872,
+      "lat": 41.883436410157856,
+      "lon": 12.455628600545493,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Tibibbo",
@@ -932,11 +917,11 @@
       "telefono": "06/52831571",
       "recensore": "",
       "categoria": "da_fare",
-      "lat": 41.79994,
-      "lon": 12.4248671,
+      "lat": 41.79993795256086,
+      "lon": 12.42485177619437,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Taps",
@@ -947,11 +932,11 @@
       "telefono": "370/1411858",
       "recensore": "Vanessa Picena",
       "categoria": "fatto",
-      "lat": 41.8661537,
-      "lon": 12.5505976,
+      "lat": 41.86601608013798,
+      "lon": 12.550595041017301,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Gelateria Artigianale Antonietta Cecere",
@@ -962,11 +947,11 @@
       "telefono": "06/6792060",
       "recensore": "Fabrizio Sbicca",
       "categoria": "fatto",
-      "lat": 41.901006,
-      "lon": 12.4841473,
+      "lat": 41.90112696445669,
+      "lon": 12.484294317991203,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Kuxkatan Pizzeria e Pupuseria",
@@ -977,11 +962,11 @@
       "telefono": "06/5578887",
       "recensore": "Elisa Del Frate",
       "categoria": "fatto",
-      "lat": 41.8615139,
-      "lon": 12.5359105,
+      "lat": 41.87309125204884,
+      "lon": 12.514491203979222,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     },
     {
       "nome": "Sveglia - Pizza in Teglia",
@@ -992,26 +977,26 @@
       "telefono": "n.d.",
       "recensore": "",
       "categoria": "non_recensibile",
-      "lat": 41.8846084,
-      "lon": 12.5144795,
+      "lat": 41.884975877100004,
+      "lon": 12.512420332040685,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-20"
     }
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 64,
-    "con_coordinate": 64,
-    "manuali": 27,
+    "totale_letti": 63,
+    "con_coordinate": 63,
+    "manuali": 63,
     "approssimati": 0,
-    "precisi": 37,
+    "precisi": 0,
     "falliti": 0,
     "con_recensore": 15,
-    "con_telefono": 64,
+    "con_telefono": 63,
     "per_categoria": {
       "fatto": 11,
-      "da_fare": 42,
+      "da_fare": 41,
       "da_finire": 4,
       "per_editori": 6,
       "non_recensibile": 1
