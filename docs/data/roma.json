@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T11:05:16+00:00",
+  "generated_at": "2026-11-22T11:17:04+00:00",
   "source_file": "Roma_2028.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -600,8 +600,8 @@
       "zona": "Tuscolano",
       "citta": "Roma",
       "telefono": "06/71072393",
-      "recensore": "",
-      "categoria": "da_fare",
+      "recensore": "Simone Cargiani",
+      "categoria": "fatto",
       "lat": 41.85628921694182,
       "lon": 12.560791787519987,
       "approssimato": false,
@@ -1022,11 +1022,11 @@
     "approssimati": 0,
     "precisi": 0,
     "falliti": 0,
-    "con_recensore": 17,
+    "con_recensore": 18,
     "con_telefono": 65,
     "per_categoria": {
-      "fatto": 13,
-      "da_fare": 41,
+      "fatto": 14,
+      "da_fare": 40,
       "da_finire": 4,
       "per_editori": 6,
       "non_recensibile": 1
