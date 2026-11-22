@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T07:54:08+00:00",
+  "generated_at": "2026-11-22T11:05:16+00:00",
   "source_file": "Roma_2028.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -624,6 +624,21 @@
       "geocoded_at": "2026-11-22"
     },
     {
+      "nome": "Trattoria La Rustica",
+      "tipologia": "romana",
+      "indirizzo": "Via Bolgheri, 55",
+      "zona": "Borgata Petrelli",
+      "citta": "Roma",
+      "telefono": "06/55261803",
+      "recensore": "",
+      "categoria": "per_editori",
+      "lat": 41.84075267637901,
+      "lon": 12.448387461340266,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-11-22"
+    },
+    {
       "nome": "Mrgda Ristorante",
       "tipologia": "etiope / eritrea",
       "indirizzo": "Via Prenestina, 182",
@@ -849,6 +864,21 @@
       "geocoded_at": "2026-11-22"
     },
     {
+      "nome": "Il Bico Umbro",
+      "tipologia": "panineria",
+      "indirizzo": "Vicolo di Casalotti, 13",
+      "zona": "",
+      "citta": "Roma",
+      "telefono": "392/8374451",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 41.917009567508835,
+      "lon": 12.368606722541779,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-11-22"
+    },
+    {
       "nome": "Origine",
       "tipologia": "coffee specialty / brunch",
       "indirizzo": "Via Corinto, 66",
@@ -986,19 +1016,19 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 63,
-    "con_coordinate": 63,
-    "manuali": 63,
+    "totale_letti": 65,
+    "con_coordinate": 65,
+    "manuali": 65,
     "approssimati": 0,
     "precisi": 0,
     "falliti": 0,
     "con_recensore": 17,
-    "con_telefono": 63,
+    "con_telefono": 65,
     "per_categoria": {
       "fatto": 13,
-      "da_fare": 40,
+      "da_fare": 41,
       "da_finire": 4,
-      "per_editori": 5,
+      "per_editori": 6,
       "non_recensibile": 1
     },
     "colonne_rilevate": {
