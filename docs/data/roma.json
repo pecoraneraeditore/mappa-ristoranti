@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T08:50:00+00:00",
+  "generated_at": "2026-11-23T09:04:10+00:00",
   "source_file": "Roma_2028.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -609,6 +609,21 @@
       "geocoded_at": "2026-11-23"
     },
     {
+      "nome": "Picchiapò e Scottadito",
+      "tipologia": "romana",
+      "indirizzo": "Piazza delle Camelie, 25",
+      "zona": "Centocelle",
+      "citta": "Roma",
+      "telefono": "329/8549030",
+      "recensore": "",
+      "categoria": "da_fare",
+      "lat": 41.87597785509415,
+      "lon": 12.563564348336344,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-11-23"
+    },
+    {
       "nome": "Trattoria A Casa Di Rita",
       "tipologia": "romana",
       "indirizzo": "Via delle Ciliegie, 145",
@@ -1016,17 +1031,17 @@
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 65,
-    "con_coordinate": 65,
-    "manuali": 65,
+    "totale_letti": 66,
+    "con_coordinate": 66,
+    "manuali": 66,
     "approssimati": 0,
     "precisi": 0,
     "falliti": 0,
     "con_recensore": 18,
-    "con_telefono": 65,
+    "con_telefono": 66,
     "per_categoria": {
       "fatto": 14,
-      "da_fare": 40,
+      "da_fare": 41,
       "da_finire": 4,
       "per_editori": 6,
       "non_recensibile": 1
