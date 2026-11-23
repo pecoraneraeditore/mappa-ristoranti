@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T11:17:04+00:00",
+  "generated_at": "2026-11-23T08:50:00+00:00",
   "source_file": "Milano_2028.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -64,21 +64,6 @@
       "categoria": "da_fare",
       "lat": 45.4639102,
       "lon": 9.1906398,
-      "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
-    },
-    {
-      "nome": "Insieme",
-      "tipologia": "tradizionale con spunti creativi",
-      "indirizzo": "Via Giovanni Rasori, 12",
-      "zona": "Conciliazione",
-      "citta": "Milano",
-      "telefono": "391/7182416",
-      "recensore": "",
-      "categoria": "da_fare",
-      "lat": 45.4678228,
-      "lon": 9.162426,
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-11-04"
@@ -321,7 +306,7 @@
       "lon": 9.17661806665832,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-22"
+      "geocoded_at": "2026-11-23"
     },
     {
       "nome": "Yajiri Maison",
@@ -591,21 +576,21 @@
       "lon": 9.204819633279937,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-22"
+      "geocoded_at": "2026-11-23"
     }
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 37,
-    "con_coordinate": 37,
+    "totale_letti": 36,
+    "con_coordinate": 36,
     "manuali": 2,
     "approssimati": 0,
-    "precisi": 35,
+    "precisi": 34,
     "falliti": 0,
     "con_recensore": 0,
-    "con_telefono": 35,
+    "con_telefono": 34,
     "per_categoria": {
-      "da_fare": 32,
+      "da_fare": 31,
       "per_editori": 5
     },
     "colonne_rilevate": {
