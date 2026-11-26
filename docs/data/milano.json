@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:42:38+00:00",
+  "generated_at": "2026-11-26T08:28:58+00:00",
   "source_file": "Milano_2028.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -67,6 +67,21 @@
       "approssimato": false,
       "manuale": false,
       "geocoded_at": "2026-11-04"
+    },
+    {
+      "nome": "Caffè del Lupo",
+      "tipologia": "tradizionale con spunti creativi",
+      "indirizzo": "Via Francesco Albani, 57",
+      "zona": "Lotto",
+      "citta": "Milano",
+      "telefono": "02/39217821",
+      "recensore": "Simone Cargiani",
+      "categoria": "fatto",
+      "lat": 45.4817410428256,
+      "lon": 9.144942105324176,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-11-26"
     },
     {
       "nome": "Mater Bistrot",
@@ -306,7 +321,7 @@
       "lon": 9.17661806665832,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-25"
+      "geocoded_at": "2026-11-26"
     },
     {
       "nome": "Yajiri Maison",
@@ -315,13 +330,13 @@
       "zona": "Piazza Tricolore",
       "citta": "Milano",
       "telefono": "351/3172407",
-      "recensore": "",
-      "categoria": "per_editori",
-      "lat": 45.4692507,
-      "lon": 9.2140239,
+      "recensore": "Fernanda D'Arienzo",
+      "categoria": "fatto",
+      "lat": 45.46916392601966,
+      "lon": 9.213508145807102,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-26"
     },
     {
       "nome": "Zazà Ramen",
@@ -330,13 +345,13 @@
       "zona": "Brera",
       "citta": "Milano",
       "telefono": "02/36799000",
-      "recensore": "",
-      "categoria": "da_fare",
-      "lat": 45.478949,
-      "lon": 9.1885683,
+      "recensore": "Vanessa Picena",
+      "categoria": "fatto",
+      "lat": 45.47899344624456,
+      "lon": 9.188621649646976,
       "approssimato": false,
-      "manuale": false,
-      "geocoded_at": "2026-11-04"
+      "manuale": true,
+      "geocoded_at": "2026-11-26"
     },
     {
       "nome": "Sasà Martucci",
@@ -576,22 +591,23 @@
       "lon": 9.204819633279937,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-25"
+      "geocoded_at": "2026-11-26"
     }
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 36,
-    "con_coordinate": 36,
-    "manuali": 2,
+    "totale_letti": 37,
+    "con_coordinate": 37,
+    "manuali": 5,
     "approssimati": 0,
-    "precisi": 34,
+    "precisi": 32,
     "falliti": 0,
-    "con_recensore": 0,
-    "con_telefono": 34,
+    "con_recensore": 3,
+    "con_telefono": 35,
     "per_categoria": {
-      "da_fare": 31,
-      "per_editori": 5
+      "da_fare": 30,
+      "fatto": 3,
+      "per_editori": 4
     },
     "colonne_rilevate": {
       "nome": 4,
