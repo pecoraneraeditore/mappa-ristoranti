@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T09:19:04+00:00",
+  "generated_at": "2026-11-27T09:33:36+00:00",
   "source_file": "Milano_2028.xlsx",
   "citta_default": "Milano",
   "regione": "Lombardia",
@@ -81,7 +81,7 @@
       "lon": 9.144942105324176,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-26"
+      "geocoded_at": "2026-11-27"
     },
     {
       "nome": "Mater Bistrot",
@@ -321,7 +321,7 @@
       "lon": 9.17661806665832,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-26"
+      "geocoded_at": "2026-11-27"
     },
     {
       "nome": "Yajiri Maison",
@@ -336,7 +336,7 @@
       "lon": 9.213508145807102,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-26"
+      "geocoded_at": "2026-11-27"
     },
     {
       "nome": "Zazà Ramen",
@@ -351,7 +351,7 @@
       "lon": 9.188621649646976,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-26"
+      "geocoded_at": "2026-11-27"
     },
     {
       "nome": "Sasà Martucci",
@@ -591,7 +591,7 @@
       "lon": 9.204819633279937,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-26"
+      "geocoded_at": "2026-11-27"
     }
   ],
   "geocoding_failed": [],
