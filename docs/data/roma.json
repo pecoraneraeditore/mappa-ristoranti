@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T09:33:36+00:00",
+  "generated_at": "2026-11-28T08:47:05+00:00",
   "source_file": "Roma_2028.xlsx",
   "citta_default": "Roma",
   "regione": "Lazio",
@@ -51,7 +51,7 @@
       "lon": 12.47970340194892,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Forma",
@@ -66,7 +66,7 @@
       "lon": 11.791671505096023,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Il Picchio",
@@ -81,7 +81,7 @@
       "lon": 13.25939272388225,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "La Perla",
@@ -96,7 +96,7 @@
       "lon": 13.606285625808828,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Locanda Altobelli",
@@ -111,7 +111,7 @@
       "lon": 13.25126488439471,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Alla Magnatora",
@@ -126,7 +126,7 @@
       "lon": 13.166111144621077,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Aventina",
@@ -141,7 +141,7 @@
       "lon": 12.483140226361677,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Bacchettone e Zazzà",
@@ -156,7 +156,7 @@
       "lon": 13.83952498668336,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "De Novo e D'Antico",
@@ -171,7 +171,7 @@
       "lon": 12.914128534051267,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Il Giardino",
@@ -186,7 +186,7 @@
       "lon": 13.431396627622997,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Il Tempo Ritrovato",
@@ -201,7 +201,7 @@
       "lon": 13.601183808241768,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "La Brica",
@@ -216,7 +216,7 @@
       "lon": 12.501989933426334,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "La Clessidra",
@@ -231,7 +231,7 @@
       "lon": 12.633921659316934,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "La Locanda del Bere",
@@ -246,7 +246,7 @@
       "lon": 12.996106920836409,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "La Locanda del Ditirambo",
@@ -261,7 +261,22 @@
       "lon": 13.40640249472946,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
+    },
+    {
+      "nome": "La Taverna dei Fori Imperiali",
+      "tipologia": "tradizionale",
+      "indirizzo": "Via della Madonna dei Monti, 9",
+      "zona": "Monti",
+      "citta": "Roma",
+      "telefono": "06/6798643",
+      "recensore": "Anca Enache",
+      "categoria": "fatto",
+      "lat": 41.89403853927213,
+      "lon": 12.488487187748026,
+      "approssimato": false,
+      "manuale": true,
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "La Villetta",
@@ -276,7 +291,7 @@
       "lon": 13.674452990450922,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Le Murelle",
@@ -291,7 +306,7 @@
       "lon": 11.603388514188062,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Leon d'Oro",
@@ -306,7 +321,7 @@
       "lon": 12.963527058287966,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Locanda Bucarelli",
@@ -321,7 +336,7 @@
       "lon": 12.502379428658243,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Locanda del Certosino",
@@ -336,7 +351,7 @@
       "lon": 13.367864497002419,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "L'Osteria di Ianus",
@@ -351,7 +366,7 @@
       "lon": 13.080092449249499,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Mario L'Ostricaro",
@@ -366,7 +381,7 @@
       "lon": 13.260863270865306,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Michele Chinappi",
@@ -381,7 +396,7 @@
       "lon": 13.612482607618237,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Molo 29",
@@ -396,7 +411,7 @@
       "lon": 12.487241246055437,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Nativa",
@@ -411,7 +426,7 @@
       "lon": 12.435936947604876,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Orsola",
@@ -426,7 +441,7 @@
       "lon": 11.902343389858135,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Osteria del Tempo Perso",
@@ -441,7 +456,7 @@
       "lon": 13.713537624096158,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Osteria Santa Lucia",
@@ -456,7 +471,7 @@
       "lon": 13.350171522051257,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Parco delle Querce",
@@ -471,7 +486,7 @@
       "lon": 11.832933159518674,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Rifugio Romano",
@@ -486,7 +501,7 @@
       "lon": 12.499613428164835,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Ristorante Belvedere dal 1933",
@@ -501,7 +516,7 @@
       "lon": 12.680824017496183,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Tratto",
@@ -516,7 +531,7 @@
       "lon": 12.476376197614385,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Trattoria Coriolano dal 1935",
@@ -531,7 +546,7 @@
       "lon": 12.501653190235846,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Trattoria Enoteca Assunta",
@@ -546,7 +561,7 @@
       "lon": 12.919084950292538,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Urbano Pescheria Bistrot",
@@ -561,7 +576,7 @@
       "lon": 12.500112487751867,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Il Filo Rosso di Coralli",
@@ -576,7 +591,7 @@
       "lon": 12.772112791252264,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Osteria al Forno di Agnese",
@@ -591,7 +606,7 @@
       "lon": 12.113497979928281,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Osteria Atipika",
@@ -606,7 +621,7 @@
       "lon": 12.560791787519987,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Picchiapò e Scottadito",
@@ -621,7 +636,7 @@
       "lon": 12.563564348336344,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Trattoria A Casa Di Rita",
@@ -636,7 +651,7 @@
       "lon": 12.574820245413388,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Trattoria La Rustica",
@@ -651,7 +666,7 @@
       "lon": 12.448387461340266,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Mrgda Ristorante",
@@ -666,7 +681,7 @@
       "lon": 12.534503425708023,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Sakelleria",
@@ -681,7 +696,7 @@
       "lon": 12.484362958918965,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Al Setaccio",
@@ -696,7 +711,7 @@
       "lon": 12.432010863834714,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Dica33",
@@ -711,7 +726,7 @@
       "lon": 12.420044806474543,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Diretto Pizza",
@@ -726,7 +741,7 @@
       "lon": 12.524187964969805,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Lucky Ducky",
@@ -741,7 +756,7 @@
       "lon": 12.550000491661443,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Pupillo Pura Pizza",
@@ -756,7 +771,7 @@
       "lon": 12.904008685585021,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Santini",
@@ -771,7 +786,7 @@
       "lon": 12.51991,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Caffè Conti",
@@ -786,7 +801,7 @@
       "lon": 12.647856071662343,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Cristalli di Zucchero",
@@ -801,7 +816,7 @@
       "lon": 12.446674948086399,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Il Tuo Fornaio",
@@ -816,7 +831,7 @@
       "lon": 12.484565620856928,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "La Brocca Bakery",
@@ -831,7 +846,7 @@
       "lon": 12.658494521260268,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Manis bistrot",
@@ -846,7 +861,7 @@
       "lon": 12.4526481316904,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "TE Caffè",
@@ -861,7 +876,7 @@
       "lon": 12.463278381262604,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Gramigna Resistenza Culinaria",
@@ -876,7 +891,7 @@
       "lon": 12.475508246414972,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Il Bico Umbro",
@@ -891,7 +906,7 @@
       "lon": 12.368606722541779,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Origine",
@@ -906,7 +921,7 @@
       "lon": 12.475364777341564,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Duke's - Fine Casual Bar & Restaurant",
@@ -921,7 +936,7 @@
       "lon": 12.48583822949093,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Ovosodo",
@@ -936,7 +951,7 @@
       "lon": 12.455628600545493,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Tibibbo",
@@ -951,7 +966,7 @@
       "lon": 12.489860861650634,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Er Macellaio",
@@ -966,7 +981,7 @@
       "lon": 12.42485177619437,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Taps",
@@ -981,7 +996,7 @@
       "lon": 12.550595041017301,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Gelateria Artigianale Antonietta Cecere",
@@ -996,7 +1011,7 @@
       "lon": 12.484294317991203,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Kuxkatan Pizzeria e Pupuseria",
@@ -1011,7 +1026,7 @@
       "lon": 12.514491203979222,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     },
     {
       "nome": "Sveglia - Pizza in Teglia",
@@ -1026,21 +1041,21 @@
       "lon": 12.512420332040685,
       "approssimato": false,
       "manuale": true,
-      "geocoded_at": "2026-11-27"
+      "geocoded_at": "2026-11-28"
     }
   ],
   "geocoding_failed": [],
   "stats": {
-    "totale_letti": 66,
-    "con_coordinate": 66,
-    "manuali": 66,
+    "totale_letti": 67,
+    "con_coordinate": 67,
+    "manuali": 67,
     "approssimati": 0,
     "precisi": 0,
     "falliti": 0,
-    "con_recensore": 18,
-    "con_telefono": 66,
+    "con_recensore": 19,
+    "con_telefono": 67,
     "per_categoria": {
-      "fatto": 14,
+      "fatto": 15,
       "da_fare": 41,
       "da_finire": 4,
       "per_editori": 6,
